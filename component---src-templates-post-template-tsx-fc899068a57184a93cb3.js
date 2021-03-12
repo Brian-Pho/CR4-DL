@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{Govg:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),r=a("B7F5"),s=a("KuAE"),u=a("3xs3");t.default=function(e){var t=e.data,a=e.pageContext,n=t.markdownRemark,c=a.previous,l=a.next;return o.a.createElement(r.a,{activePage:"Notes",article:!0},o.a.createElement(s.a,{post:n,previous:c,next:l}),n.tableOfContents?o.a.createElement(u.a,null):null)}}}]);
+//# sourceMappingURL=component---src-templates-post-template-tsx-fc899068a57184a93cb3.js.map

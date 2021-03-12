@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{"2l/u":function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),r=t.n(n),u=t("B7F5"),c=t("Wbzz"),o=t("3xs3"),s=t("KuAE");a.default=function(){var e=Object(c.useStaticQuery)("1054882742").markdownRemark;return r.a.createElement(u.a,{activePage:"About"},r.a.createElement(s.a,{post:e}),r.a.createElement(o.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-576dabe5eede0e4797d1.js.map
