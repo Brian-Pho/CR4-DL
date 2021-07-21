@@ -17,7 +17,7 @@ I plan to read the following textbooks and books. This list will be updated as m
 - _Vision Science - Photons to Phenomenology
 - Biophysics of Computation - Information Processing in Single Neurons
 - Vision - A Computational Investigation into the Human Representation and Processing of Visual Information
-- Principles of Neural Science (5th Ed.)
+- Principles of Neural Science (6th Ed.)
 - Language in Our Brain - The Origins of a Uniquely Human Capacity
 - Open MIND - philosophy and the mind sciences in the 21st century
 - The Neuroscience of Intelligence
@@ -53,7 +53,6 @@ I plan to read the following textbooks and books. This list will be updated as m
 - Consciousness Explained
 - The Brain That Changes Itself
 - The Man Who Mistook His Wife for a Hat
-- Your Brain Is a Time Machine
 - Biology's First Law: The Tendency for Diversity and Complexity to Increase in Evolutionary Systems
 - Darwin's on the Origin of Species: A Modern Rendition
 - The Blind Watchmaker
@@ -67,5 +66,4 @@ I plan to read the following textbooks and books. This list will be updated as m
 
 ### Other
 
-- The Secret of Our Success
 - Code: The Hidden Language of Computer Hardware and Software
