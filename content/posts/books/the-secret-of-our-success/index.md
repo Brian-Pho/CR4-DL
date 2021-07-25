@@ -107,6 +107,7 @@ excerpt: "How culture is driving human evolution, domesticating our species, and
 - The interaction between cultural and genetic evolution resulted in a runaway positive feedback where accumulating cultural information selected for individuals with strong psychological abilities to acquire, store, and process this collection of information.
 - As genetic evolution improved our brains, cultural evolution pushed for more and better cultural adaptations, which pressured the brain to get better at acquiring and storing this cultural information.
 - There's no turning back because if you don't focus on cultural learning, you lose to those who do.
+
 | **Culturally transmitted selection pressure** | **Definition**                                                     | **Coevolved genetic consequences**                                                                                                                                                                                          | **Other implications**                                                                                              |
 | --------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | Cumulative culture                            | Accumulating body of cultural knowledge create dependence          | Specialized cultural learning abilities for selectively acquiring adaptive information form others. Long childhoods and larger brains prepared for cultural learning and practice with extensive brain wiring over decades. | Selection pressure for greater sociality. Difficult childbirth due to oversized heads. Demands for more child care. |
@@ -227,6 +228,7 @@ excerpt: "How culture is driving human evolution, domesticating our species, and
 - To understand prestige as a social phenomenon, we have to realize that it's often difficult to figure out what makes someone successful.
 - Prestige is a form of status psychology and is linked to our dominance psychology that was inherited from our primate ancestors.
 - Because of culture-gene coevolution, we posses two distinct forms of social status: dominance and prestige.
+
 | **Status Feature**                   | **Dominance**                                                        | **Prestige**                                                                |
 | ------------------------------------ | -------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | Influence                            | Based on coercion and threat                                         | True persuasion and deferential agreement                                   |

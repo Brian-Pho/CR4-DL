@@ -75,6 +75,7 @@ A list of resources and people in artificial intelligence and neuroscience resea
 - Bernard J Baars (consciousness)
 - Christof Koch (consciousness)
 - Giulio Tononi (consciousness)
+- Stanislas Dehaene (consciousness)
 - Jeff Hawkins (neocortical theory)
 - Sebastian Seung (connectome)
 - Jeff Lichtman (connectome)
@@ -89,6 +90,7 @@ A list of resources and people in artificial intelligence and neuroscience resea
 - Mike Davies (neuromorphic)
 - Daniel Kahneman (thinking fast and slow)
 - Markus Meister (neural circuits)
+- Terrence Sejnowski (computational)
 
 ### Journals
 

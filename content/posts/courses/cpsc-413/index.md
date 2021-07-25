@@ -461,9 +461,9 @@ f = ad + bc = s + t
     - Output
         - Fill knapsack with as valuable load as possible (not overfill)
     - Example
-        - (w=10, $25), (w=15, $30), (w=20, $80), (w=30, $100)
+        - (w=10, \$25), (w=15, \$30), (w=20, \$80), (w=30, \$100)
         - Knapsack of size 45
-        - An optimal solution: $$\{1, 2, 3\}$$. The optimal value: $135
+        - An optimal solution: $$\{1, 2, 3\}$$. The optimal value: \$135
     - Solution
         - Either we pick item n
             - The knapsack capacity changes. Remaining capacity is $$W - w_n$$ where $$W$$ is the knapsack capacity before we chose n. If it doesn’t fit then don’t consider it.
