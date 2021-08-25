@@ -7,7 +7,7 @@ categories:
 excerpt: "A list of resources and people in artificial intelligence and neuroscience research."
 ---
 
-A list of resources and people in artificial intelligence and neuroscience research.
+A list of resources and people in artificial intelligence and neuroscience research that I follow.
 
 ## Artificial Intelligence
 
@@ -30,6 +30,7 @@ A list of resources and people in artificial intelligence and neuroscience resea
 - Ben Goertzel (opencog)
 - Pei Wang (non-axiomatic reasoning system)
 - Andrew Ng (ai education, coursera)
+- François Chollet (deep learning, agi)
 
 ### Journals
 
@@ -68,7 +69,6 @@ A list of resources and people in artificial intelligence and neuroscience resea
 
 ### People
 
-- Chris Eliasmith (theoretical neuroscience)
 - Romain Brette (theoretical neuroscience)
 - Anil Seth (consciousness)
 - Antonio Damasio (consciousness)
@@ -88,6 +88,7 @@ A list of resources and people in artificial intelligence and neuroscience resea
 - Giacomo Indiveri (neuromorphic)
 - Kwabena Boahen (neuromorphic)
 - Mike Davies (neuromorphic)
+- Chris Eliasmith (theoretical neuroscience, neuromorphic)
 - Daniel Kahneman (thinking fast and slow)
 - Markus Meister (neural circuits)
 - Terrence Sejnowski (computational)
@@ -119,6 +120,7 @@ A list of resources and people in artificial intelligence and neuroscience resea
 
 ## General
 
-- Sam Harris (ai ethics)
+- Sam Harris (ai ethics, philosophy)
 - Nick Bostrom (ai ethics, future of humanity, philosophy)
 - Thomas Kuhn (philosophy of science, the structure of scientific revolutions)
+- K. Anders Ericsson (psychology of expertise, deliberate practice)

@@ -7,7 +7,7 @@ categories:
 excerpt: "My questions about the brain."
 ---
 
-The following is a list of question about the brain that I don't know the answer to. I hope to someday answer every question on this list.
+The following is a list of questions about the brain that I don't know the answer to. I hope to someday answer every question on this list.
 
 ## Unsolved Questions
 
@@ -40,6 +40,10 @@ The following is a list of question about the brain that I don't know the answer
     - Maybe the subjective experience of a sense is determined by the structure of the data.
     - Maybe the pathway the information takes determines the experience; the meaning of the signal.
     - As long as there is clear structure to the data and a feedback loop, the data should give rise to new qualia.
+- Most nuclei of the thalamus receive prominent return projections from the cerebral cortex, and the significance of these projections is one of the unsolved mysteries of neuroscience.
+- Where does the initiation of movement start?
+- What is consciousness?
+- Why is red red and not a different color?
 
 ## Solved Questions
 
@@ -65,5 +69,5 @@ The following is a list of question about the brain that I don't know the answer
 
 - Is LTP expressed presynaptically or postsynaptically?
     - I know the consensus is postsynaptically, but I want to know how they got this answer.
-- What's the purpose of the brain ventricle?
+- What's the purpose of brain ventricles?
 - I'm very skeptical of grid and place cells. Do they actually exist? What purpose do they serve? What other theory could explain the data?

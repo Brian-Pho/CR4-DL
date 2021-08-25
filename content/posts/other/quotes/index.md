@@ -14,7 +14,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Life is wasted on the living.
 - Live and let live.
 - Many people die at twenty five and aren’t buried until they are seventy five.
-- Blink. And then it's over. - **Slander & William Black, Back To U**
+- Blink, and then it's over. - **Slander & William Black, Back To U**
 - The days are long, but the years are short.
 - Life is too short to not be pursuing the best opportunity you know of.
 - Get busy living or get busy dying.
@@ -41,6 +41,9 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Sometimes I feel my bones straining under the weight of all the lives I'm not living.
 - That dwelling in the past only wastes your present and shortens your future.
 - One of the hardest decisions you'll ever face in life is choosing whether to walk away or try harder. - **Ziad Abdelnour**
+- The dead escape death in heaven, and the living escape life in dreams. - **Iain M. Banks, Look to Windward**
+- But the impression was very much that you'd better have an unimpeachable reason for showing up at the gates of paradise with your own blood on your hands. - **Iain M. Banks, Look to Windward**
+- The more focused you were on the activity, the less focused you were on everything else. You kind of stopped being you and became the thing you were doing. - **Matt Haig, The Midnight Library**
 
 ## Science
 
@@ -66,6 +69,12 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Computer science actually began with its 'theory of everything'.
 - When you are famous it is hard to work on small problems. This is what did Shannon in. After information theory, what do you do for an encore? The great scientists often make this error. They fail to continue to plant the little acorns from which the mighty oak trees grow. They try to get the big thing right off. And that isn't the way things go. So that is another reason why you find that when you get early recognition it seems to sterilize you. - **Richard Hamming**
 - What we know is a drop, what we don't know is an ocean. - **Issac Newton**
+- You know how powerful science can be. A thousand years to climb from ghosts and magic to technology; a day and a half from technology back up to ghosts and magic. - **Peter Watts, Firefall**
+- But in all cases communication is about projecting information. Man is the only animal that uses an intermediary form for communication, something static that forms a kind of intellectual echo, whether that's a book or text on a computer screen, art hanging in a gallery or a play shown on the television, the principle is the same. The act of capturing communication, storing it and reusing it is a hallmark of intelligence, and I think they'll appreciate that. - **Peter Cawdron, Anomaly**
+- Could we do this? Portia echoes the past question from Zaine and, to herself, admits that they could not. And yet we have come to them, not they to us. Always better to be the explorer than the explored. - **Adrian Tchaikovsky, Children of Ruin**
+- Senkovi’s personal theory was that the pressure of being in the middle of the food chain was an essential prerequisite for complex intelligence. Like humans (and like Portiid spiders, had he only known), octopuses had developed in a world where they were both hunter and hunted. Top predators, in Senkovi’s assessment, were an intellectual dead end. - **Adrian Tchaikovsky, Children of Ruin**
+- She understands, in a real and immediate way, how she stands on the backs of giants, and that her own back, too, will be strong enough to bear the weight of many generations to come. - **Adrian Tchaikovsky, Children of Time**
+- And part of the reason you are able to contribute so significantly to this project is that you are not burdened by unnecessary knowledge. Some of it might help you, I agree, but some of it would also narrow your options, steer your thoughts in one particular direction, prevent you from seeing all there is to see. Since I cannot know which information would hinder your thought processes, I find it best to provide you only with what you really need to know. - **Sylvain Neuvel, Sleeping Giants**
 
 ### Neuroscience
 
@@ -81,6 +90,10 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - We don't live in a world of reality but in a world of perceptions.
 - Of the entire range of the electromagnetic spectrum, the unaided human eye could see little more than one percent: a single octave of radiation out of an immense long keyboard of tones.
 - The brain is the last and grandest biological frontier, the most complex thing we have yet discovered in our universe. It contains hundreds of billions of cells interlinked through trillions of connections. The brain boggles the mind. - **James Watson**
+- Change the eyes that look at the world, change the me does the looking? - **Peter Watts, Firefall**
+- [Direct stimulation of the visual cortex to induce hallucinations] That's how you can tell it wasn't. Since you don't actually see it, there's no messy eyeball optics to limit resolution. - **Peter Watts, Firefall**
+- Neurons only speak when spoken to; they don’t know why. - **Peter Watts, Firefall**
+- There is no red or green,” said Teller. “All the colors we see are artificial; they're constructs of the mind. This beautiful rainbow of colors you see here on these felt-pens is, in reality, different shades of gray. - **Peter Cawdron, Anomaly**
 
 ### Artificial Intelligence
 
@@ -93,6 +106,8 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Any A.I. smart enough to pass a Turing test is smart enough to know to fail it.
 - The robots declared us “artificially intelligent”.
 - To erase the line between man and machine is to obscure the line between men and gods.
+- To build a machine smarter than you, it has to be more complex than you—and the ability to understand the machine begins to slip away. - **David Eagleman, Sum**
+- An electronic computer is also made up of matter, but organised differently; what is there so magical about the workings of the huge, slow cells of the animal brain that they can claim themselves to be conscious, but would deny a quicker, more finely-grained device of equivalent power - or even a machine hobbled so that it worked with precisely the same ponderous-ness - a similar distinction? - **Iain M. Banks, Use of Weapons**
 
 ## Dreams
 
@@ -155,6 +170,10 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - I want to know who they were, help them be who they are, and be there for who they will be.
 - These mountains that you are carrying, you were only supposed to climb. - **Najwa Zebian**
 - Some people die at 25 and aren't buried until 75. - **Benjamin Franklin**
+- Each time you do something generous, you’re shaping yourself into someone who’s more likely to be generous next time, and that matters. - **Ted Chiang, Exhalation**
+- They're artists of information, and each data point adds a bit more pigment to their accumulating portrait of you. - **David Eagleman, Sum**
+- The knowledge that you cannot appreciate the destination without knowing the starting point. - **David Eagleman, Sum**
+- We are what we do, not what we think. - **Iain M. Banks, The Player of Games**
 
 ## Mastery
 
@@ -192,6 +211,8 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - We don't rise to the level of our expectations, we fall to the level of our training.
 - The best exercise for gaining strength is not missing workouts. - **James Clear**
 - Not everyone who works hard is rewarded, however all those who succeed have worked hard! - **Hajime no Ippo**
+- Too many people mistake speed for productivity. Sometimes, it’s more productive to slow things down. - **Peter Cawdron, Wherever Seeds May Fall**
+- Such success cannot be explained away by a better genetic hand; instead, they [alternate versions of you] played your cards better. - **David Eagleman, Sum**
 
 ## Relationships
 
@@ -232,6 +253,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Do you feel victory when your words cause pain?
 - The most fucked up joke life can play on you is letting you meet the right person at the wrong time.
 - I'd rather be hated for who I am than loved for who I am not. - **Kurt Cobain**
+- He had seen a few smiles he might have killed for, but never one he'd have died for. - **Iain M. Banks, Use of Weapons**
 
 ### Loneliness
 
@@ -289,6 +311,10 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - The future seems knowable only when it becomes the past.
 - If you are given a choice, you believe you have acted freely. - **Raymond Teller**
 - You had hoped that smarter creatures would be wiser ones. - **Peter Watts, Firefall**
+- Sometimes what goes without saying is best said anyway. - **Iain M. Banks, The Hydrogen Sonata**
+- It’s not what you look at that matters, it’s what you see. - **Matt Haig, The Midnight Library**
+- Well, that you can choose choices but not outcomes. - **Matt Haig, The Midnight Library**
+- I'm sorry. I didn't lie but I did deceive. - **Iain M. Banks, Use of Weapons**
 
 ## Funny
 
@@ -306,9 +332,12 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Suppose we've chosen the wrong god. Every time we go to church we're just making him madder and madder. - **Homer J. Simpson**
 - Those people who think they know everything are a great annoyance to those of us who do.
 - Why do I need to fight a depressed dude when I can just wait.
-- The story so far: In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move. - **The Hitchhiker's Guide to the Galaxy**
+- The story so far: In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move. - **Douglas Adams, The Hitchhiker's Guide to the Galaxy**
 - Now they pass it by Congress who will carefully evaluate the plan and eventually come to the conclusion that sending people in rockets to other planets is a waste of money better spend on sending rockets into people on this planet.
 - Before you embark on a journey of revenge, dig two graves.
+- This isn't going to be one of those idiotic local disputes that end up being put to a vote of the whole Culture, is it? - **Iain M. Banks, Look to Windward**
+- No one speaks. Yeah, she thinks, academics can cast shade without uttering a single word. - **Peter Cawdron, Wherever Seeds May Fall**
+- Falling never killed anybody; it was when you stopped. - **Iain M. Banks, The Player of Games**
 
 ## Money
 
@@ -347,3 +376,6 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - We measure loss when we flip the counter from dead to living.
 - While women are portrayed as sex objects, men are portrayed as success objects.
 - In the past, they told me to not use paper to save the trees. Now they tell me not to use plastic to save the planet.
+- They [superintelligent AI] are rarely malicious, never vicious; not to us. Mainly this is because we are so far beneath them it would be demeaning to get that worked up about us and our feelings, but the thing is,” he said, drinking again, “the thing is, they are vastly powerful artefacts, with senses and abilities and strengths that we only fool ourselves we know about or understand, and the subtlest, most infinitesimal of their machinations can bruise us, crush us utterly, if it catches us wrong. - **Iain M. Banks, The Hydrogen Sonata**
+- Truth had never been a priority. If believing a lie kept the genes proliferating, the system would believe that lie with all its heart. - **Peter Watts, Firefall**
+- It would be worse than that; he would be treated with compassion, understanding, tolerance. But he would never be forgiven. - **Iain M. Banks, The Player of Games**
