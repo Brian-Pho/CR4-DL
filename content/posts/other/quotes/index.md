@@ -44,6 +44,9 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - The dead escape death in heaven, and the living escape life in dreams. - **Iain M. Banks, Look to Windward**
 - But the impression was very much that you'd better have an unimpeachable reason for showing up at the gates of paradise with your own blood on your hands. - **Iain M. Banks, Look to Windward**
 - The more focused you were on the activity, the less focused you were on everything else. You kind of stopped being you and became the thing you were doing. - **Matt Haig, The Midnight Library**
+- If every day you’re looking for the next thing that’ll change your life — what’s left in the moments in between? - **Aimee Ogden**
+- There’s not a lot of things worth caring about.
+- Resentment is like taking poison and waiting for the other person to die.
 
 ## Science
 
@@ -75,6 +78,8 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Senkovi’s personal theory was that the pressure of being in the middle of the food chain was an essential prerequisite for complex intelligence. Like humans (and like Portiid spiders, had he only known), octopuses had developed in a world where they were both hunter and hunted. Top predators, in Senkovi’s assessment, were an intellectual dead end. - **Adrian Tchaikovsky, Children of Ruin**
 - She understands, in a real and immediate way, how she stands on the backs of giants, and that her own back, too, will be strong enough to bear the weight of many generations to come. - **Adrian Tchaikovsky, Children of Time**
 - And part of the reason you are able to contribute so significantly to this project is that you are not burdened by unnecessary knowledge. Some of it might help you, I agree, but some of it would also narrow your options, steer your thoughts in one particular direction, prevent you from seeing all there is to see. Since I cannot know which information would hinder your thought processes, I find it best to provide you only with what you really need to know. - **Sylvain Neuvel, Sleeping Giants**
+- To steal ideas from one person is plagiarism. To steal from many is research. - **Wilson Mizner**
+- Even though most of us cannot separate science from superstition or technology from magic. - **Peter Thiel**
 
 ### Neuroscience
 
@@ -123,6 +128,8 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - To look up and wonder at our place in the universe, to look down and wonder my place in humanity.
 - You know that place between asleep and awake, that place where you still remember dreaming? That’s where I’ll always love you. That’s where I’ll be waiting. - **Rich Edwards, Where I'll Be Waiting**
 - They pop up every now and then. People who don't wake up from the dream even after tens of years. I love people like that. - **Erika Yano, Shirobako**
+- We are always living in tomorrow’s history.
+- A dream we dream together is reality. - **Burning Man 2017**
 
 ## Identity
 
@@ -174,6 +181,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - They're artists of information, and each data point adds a bit more pigment to their accumulating portrait of you. - **David Eagleman, Sum**
 - The knowledge that you cannot appreciate the destination without knowing the starting point. - **David Eagleman, Sum**
 - We are what we do, not what we think. - **Iain M. Banks, The Player of Games**
+- The tighter you cling to your current identity, the harder it becomes to grow beyond it. - **James Clear**
 
 ## Mastery
 
@@ -213,6 +221,8 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Not everyone who works hard is rewarded, however all those who succeed have worked hard! - **Hajime no Ippo**
 - Too many people mistake speed for productivity. Sometimes, it’s more productive to slow things down. - **Peter Cawdron, Wherever Seeds May Fall**
 - Such success cannot be explained away by a better genetic hand; instead, they [alternate versions of you] played your cards better. - **David Eagleman, Sum**
+- Use what talents you possess - the woods will be very silent if no birds sang there except those that sang best. - **Henry van Dyke**
+- A man must be a very great genius to make up for being such a loathsome human being. - **Martha Gellhorn, Ernest Hemingway's third wife**
 
 ## Relationships
 
@@ -315,6 +325,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - It’s not what you look at that matters, it’s what you see. - **Matt Haig, The Midnight Library**
 - Well, that you can choose choices but not outcomes. - **Matt Haig, The Midnight Library**
 - I'm sorry. I didn't lie but I did deceive. - **Iain M. Banks, Use of Weapons**
+- We are living in an oasis of knowledge, but drowning in a pool of ignorance.
 
 ## Funny
 
