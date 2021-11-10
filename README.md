@@ -4,7 +4,7 @@ This repository holds the code and content for the CR4-DL website.
 
 CR4-DL Link: <https://brianpho.com/CR4-DL>
 
-The website was built using Gatsby and React-Bootstrap, and the theme was heavily inspired by
+The website was built using Gatsby and React-Bootstrap, and the theme was inspired by
 
 - <https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/>
 - <https://github.com/fongandrew/hydeout>

@@ -14,20 +14,20 @@ Hello and welcome to the Cradle. On this website, you'll find my notes from
 
 ### Who are you?
 
-You can visit my [personal website](https://brianpho.com/) to learn more about me but here's a summary. My goal is to help humanity build artificial general intelligence (AGI). I plan to achieve this goal by becoming a neuroscientist and by studying the brain through textbooks, books, and papers. I just finished my bachelors in software engineering and I'm currently pursuing a masters in neuroscience. For me, it isn't enough to just understand the brain but to also build one. By reverse engineering the brain, I believe we can create an intelligence greater than ourselves; to solve intelligence and to use it to solve everything else.
+You can visit my [personal website](https://brianpho.com/) to learn more about me but here's a summary. My goal is to help humanity build artificial general intelligence (AGI). I plan to achieve this goal by becoming a neuroscientist and by studying the brain through textbooks, books, and papers. I completed my bachelors in software engineering and I'm currently studying a masters in neuroscience. For me, it isn't enough to just understand the brain but to also build one. By reverse engineering the brain, I believe we can create an intelligence greater than ourselves; to solve intelligence and to use it to solve everything else.
 
 ### Why are you pursuing AGI?
 
 I'm pursuing AGI for multiple reasons.
 
-- The scientist in me does it in **search of the truth**. How does the brain work? Why are we conscious? Why are we different from everything else that's alive?
-- The person in me does it to **help humanity**. An AGI could theoretically solve all of our problems. World hunger, immortality, space travel, the perfect government, you name it.
-- The child in me does it because it's **fun**! There's so much to explore, learn, and play with. I don't think we should ever forget the innocence within us.
-- The adult in me does it because **I can't see myself doing anything else**. Once AGI is created, it will be the best at everything. Which means that whatever I do now, will be done better by an AGI in the future.
+- The scientist in me does it in search of the truth. How does the brain work? Why are we conscious? Why are we different from everything else that's alive?
+- The person in me does it to help humanity. An AGI could theoretically solve all of our problems: world hunger, immortality, space travel, you name it.
+- The child in me does it because it's fun! There's so much to explore, learn, and play with. I don't think we should ever forget the innocence within us.
+- The adult in me does it because I can't see myself doing anything else. Once AGI is created, it will be the best at everything, which means that whatever I do now, an AGI could do better.
 
 ### How do you plan on creating AGI?
 
-I plan on creating AGI by first studying the human brain. My approach is to reverse engineer the brain by extracting the core principles of how the brain processes information. Information processing requires two separate but integrated parts like computers: hardware and software. The hardware of the brain is the physical implementation of it as an organ. Examples of brain hardware include its inputs and outputs such as the eye, skin, spinal cord, and muscles. The software of the brain is the intangible or emergent properties of it. Examples of brain software include consciousness, visual illusions, and language. By understanding both the hardware and software of the brain, we should have enough information to create it.
+I plan on creating AGI by studying the human brain. My approach starts with reverse engineering the brain by extracting the principles of how the brain works. We currently have a crude but decent base of knowledge about the brain that's captured by neuroscience, psychology, and cognitive science. However, our approach to getting this knowledge has started to reach an impasse where we're acquiring a lot of information but not a lot of knowledge; in other words, we don't have a theory of the brain. My idea is to organize this information into a framework on thinking about the brain. After this, we need to take this knowledge to build devices capable of mimicking the brain. This requires engineering the brain, which I'm not too certain on how to do. This is all a work in progress so my plans will change as I learn more.
 
 ### Why did you make this website?
 
@@ -37,7 +37,7 @@ I created this website with the intention of sharing my knowledge and as an arch
 
 The CR4-DL (pronounced as "Cradle") is my homage to the HBO show [Westworld](https://en.wikipedia.org/wiki/Westworld_(TV_series)). It's an amazing show that touches on AI, human nature, and reality. This website reflects similar themes from the show so I named this website after it. I think it's a witty name and I'm very proud of it. [More info on the CR4-DL in Westworld.](http://westworld.wikia.com/wiki/Cradle)
 
-### How is this website built?
+### How was this website built?
 
 This website is built by me and is hosted by Github Pages. I've redesigned this website three times now, the first time using a simple Jekyll theme, the second time using a more complicated Jekyll theme, and the third time using Gatsby. I've gone through multiple iterations and designs to improve the look-and-feel and the functionality of the website to my liking. I also enjoy web development as it allows me to express my creative side with programming.
 

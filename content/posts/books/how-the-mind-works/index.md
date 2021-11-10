@@ -119,7 +119,7 @@ excerpt: "How the mind (kinda) works."
 - Review of auto-associator and their benefits, perceptrons and the XOR problem.
 - Review of the backpropagation algorithm and connectionism.
 - The author favors the opposing view that symbol manipulation underlies human language and the parts of reasoning that interact with it.
-- Problems with connectionism 
+- Problems with connectionism
     - NN can't entertain the concept for an individual.
         - E.g. We can represent vegetableness or horsehood, but not a particular vegetable or a particular horse.
         - It's easy to confuse the relationship between a class and a subclass, with the relationship between a subclass and an individual.
@@ -152,7 +152,7 @@ excerpt: "How the mind (kinda) works."
 - Thoughts and thinking are no longer ghostly enigma, but mechanical processes that can be studied.
 - What about consciousness?
 - The computational theory of mind offers no clear answer.
-- Three meanings of consciousness 
+- Three meanings of consciousness
     - Self-knowledge: information about the being itself.
         - E.g. You can say in your head "Hey, I'm reading this sentence."
         - Thus, consciousness is defined as building an internal model of the world that contains the self.
@@ -234,7 +234,7 @@ excerpt: "How the mind (kinda) works."
     - Hands to manipulate objects and tools, resulting in bipedalism which is energy efficient.
     - Hunting and gathering.
 - Review of our evolution lineage and timeline.
-- The cliché that "cultural evolution has taken over biological evolution." 
+- The cliché that "cultural evolution has taken over biological evolution."
 - Natural selection works for anything that can replicate, not just DNA.
 - E.g. Memes.
 - Memes are more analogous to epidemiology than to evolution.

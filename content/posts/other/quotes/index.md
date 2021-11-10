@@ -80,10 +80,11 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - And part of the reason you are able to contribute so significantly to this project is that you are not burdened by unnecessary knowledge. Some of it might help you, I agree, but some of it would also narrow your options, steer your thoughts in one particular direction, prevent you from seeing all there is to see. Since I cannot know which information would hinder your thought processes, I find it best to provide you only with what you really need to know. - **Sylvain Neuvel, Sleeping Giants**
 - To steal ideas from one person is plagiarism. To steal from many is research. - **Wilson Mizner**
 - Even though most of us cannot separate science from superstition or technology from magic. - **Peter Thiel**
+- The drug of discovery
 
 ### Neuroscience
 
-- Praised be the human mind, which sees more sharply than does the human eye.
+- Praised be the human mind, which sees more sharply than does the human eye. - **Aaron Bernstein**
 - Intelligence attributes to itself as to why we are the dominant species of this planet.
 - If our brains were simple enough for us to understand them, we'd be so simple that we couldn't.
 - We have not yet learned what the brain has to teach us. - **Chris Eliasmith**
@@ -112,7 +113,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - The robots declared us “artificially intelligent”.
 - To erase the line between man and machine is to obscure the line between men and gods.
 - To build a machine smarter than you, it has to be more complex than you—and the ability to understand the machine begins to slip away. - **David Eagleman, Sum**
-- An electronic computer is also made up of matter, but organised differently; what is there so magical about the workings of the huge, slow cells of the animal brain that they can claim themselves to be conscious, but would deny a quicker, more finely-grained device of equivalent power - or even a machine hobbled so that it worked with precisely the same ponderous-ness - a similar distinction? - **Iain M. Banks, Use of Weapons**
+- An electronic computer is also made up of matter, but organized differently; what is there so magical about the workings of the huge, slow cells of the animal brain that they can claim themselves to be conscious, but would deny a quicker, more finely-grained device of equivalent power - or even a machine hobbled so that it worked with precisely the same ponderous-ness - a similar distinction? - **Iain M. Banks, Use of Weapons**
 
 ## Dreams
 
@@ -124,12 +125,13 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Men ahead of their time were always, by definition, outside of it.
 - I didn't come this far to only come this far.
 - I had wanted to make history move ahead in the same way that a child pulls on a plant to make it grow more quickly. - **Václav Havel**
-- “Don't you find it odd," she continued, "that when you're a kid, everyone, all the world, encourages you to follow your dreams. But when you're older, somehow they act offended if you even try.” - **Ethan Hawke**
+- Don't you find it odd that when you're a kid, everyone, all the world, encourages you to follow your dreams. But when you're older, somehow they act offended if you even try. - **Ethan Hawke**
 - To look up and wonder at our place in the universe, to look down and wonder my place in humanity.
 - You know that place between asleep and awake, that place where you still remember dreaming? That’s where I’ll always love you. That’s where I’ll be waiting. - **Rich Edwards, Where I'll Be Waiting**
 - They pop up every now and then. People who don't wake up from the dream even after tens of years. I love people like that. - **Erika Yano, Shirobako**
 - We are always living in tomorrow’s history.
 - A dream we dream together is reality. - **Burning Man 2017**
+- Hope is like a road in the country; there was never a road, but when many people walk on it, the road comes into existence. - **Lu Xun**
 
 ## Identity
 
@@ -138,7 +140,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - People who say they have no regrets have never lost anything worthwhile.
 - The person that you will spend the most time with in your life is yourself, so try to make yourself as interesting as possible.
 - To know the road ahead, ask those coming back.
-- We're all background characters in someone elses story.
+- We're all background characters in someone else's story.
 - You are not required to set yourself on fire to keep other people warm.
 - You be strange now but don't be a stranger, nah'mean? - **Leon, Mr. Robot**
 - You have to be comfortable with being uncomfortable.
@@ -173,7 +175,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Never make fun of someone for things they can't change.
 - You do not follow me because I am the strongest. Pax is. You do not follow me because I am the brightest. Mustang is. You follow me because you do not know where you are going. I do. - **Darrow, Red Rising**
 - Respect yourself enough to walk away anything that no longer serves you, grows you or makes you happy.
-- Remember you’ll always regret what you didn’t do rather than what you did.
+- Remember you’ll always regret what you didn't do rather than what you did.
 - I want to know who they were, help them be who they are, and be there for who they will be.
 - These mountains that you are carrying, you were only supposed to climb. - **Najwa Zebian**
 - Some people die at 25 and aren't buried until 75. - **Benjamin Franklin**
@@ -182,6 +184,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - The knowledge that you cannot appreciate the destination without knowing the starting point. - **David Eagleman, Sum**
 - We are what we do, not what we think. - **Iain M. Banks, The Player of Games**
 - The tighter you cling to your current identity, the harder it becomes to grow beyond it. - **James Clear**
+- Our enemies' opinion of us comes closer to the truth than our own. - **Francois de La Rochefoucauld**
 
 ## Mastery
 
@@ -215,7 +218,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Just because you can, doesn’t mean you should and just because it’s comfortable, doesn’t meant it’s good.
 - We’re born with capabilities, and have to transform those capabilities into actual abilities.
 - Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
-- No. You’ve got it wrong Steve. Everything you didn’t circle just became your ‘avoid at all cost list’. No matter what, these things get no attention from you until you’ve succeeded with your top 5. - **Warren Buffet**
+- No. You’ve got it wrong Steve. Everything you didn't circle just became your ‘avoid at all cost list’. No matter what, these things get no attention from you until you’ve succeeded with your top 5. - **Warren Buffet**
 - We don't rise to the level of our expectations, we fall to the level of our training.
 - The best exercise for gaining strength is not missing workouts. - **James Clear**
 - Not everyone who works hard is rewarded, however all those who succeed have worked hard! - **Hajime no Ippo**
@@ -264,6 +267,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - The most fucked up joke life can play on you is letting you meet the right person at the wrong time.
 - I'd rather be hated for who I am than loved for who I am not. - **Kurt Cobain**
 - He had seen a few smiles he might have killed for, but never one he'd have died for. - **Iain M. Banks, Use of Weapons**
+- It’s hard to admit but we are visual creatures and we try to make love out of lust. - **Reddit**
 
 ### Loneliness
 
@@ -338,7 +342,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Anyone going slower than you is an idiot and anyone going faster than you is a maniac.
 - You'll never get her if you just keep staring at her Facebook page.
 - From a female friend who went to an engineering school: "The odds are good, but the goods are odd." - **Reddit**
-- Watching a graduation ceremony is like sitting through a movie thats entirely end credits. - **Reddit**
+- Watching a graduation ceremony is like sitting through a movie that's entirely end credits. - **Reddit**
 - A girl says "Taken but not appreciated" in response to being given some advice about something. Someone responds with "I didn't ask for the title of your autobiography".
 - Suppose we've chosen the wrong god. Every time we go to church we're just making him madder and madder. - **Homer J. Simpson**
 - Those people who think they know everything are a great annoyance to those of us who do.
@@ -356,6 +360,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Uber, the world’s largest taxi company, owns no vehicles. Facebook, the world’s most popular media owner, creates no content. And Airbnb, the world’s largest accommodation provider, owns no real estate. Something interesting is happening. - **Tom Goodwin**
 - Don’t save what is left after spending; spend what is left after saving.
 - Concentrate to make money; diversify to keep money.
+- Spend money where you spend time.
 
 ## Other
 
@@ -390,3 +395,6 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - They [superintelligent AI] are rarely malicious, never vicious; not to us. Mainly this is because we are so far beneath them it would be demeaning to get that worked up about us and our feelings, but the thing is,” he said, drinking again, “the thing is, they are vastly powerful artefacts, with senses and abilities and strengths that we only fool ourselves we know about or understand, and the subtlest, most infinitesimal of their machinations can bruise us, crush us utterly, if it catches us wrong. - **Iain M. Banks, The Hydrogen Sonata**
 - Truth had never been a priority. If believing a lie kept the genes proliferating, the system would believe that lie with all its heart. - **Peter Watts, Firefall**
 - It would be worse than that; he would be treated with compassion, understanding, tolerance. But he would never be forgiven. - **Iain M. Banks, The Player of Games**
+- Efficiency is doing things right. Effectiveness is doing the right thing.
+- There is no logical reason to be logical.
+- People who mistake education for intelligence.
