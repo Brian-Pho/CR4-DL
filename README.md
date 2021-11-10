@@ -68,4 +68,15 @@ The website was built using Gatsby and React-Bootstrap, and the theme was inspir
 - Replace "\. \n" with ".\n" and replace "\? \n" with "?\n" for notes written on mobile (it auto-adds space after period).
 - VS Code Replace "- (.*[^*]):" with "- *$1*:".
 - Replace double spaces "  " with single space " "
-- ![Figure ](figure.png)
+- Autofix all markdown violations using VSCode
+
+```markdown
+![Figure ](figure.png)
+![Table ](table.png)
+
+.*FIG\s(\d+)\.(\d+).*
+![Figure $1.$2](figure$1-$2.png)
+
+.*TAB\s(\d+)\.(\d+).*
+![Table $1.$2](table$1-$2.png)
+```
