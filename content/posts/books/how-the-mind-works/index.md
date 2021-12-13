@@ -8,6 +8,8 @@ book_authors: "Steven Pinker"
 excerpt: "How the mind (kinda) works."
 ---
 
+# NOTE: This is an incomplete set of notes.
+
 ## Preface
 
 - Our ignorance can be divided into problems and mysteries.

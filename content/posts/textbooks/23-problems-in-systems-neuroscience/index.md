@@ -9,6 +9,11 @@ book_authors: "J. Leo van Hemmen, Terrence J. Sejnowski"
 excerpt: "A discussion of some problems in systems neuroscience."
 ---
 
+<blockquote class="blockquote">
+  <p>You know how powerful science can be. A thousand years to climb from ghosts and magic to technology; a day and a half from technology back up to ghosts and magic.</p>
+  <p class="blockquote-footer">Peter Watts, Firefall</p>
+</blockquote>
+
 # Part I: How Have Brains Evolved?
 
 ## Chapter 1: Shall We Even Understand the Fly’s Brain?

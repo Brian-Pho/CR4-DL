@@ -8,6 +8,8 @@ book_authors: "Kevin Horsley"
 excerpt: "How to use advanced learning strategies to learn faster, remember more, and be more productive."
 ---
 
+# NOTE: This is an incomplete set of notes.
+
 ## General Notes
 
 - Only if you can remember information can you live it.

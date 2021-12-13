@@ -9,6 +9,11 @@ book_authors: "Shih‐Chii Liu, Tobi Delbruck, Giacomo Indiveri, Adrian Whatley,
 excerpt: "An incomplete set of notes from a modern neuromorphic computing textbook."
 ---
 
+<blockquote class="blockquote">
+  <p>A scientist builds in order to learn; an engineer learns in order to build.</p>
+  <p class="blockquote-footer">Fred Brooks</p>
+</blockquote>
+
 # NOTE: This is an incomplete set of notes.
 
 ## Chapter 1: Introduction

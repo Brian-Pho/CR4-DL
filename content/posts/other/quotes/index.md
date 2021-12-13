@@ -51,7 +51,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 ## Science
 
 - We must know, we will know. - **David Hilbert**
-- A scientist builds in order to learn; an engineer learns in order to build.
+- A scientist builds in order to learn; an engineer learns in order to build. - **Fred Brooks**
 - Computer science is no more about computers than astronomy is about telescopes.
 - I mean, you could claim that anything's real if the only basis for believing in it is that nobody's proved it doesn't exist!
 - For, after all, how do we know that two and two make four? Or that the force of gravity works? Or that the past is unchangeable? If both the past and the external world exist only in the mind, and if the mind itself is controllable – what then?

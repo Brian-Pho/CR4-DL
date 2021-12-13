@@ -11,7 +11,7 @@ excerpt: "My thoughts on certain textbooks."
 
 *Rating: 4/5*
 
-The bible of neuroscience and a tome at over 1000 pages, this textbook is an encyclopedia of neuroscience knowledge. Both depth and breadth are covered but it was lacking in all areas such as the vision chapters that skipped over the LGN and color processing. The textbook also has no mention of any computational models such as the Hodgkin-Huxley equations of the action potential and has a biological bias towards genes and proteins. While this is expected, don't expect this book to cover all of our knowledge on the brain as it's missing a lot of psychology and computational viewpoints. Overall, this is a half-step from the introductory neuroscience textbooks.
+The bible of neuroscience and a tome at over 1000 pages, this textbook is an encyclopedia of neuroscience knowledge. Both depth and breadth are covered but it was lacking in all areas such as the vision chapters that skipped over the LGN and color processing. The textbook also has no mention of any computational models such as the Hodgkin-Huxley equations of the action potential and has a biological bias towards genes and proteins. While this is expected, don't expect this book to cover all of our knowledge on the brain as it's missing a lot of psychology and computational viewpoints. But what it does cover, it does well as the writing and illustrations are excellent. Overall, this is a half-step from the introductory neuroscience textbooks. It doesn't reach the level of papers or specialized textbooks, but it's a good bridge from beginner to intermediate knowledge.
 
 ### 23 Problems in Systems Neuroscience
 

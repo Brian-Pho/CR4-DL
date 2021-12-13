@@ -10,8 +10,8 @@ excerpt: "An introduction to the field of computational neuroscience."
 ---
 
 <blockquote class="blockquote">
-  <p>As far as the laws of mathematics refer to reality, they are not certain, as far as they are certain, they do not refer to reality.</p>
-  <p class="blockquote-footer">Albert Einstein</p>
+  <p>Some philosophers insist that computers, no matter how sophisticated they become, will at best mimic rather than replicate thought. A computer simulation of the weather does not really rain. A computer simulation of flight does not really fly. Even if a computing system could simulate mental activity, why suspect that it would constitute the genuine article?</p>
+  <p class="blockquote-footer">The Computational Theory of Mind, Stanford Encyclopedia of Philosophy</p>
 </blockquote>
 
 ## Chapter 1: Introduction

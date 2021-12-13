@@ -9,6 +9,11 @@ book_authors: "Eric Kandel, John D. Koester, Sarah H. Mack, Steven Siegelbaum"
 excerpt: "The gold standard of neuroscience texts."
 ---
 
+<blockquote class="blockquote">
+  <p>As the German neuroscientist Olaf Sporns has put it: "Neuroscience still largely lacks organising principles or a theoretical framework for converting brain data into fundamental knowledge and understanding." Despite the vast number of facts being accumulated, our understanding of the brain appears to be approaching an impasse.</p>
+  <p class="blockquote-footer">Matthew Cobb</p>
+</blockquote>
+
 # Part I: Overall Perspective
 
 - A first step towards understanding the brain is to learn how neurons are organized into signaling pathways and how they communicate by synaptic transmission.
@@ -4577,9 +4582,7 @@ Messengers
 - Implicit memory emerges automatically and tends to be inflexible and expressed in the performance of tasks without conscious awareness.
 - Imperfections and errors in remembering provide clues about learning and memory mechanisms. The past can be forgotten or distorted, indicating that memory isn’t a faithful record of all details of every experience.
 
-## Chapter 53: Cellular Mechanisms of Implicit Memory Storage and the Biological Basis
-
-of Individuality
+## Chapter 53: Cellular Mechanisms of Implicit Memory Storage and the Biological Basis of Individuality
 
 - How does experience shape the neural circuits of the brain to change behavior?
 - How is new information acquired by the brain and once it’s been acquired, how is it stored, retrieved, and remembered?

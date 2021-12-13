@@ -9,6 +9,11 @@ book_authors: "Stuart Russell, Peter Norvig"
 excerpt: "An incomplete set of notes from the artificial intelligence textbook."
 ---
 
+<blockquote class="blockquote">
+  <p>But AI research is full of twists and turns, so who knows what the future holds? Perhaps the next big wave will be based more closely on the neuroscience results from the last few years. Or perhaps some new experimentally developed framework will emerged. I have my own ideas on what will unfold, but really, we’ll just have to see what happens.</p>
+  <p class="blockquote-footer">Unknown, Reddit</p>
+</blockquote>
+
 # NOTE: This is an incomplete set of notes.
 
 # Part I: Artificial Intelligence

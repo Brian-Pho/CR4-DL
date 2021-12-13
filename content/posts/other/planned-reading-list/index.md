@@ -34,16 +34,12 @@ I plan to read the following textbooks and books. This list will be updated as m
 
 ### Artificial Intelligence
 
-- Reinforcement Learning - An Introduction (2nd Ed.)
 - Parallel Distributed Processing - Foundations (Vol. 1)
 - Parallel Distributed Processing - Psychological and Biological Models (Vol. 2)
-- The Handbook Of Brain Theory And Neural Networks (2nd Ed.)
 
 ### Psychology
 
 - Biopsychology (10th Ed.)
-- Cognition (8th Ed.)
-- Handbook of Collective Intelligence
 
 ## Books
 
@@ -61,7 +57,3 @@ I plan to read the following textbooks and books. This list will be updated as m
 - The Voices Within: The History and Science of How We Talk to Ourselves
 - Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness
 - The Ancient Origins of Consciousness: How the Brain Created Experience
-
-### Other
-
-- Code: The Hidden Language of Computer Hardware and Software

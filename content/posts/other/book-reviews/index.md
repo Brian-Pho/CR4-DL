@@ -7,23 +7,29 @@ categories:
 excerpt: "My thoughts on certain books."
 ---
 
+### Code
+
+*Rating: 2/5*
+
+I thought this book would be about how information is coded, such as how physical phenomena can encode information. I was hoping for a general theory about information coding from DNA, neuron spikes, computers, language, morse code, and braille. And while the book did deliver on the computational side of coding, it completely ignores biological and physical ways of coding, which is what I wanted to learn. However,  computational coding is covered really well and I would recommend this book to beginners that don't know anything about computers. However, for seasoned computer scientists and computer engineers, this is just a review of what you've learned.
+
 ### How the Mind Works
 
 *Rating: 2/5*
 
-A disappointment. The book has no overarching theory but is rather a collection of the author's thoughts. While interesting, the are disjointed and leaves the reader asking "so what?"
+A disappointment. The book has no overarching theory but is rather a collection of the author's thoughts. While interesting, they're disjointed and leaves the reader asking "so what?" I did find some interesting ideas in the book though so it wasn't a complete waste of time.
 
 ### The Man Who Mistook His Wife for a Hat
 
 *Rating: 3/5*
 
-A dated but ok book on neurological diseases. Some cases are interesting but the majority aren't. The stories, while about people, lack humanity and emotion.
+A dated but ok book on neurological diseases. Some cases are interesting but the majority of cases aren't. The stories, while about people, lack humanity and emotion, and read more like a medical school's description of disorders. Put another way, the book has an academic bias to it's writing which I didn't want.
 
 ### Range
 
 *Rating: 2/5*
 
-A disappointment of a book. It was just a collection of stories that had no overarching theme. It starts out interesting but ends without a satisfying smoking-gun conclusion.
+A disappointment of a book. It was just a collection of stories that had no overarching theme. It starts out interesting but ends without a satisfying smoking-gun conclusion. But the cases that the book does cover are interesting.
 
 ### The Secret of Our Success
 
@@ -41,7 +47,7 @@ This book started off great but was in the end a let down. It starts with grand 
 
 *Rating: 3/5*
 
-The average neuroscience book. It was interesting and split time into it's physical and biological perspectives which is good.
+The average neuroscience book. It was interesting and split time into it's physical and biological perspectives which is good. The book was well organized and was enjoyable to read.
 
 ### The Spike
 
@@ -53,7 +59,7 @@ One of the first times someone decides to follow the electrical spike from senso
 
 *Rating: 5/5*
 
-A great and concise book on the path to becoming a neuroscientist. The author is aware that academia isn't the right path for all and provides a look into other paths.
+A great and concise book on the path to becoming a neuroscientist. The author is aware that academia isn't the right path for all and provides a look into other paths such as industry and government. The information is in-touch with modern technology and was a joy to read.
 
 ### Life Lessons from a Brain Surgeon
 
@@ -71,7 +77,7 @@ An incredible book on the history of the brain. The author starts with how we ev
 
 *Rating: 2/5*
 
-Eric Kandel's autobiography. It's ok.
+Eric Kandel's autobiography. It's ok and expect some technical neuroscience, but what I liked was how Kandel detailed how he came to his discoveries.
 
 ### Livewired
 
