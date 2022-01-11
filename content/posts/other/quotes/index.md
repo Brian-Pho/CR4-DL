@@ -47,6 +47,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - If every day you’re looking for the next thing that’ll change your life — what’s left in the moments in between? - **Aimee Ogden**
 - There’s not a lot of things worth caring about.
 - Resentment is like taking poison and waiting for the other person to die.
+- If we don't change, we don't grow. If we don't grow, we are not really living.
 
 ## Science
 
@@ -353,6 +354,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - This isn't going to be one of those idiotic local disputes that end up being put to a vote of the whole Culture, is it? - **Iain M. Banks, Look to Windward**
 - No one speaks. Yeah, she thinks, academics can cast shade without uttering a single word. - **Peter Cawdron, Wherever Seeds May Fall**
 - Falling never killed anybody; it was when you stopped. - **Iain M. Banks, The Player of Games**
+- We play until we lose, but we can't end on a loss. - **Jason**
 
 ## Money
 
@@ -398,3 +400,4 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Efficiency is doing things right. Effectiveness is doing the right thing.
 - There is no logical reason to be logical.
 - People who mistake education for intelligence.
+- They tried to bury us. They didn’t know we were seeds.

@@ -7,11 +7,17 @@ categories:
 excerpt: "My thoughts on certain books."
 ---
 
+### After Phrenology
+
+*Rating: 1/5*
+
+I absolutely despised the writing of this book. Some sentences were extremely long and the word choice was too academic. I'm normally biased against philosophical writing because it seems like trying to hit some word count, and this book continues to support that bias. Aside from the writing, the ideas in the book were ok. Ideas such as neural reuse, embodied cognition, and interactive differentiation were somewhat new to me but the delivery of such ideas was lacking. The book read like a literature review at points and the author seemed more intent on criticizing and comparing other frameworks than on supporting his own. Overall a disappointing book.
+
 ### Code
 
 *Rating: 2/5*
 
-I thought this book would be about how information is coded, such as how physical phenomena can encode information. I was hoping for a general theory about information coding from DNA, neuron spikes, computers, language, morse code, and braille. And while the book did deliver on the computational side of coding, it completely ignores biological and physical ways of coding, which is what I wanted to learn. However,  computational coding is covered really well and I would recommend this book to beginners that don't know anything about computers. However, for seasoned computer scientists and computer engineers, this is just a review of what you've learned.
+I thought this book would be about how information is coded, such as how physical phenomena (DNA, neuron spikes, and computers) can encode information. And while the book did deliver on the computational side of coding, it completely ignores biological and physical ways of coding. However, computational coding is covered really well and I would recommend this book to beginners that don't know anything about computers. For seasoned computer scientists and computer engineers though, this is just a review of what you've learned. A good book, but not what I'm looking for.
 
 ### How the Mind Works
 

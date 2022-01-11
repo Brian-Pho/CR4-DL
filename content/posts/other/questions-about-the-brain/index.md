@@ -9,6 +9,12 @@ excerpt: "My questions about the brain."
 
 The following is a list of questions about the brain that I don't know the answer to. I hope to someday answer every question on this list.
 
+## Basic/Fundamental Questions
+
+- Why do we have neurons? Why did evolution specialize a cell to a neuron?
+- Why is the brain lateralized?
+- Why is there a division between central and peripheral nervous system?
+
 ## Unsolved Questions
 
 - In speech, how do we separate words given there are no obvious signals (such as a pause)?
