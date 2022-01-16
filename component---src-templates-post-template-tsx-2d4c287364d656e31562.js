@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkCR4_DL=self.webpackChunkCR4_DL||[]).push([[133],{901:function(e,t,n){n.r(t);var a=n(7294),r=n(6629),l=n(9683),u=n(3200);t.default=function(e){var t=e.data,n=e.pageContext,c=t.markdownRemark,s=n.previous,o=n.next;return a.createElement(r.Z,{activePage:"Notes",article:!0},a.createElement(l.Z,{post:c,previous:s,next:o}),c.tableOfContents?a.createElement(u.Z,null):null)}}}]);
+//# sourceMappingURL=component---src-templates-post-template-tsx-2d4c287364d656e31562.js.map

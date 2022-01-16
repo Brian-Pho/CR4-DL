@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-template-tsx",
+    "path": "/courses/cpsc-319/",
+    "result": {"data":{"markdownRemark":{"html":"<p><a href=\"/CR4-DL/922b024fe2851f2fdde7266d55b4368e/cpsc-319.pdf\">LaTeX Notes</a></p>","tableOfContents":"","timeToRead":1,"frontmatter":{"title":"CPSC 319: Data Structures, Algorithms, and Their Applications","date":"January 01, 2017","book_authors":null,"categories":["Courses"]}}},"pageContext":{"slug":"/courses/cpsc-319/","previous":null,"next":{"fields":{"slug":"/courses/cpsc-471/"},"frontmatter":{"title":"CPSC 471: Data Base Management Systems","layout":"post"}}}},
+    "staticQueryHashes": ["1031357278","1878747374","3666494887"]}

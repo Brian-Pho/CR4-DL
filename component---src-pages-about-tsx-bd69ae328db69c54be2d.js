@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkCR4_DL=self.webpackChunkCR4_DL||[]).push([[49],{249:function(e,t,a){a.r(t);var n=a(7294),r=a(5444),u=a(6629),c=a(9683),l=a(3200);t.default=function(){var e=(0,r.useStaticQuery)("1054882742").markdownRemark;return n.createElement(u.Z,{activePage:"About"},n.createElement(c.Z,{post:e}),n.createElement(l.Z,null))}}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-bd69ae328db69c54be2d.js.map

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-template-tsx",
+    "path": "/courses/seng-533/",
+    "result": {"data":{"markdownRemark":{"html":"<p><a href=\"/CR4-DL/070bd1dc1485d88e72a58aceb1673efd/seng-533.pdf\">LaTeX Notes</a></p>","tableOfContents":"","timeToRead":1,"frontmatter":{"title":"SENG 533: Software Performance Evaluation","date":"January 01, 2018","book_authors":null,"categories":["Courses"]}}},"pageContext":{"slug":"/courses/seng-533/","previous":{"fields":{"slug":"/courses/cpsc-441/"},"frontmatter":{"title":"CPSC 441: Computer Networks","layout":"post"}},"next":{"fields":{"slug":"/courses/seng-471/"},"frontmatter":{"title":"SENG 471: Software Requirements Engineering","layout":"post"}}}},
+    "staticQueryHashes": ["1031357278","1878747374","3666494887"]}
