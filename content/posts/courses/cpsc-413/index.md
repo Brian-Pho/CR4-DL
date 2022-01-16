@@ -39,7 +39,7 @@ Theorem: $$f_{1}(n)\ \epsilon\ O(g_{1}(n))$$
 Def: $$O(g) = \{f:R \Rightarrow R\ |\ \exists n_{0} > 0, \exists c_{2} > 0, f_{1}(n) \leq c_{2}g_{1}(n)\ for\ all\ n \geq n_{0}\}$$
 
 - The purpose of $$c_2$$ is to say that no matter what value of $$c_{2}$$ is used, $$f_{1}(n)$$ will always be smaller than $$g_{1}(n)$$.
-- $$c_{2}g_{1}(n)$$ will always be slower than or equal to $$f_{1}(n)$$ above the threshold of $$n_{0}$$ where $$n_{0}$$ is ~~the intersection between~~ $$f_{1}(n)$$ ~~and~~ $$g_{1}(n)$$ an arbitrarily chosen constant.
+- $$c_{2}g_{1}(n)$$ will always be slower than or equal to $$f_{1}(n)$$ above the threshold of $$n_{0}$$ where $$n_{0}$$ is ~~the intersection between~~ $$f_{1}(n)$$ ~~and~~ $$g_{1}(n)$$; correction: where $$n_{0}$$ is an arbitrarily chosen constant.
 - $$n_{0}$$ and $$c_{2}$$ are correlated.
 
 ## L02: (Asymp) Asymptotics, big-Oh notation

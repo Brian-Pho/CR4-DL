@@ -974,7 +974,7 @@ excerpt: "Common themes across various scales of neuroscience from chemistry to 
 
 - The costs to capture, process, send, store, and retrieve information rise disproportionately for higher information rates.
 - One reason for the brain’s efficiency is to stay on the linear region of this curve.
-- To communicate more information with less noise, the brain uses the same strategy of summing $$n$$$ correlated events and thereby improves the signal-to-noise ratio by $$\sqrt{n}$$.
+- To communicate more information with less noise, the brain uses the same strategy of summing $$n$$ correlated events and thereby improves the signal-to-noise ratio by $$\sqrt{n}$$.
 - However, the costs rise faster than the benefits which means at some point, there’s a point of diminishing returns where improving the signal-to-noise ratio is uneconomical.
 - One strategy to clear room for more information is to reduce redundancy.
 - This is done by subtracting the mean, a redundant part of every signal, and by only transmitting the difference.
