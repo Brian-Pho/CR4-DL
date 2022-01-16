@@ -10,7 +10,7 @@
 }
 
 .toc-header {
-  color: theme-color("primary");
+  color: map-get($theme-colors, "primary");
 }
 
 .toc-list {
@@ -20,9 +20,9 @@
 }
 
 a.toc-link {
-  color: theme-color("primary");
+  color: map-get($theme-colors, "primary");
 }
 
 .is-active-link::before {
-  background-color: theme-color("primary");
+  background-color: map-get($theme-colors, "primary");
 }

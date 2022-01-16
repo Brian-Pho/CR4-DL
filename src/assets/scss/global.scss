@@ -5,12 +5,12 @@
 ::-moz-selection {
   /* Code for Firefox */
   color: white;
-  background: theme-color("primary");
+  background: map-get($theme-colors, "primary");
 }
 
 ::selection {
   color: white;
-  background: theme-color("primary");
+  background: map-get($theme-colors, "primary");
 }
 
 :focus {
@@ -32,7 +32,7 @@ li {
   }
 }
 
-a:hover {
+a {
   text-decoration: none;
 }
 
@@ -42,7 +42,7 @@ table {
 }
 
 thead {
-  @extend .thead-light;
+  @extend .table-light;
 }
 
 // https://stackoverflow.com/questions/31458477/find-element-that-is-causing-the-showing-of-horizontal-scrollbar-in-google-chrom

@@ -1,8 +1,8 @@
 import React from "react"
-import Layout from "../components/layout/layout"
 import { graphql, useStaticQuery } from "gatsby"
-import PostToc from "../components/post/postToc"
+import Layout from "../components/layout/layout"
 import PostContent from "../components/post/postContent"
+import PostToc from "../components/post/postToc"
 import { MarkdownType } from "../utils/graphqlTypes"
 
 const About = () => {

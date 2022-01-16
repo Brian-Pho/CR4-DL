@@ -18,7 +18,7 @@
     top: 1rem;
     bottom: 0rem;
     left: 60px;
-    background: gray("500");
+    background: $gray-500;
   }
   h3 {
     position: -webkit-sticky;
@@ -30,7 +30,7 @@
       content: '';
       width: 10px;
       height: 10px;
-      background: gray("500");
+      background: $gray-500;
       border: 2px solid white;
       @include border-radius(50%);
       position: absolute;

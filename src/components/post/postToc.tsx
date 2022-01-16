@@ -26,6 +26,7 @@ const PostToc = () => {
         contentSelector: `.${tocContentClassName}`,
         headingSelector: "h1, h2, h3",
         hasInnerContainers: true,
+        scrollSmooth: false,
       })
     }
 
