@@ -60,10 +60,10 @@ const Sidebar = (props: SidebarProps) => {
     <Col
       md={3}
       xs={12}
-      className="sidebar d-flex flex-md-column position-sticky p-0 p-md-4 p-xl-5"
+      className="sidebar d-flex flex-md-column position-sticky ps-3 pe-3 p-md-4 p-xl-5"
     >
       <Navbar
-        className="align-items-start flex-md-column w-100 p-md-0"
+        className="align-items-start flex-md-column w-100"
         expand="md"
         // @ts-ignore
         variant="none"
@@ -72,11 +72,11 @@ const Sidebar = (props: SidebarProps) => {
         <Navbar.Brand className="p-md-0">
           <Link to="/">{title}</Link>
         </Navbar.Brand>
-        <Navbar.Text className="d-none d-lg-inline-block mb-4 p-0">
+        <Navbar.Text className="d-none d-lg-inline-block mb-xl-3 p-0">
           {description}
         </Navbar.Text>
         <div className="navbar-light d-inline-block">
-          <Navbar.Toggle />
+        <Navbar.Toggle />
         </div>
         <Navbar.Collapse className="w-100">
           <Nav

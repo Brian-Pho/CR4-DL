@@ -15,20 +15,21 @@
 
 .navbar-brand {
   font-family: "Arima Madurai", sans-serif;
-  font-style: normal;
-  font-weight: bold;
+  font-size: 4.5vw;
 
-  @include media-breakpoint-up(md) {
-    font-size: 4.45vw;
-    font-weight: 100;
+  @include media-breakpoint-down(lg) {
+    font-size: 6vw;
+    font-weight: bold;
   }
 }
 
 .navbar-text {
-  font-size: 1.25vw;
   font-weight: 300;
   font-style: normal;
   color: #606770;
+  @include media-breakpoint-up(xl) {
+    font-size: 1.25vw;
+  }
 }
 
 .navbar-expand-md .navbar-nav .nav-link {

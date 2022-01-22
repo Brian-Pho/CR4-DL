@@ -47,7 +47,7 @@ const PostList = ({ postList, currentPage, numPages }: PostListProps) => {
   const posts = postList.edges
 
   return (
-    <Col md={6} xs={12} className="p-md-4">
+    <Col xl={6} md={9} xs={12} className="p-md-4">
       <ListGroup variant="flush">
         {posts.map(({ node }, index) => {
           const post = node
