@@ -21,7 +21,6 @@ I plan to read the following textbooks and books. This list will be updated as m
 - Open MIND - philosophy and the mind sciences in the 21st century
 - The Neuroscience of Intelligence
 - Theoretical Neuroscience - Computational and Mathematical Modeling of Neural Systems
-- Networks of the Brain
 - Brain Computation as Hierarchical Abstraction
 - Seeing (2nd Ed.)
 
