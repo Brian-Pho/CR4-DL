@@ -7,9 +7,15 @@ categories:
 excerpt: "My thoughts on certain textbooks."
 ---
 
+### Networks of the Brain
+
+*Rating: 3/5*
+
+I've been wondering why the brain is described as a "small-world" network and this textbook explains what this phrase means (high clustering with short path lengths). Written by one of the important figures in network neuroscience, Olaf Sporn, it's an ok textbook. The application of network science to the brain is fascinating and there's potential for it to answer our questions about the brain. However, this textbook only has surface-level answers and the writing was dry. Like many other textbooks, this one was mostly a literature review with some good ideas thrown in here and there. The ideas are interesting but the presentation is lacking. Specifically, one of the biggest weaknesses  was the lack of connecting brain activity to behavior, as brain dynamics don't mean anything in themselves.
+
 ### Principles of Neural Science
 
-*Rating: 4/5*
+*Rating: 5/5*
 
 The bible of neuroscience and a tome at over 1000 pages, this textbook is an encyclopedia of neuroscience knowledge. Both depth and breadth are covered but it was lacking in all areas such as the vision chapters that skipped over the LGN and color processing. The textbook also has no mention of any computational models such as the Hodgkin-Huxley equations of the action potential and has a biological bias towards genes and proteins. While this is expected, don't expect this book to cover all of our knowledge on the brain as it's missing a lot of psychology and computational viewpoints. But what it does cover, it does well as the writing and illustrations are excellent. Overall, this is a half-step from the introductory neuroscience textbooks. It doesn't reach the level of papers or specialized textbooks, but it's a good bridge from beginner to intermediate knowledge.
 

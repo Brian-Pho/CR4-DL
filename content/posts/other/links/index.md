@@ -120,6 +120,7 @@ A list of useful links on artificial intelligence, neuroscience, and on becoming
 - [The Making of an Expert](https://hbr.org/2007/07/the-making-of-an-expert)
 - [7 Habits of Highly Effective People Summary](https://blog.hubspot.com/sales/habits-of-highly-effective-people-summary)
 - [How to be a genius](https://aeon.co/essays/what-can-we-learn-from-the-secret-habits-of-genius)
+- [How to Become the Best in the World at Something](https://unchartedterritories.tomaspueyo.com/p/how-to-become-the-best-in-the-world)
 
 ### Academic Research
 
