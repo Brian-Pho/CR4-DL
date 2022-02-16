@@ -34,6 +34,11 @@ The website was built using Gatsby and React-Bootstrap, and the theme was inspir
 - <https://www.quickpicturetools.com/en/combine_images/>
 - Markdown linter: <https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint>
 
+## TODO
+
+- [ ] Add search function
+- [ ] Organize papers by topic
+
 ## Note Creation Process
 
 ### Style Guide
