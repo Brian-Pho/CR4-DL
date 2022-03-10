@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Networks of the Brain"
-date: "2021-01-30"
+date: "2022-01-30"
 categories:
   - Textbooks
 book: "networks-of-the-brain"

@@ -33,6 +33,7 @@ The website was built using Gatsby and React-Bootstrap, and the theme was inspir
 - <https://www.thepunctuationguide.com/>
 - <https://www.quickpicturetools.com/en/combine_images/>
 - Markdown linter: <https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint>
+- <https://www.andrewvillazon.com/automatically-deploying-with-github-actions/>
 
 ## TODO
 
