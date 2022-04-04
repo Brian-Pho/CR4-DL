@@ -7,6 +7,12 @@ categories:
 excerpt: "My thoughts on certain books."
 ---
 
+### Being You
+
+*Rating: 5/5*
+
+I've been eagerly waiting (a year) for this book and it delivered on my expectations. I love the work by Anil Seth and this book is a great summary for our bleeding-edge understanding of consciousness. The books covers the three mains parts of consciousness: level, content, and self, while tying it all together with Seth's Beast Machine Theory. While the book did read rough at times (the philosophy parts) and the emphasis on the brain as a prediction machine got repetitive, the ideas are clear and the writing style unique. I don't think a layperson can read this book and understand everything, but an undergraduate neuroscience student shouldn't have any problems.
+
 ### After Phrenology
 
 *Rating: 1/5*
