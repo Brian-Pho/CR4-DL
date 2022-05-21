@@ -40,10 +40,10 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "85964a68c87dfcd2973d8a7fe76122cd"
+    "revision": "4687eb4360f185526b4e3d6c998d25f8"
   },
   {
-    "url": "static/webfonts/s/arimamadurai/v12/t5t4IRoeKYORG0WNMgnC3seB1V3_rbuD.woff2"
+    "url": "static/webfonts/s/arimamadurai/v14/t5t4IRoeKYORG0WNMgnC3seB1V3_rbuD.woff2"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-9373f34331df42beac27.js"
