@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-template-tsx",
+    "path": "/16",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"excerpt":"LaTeX Notes","timeToRead":1,"fields":{"slug":"/courses/cpsc-319/"},"frontmatter":{"title":"CPSC 319: Data Structures, Algorithms, and Their Applications","date":"January 1, 2017","categories":["Courses"],"excerpt":"Data Structures, Algorithms, and Their Applications"}}}]}},"pageContext":{"limit":6,"skip":90,"numPages":16,"currentPage":16}},
+    "staticQueryHashes": ["1031357278","1878747374","3666494887"]}
