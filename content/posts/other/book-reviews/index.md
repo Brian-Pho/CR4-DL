@@ -7,6 +7,12 @@ categories:
 excerpt: "My thoughts on certain books."
 ---
 
+### The Brain that Changes Itself
+
+*Rating: 2/5*
+
+This book started off strong with the story of how sensory substitution can treat and potentially cure cases where our sensory organs fail. However, the chapters after the first were a let down. I disliked how opinionated the author was towards localization, often setting up his argument as "The traditional viewpoint of localization states this, however, this new finding about neuroplasticity disproves that statement and thus the localization viewpoint". I tend to dislike when authors attack some well-established theory without also explaining all of the previous findings that the theory explains (After Phrenology is also guilty of this) or they attack a simplified version of the theory. Another point that I disliked is that this book didn't present anything new compared to the "Livewired" book. Livewired has a structured approach to neuroplasticity, tying evidence into a framework with clear progression. This book, however, just presented case after case without many connecting themes.
+
 ### Being You
 
 *Rating: 5/5*
