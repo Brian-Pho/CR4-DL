@@ -7,6 +7,18 @@ categories:
 excerpt: "My thoughts on certain books."
 ---
 
+### Zero to One
+
+*Rating: 3/5*
+
+An ok book on startups. The author trash talks a lot which is why I dislike the book. And some of the advice is too general to be useful, but it did have some insights. Overall would not read again since the advice is too general or too full of opinions not related to startups.
+
+### Models of the Mind
+
+*Rating: 4/5*
+
+A great book on the history of models of the brain. It was well structured by moving from the low-level (neuron and action potential) to the high-level (networks and grand theories). While I didn't learn many new ideas, I think this book is a great intro to the computational study of the brain as it touches many fields. The book only lost points for me because no mention of the efference copy and because the great writing sometimes had an academic tone.
+
 ### The Brain that Changes Itself
 
 *Rating: 2/5*
