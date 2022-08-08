@@ -61,7 +61,7 @@ The following is a list of questions about the brain that I don't know the answe
 - Population coding based on Georgepopulous?
     - No
 - Mirror neurons?
-    - No
+    - Kind of, some behaviors are more supported than others
 - Panpsychism?
     - No
 - fMRI?
@@ -70,6 +70,8 @@ The following is a list of questions about the brain that I don't know the answe
     - Yes and no. On a species-level, yes. On an individual-level, no. This is seen in cases where people commit suicide and become addicted to drugs, fast-food, and don't care for their survival.
 - Is the purpose of brains to mirror the outside work; to reflect reality?
     - Yes and no. Brains mirror the outside world as argued in Livewired, but we can also imagine ideas that don't exist in reality such as fantasy books, dreams, and counterfactuals.
+- Why is myelin considered fat?
+    - Myelin is when a specific glia cell (oligodendrocyte) wraps axons with multiple layers (like a toilet paper role) it's own cell membrane. Since cell membranes are fat (phospholipid bilayer), myelin is just many layers of wrapped fat. Fat is a great insulator of not just heat, but ions, which is why it's used to contain the ions in the action potential, speeding them up.
 
 ## To Explore Questions
 

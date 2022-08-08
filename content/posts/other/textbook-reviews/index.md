@@ -7,6 +7,12 @@ categories:
 excerpt: "My thoughts on certain textbooks."
 ---
 
+### Vision
+
+*Rating: 1/5*
+
+I struggled to get through this textbook. While the first part was ok and it introduced Marr's three levels, the rest of the book feels dated and too technical. The heavy reliance on stereograms means that if you can't see them (like me), you can't do most of the examples. And stereograms aren't representative of naturalistic stimuli so the arguments based on them are weaker. Another weakness was the lack of link to action/behavior and the lack of neurobiological detail. Sure, we can come up with technical theories of how vision works, but without verifying them against evidence, they're just hypotheses. And that was the main feeling I got from this book: just a collection of outdated vision hypotheses. I wouldn't recommend this textbook to learn anything about vision as our current understanding has vastly changed in the last 40 years. Instead, pick up "Principles of Neural Science" for the neuroscience of vision or "Principles of Neural Design" for the computatio behind vision.
+
 ### Networks of the Brain
 
 *Rating: 3/5*
