@@ -7,6 +7,12 @@ categories:
 excerpt: "My thoughts on certain books."
 ---
 
+### Consciousness Explained
+
+*Rating: 3/5*
+
+An old but good book on consciousness. Although it was published 30 years ago, many of the ideas stand the test of time and are novel even today. The writing is too philosophical for me, which is expected since the author is a philosopher first neuroscientist second. But there is some neuroscience evidence sprinked in here and there that supports some of the author's arguments. Overall not a bad read.
+
 ### Zero to One
 
 *Rating: 3/5*

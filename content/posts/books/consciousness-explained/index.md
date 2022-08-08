@@ -1,0 +1,556 @@
+---
+layout: post
+title: "Consciousness Explained"
+date: "2022-07-12"
+categories:
+  - Books
+book_authors: "Daniel Dennett"
+excerpt: "An account of how consciousness arises from the interaction of physical and cognitive processes in the brain."
+---
+
+## Chapter 1: How Are Hallucinations Possible?
+
+- Brain in the vat thought experiment
+    - Suppose evil scientists removed your brain while you slept and set it up in a life-support system vat.
+    - These scientists want to trick you into believing that you’re not just a brain in a vat, but still up and about, engaging with the real world.
+- Rene Descartes realized that even the evil scientists couldn’t trick him into thinking he himself exists if he doesn’t. Thus the statement “I think, therefore I am.”
+- Today, we’re less concerned about proving our own existence and are more concerned about what we may conclude from our experience of our nature and the nature of the world.
+- Could you be nothing but a brain in a vat?
+- While it’s possible that the evil scientists could substitute your sensory inputs, this doesn’t mean that it’s true.
+- E.g. It’s possible to build a steel ladder to the moon and it’s possible to write out all English conversations consisting of less than a thousand words.
+- Assuming it’s possible, scientists may start simple by stimulating the nerve fibers for sound and touch.
+- However, you would experience being paralyzed even though your brain can output motor signals.
+- To experience movement, the sensory experience of moving needs to be given to sensory fibers; the kinesthetic feedback associated with the relevant motor signals.
+- Now, the scientists are faced with a problem that will quickly get out of hand because just how the object will feel depends on how you decide to move your finger.
+- The problem of calculating the proper feedback, generating it, and then presenting it to you in real time is going to be computationally intractable even on the fastest computer.
+- The problem is to create a reality that convinces your mind, but the real world is too complex to be simulated by known methods.
+- We face another intractable problem if we instead try to record and playback all possible responses; we just trade one insoluble problem for another.
+- In essence, the evil scientists will be swamped by a combinatorial explosion when they try to give you any genuine exploratory powers in this imaginary world.
+- The amount of information obtainable by a human being is staggeringly large.
+- One conclusion we can draw from this thought experiment is that we’re probably not brains in vats.
+- Another conclusion is that strong hallucinations should be impossible since it requires too much data.
+- Hallucinations can be roughly ranked in strength by the number of features they have.
+- We should be skeptical of reports of very strong hallucinations because if they’re that strong, then they’re real and not hallucinations.
+- However, dreams are strong hallucinations so we’re missing something about how the brain works. Other examples include schizophrenia and Capgras syndrome.
+- If such experiences are hallucinations, then they must be produced entirely inside the mind and made to fool the very mind that concocts it.
+- Descartes thought if perceptions are caused by various complicated chains of events in the nervous system that eventually lead to the center of consciousness, then intervening somewhere along the chain would produce exactly the chain of events caused by normal stimuli, but not actually caused by the stimuli.
+- The end result, of tugging on the chain in the middle, would produce conscious perception without stimulation; a hallucination.
+- Thus, the brain plays some trick on the mind by tugging on the chain.
+- This was Descartes’s explanation for phantom-limb syndrome.
+- Phantom-limb syndrome is relatively weak since it’s a hallucination in only one sensory modality, usually pains or itches.
+- E.g. Amputees don’t see, hear, or smell their phantom limbs.
+- There’s no way the brain as illusionist could store and manipulate enough false information to fool the mind, is there?
+- If the brain starts trying to short-circuit its own nerves, the result will only be the weakest of hallucinations.
+- A review of the hallucination literature suggests an inverse relationship between strength and frequency.
+- E.g. Weak hallucinations are common while strong hallucinations are rare.
+- Illusionist: whatever produces the hallucination.
+- Review of bottom-up and top-down perceptual processing.
+- All we need to suppose must happen for a normal perceptual system to be thrown into a hallucinatory mode is for the top-down processing to work normally, while the bottom-up processing to stop working normally (random/noisy inputs).
+- This is exactly what happens during sleep and may explain why we dream.
+- Other pieces of evidence include the finding that hallucinations are the normal result of prolonged sensory deprivation and that drugs’ diffuse effect may lower the top-down system’s threshold for data.
+- The key element in explaining hallucinations and dreams is the idea that the brain must satisfy its curiosity.
+- In the following chapters, the author attempts to explain the various phenomena that compose consciousness.
+- It’s hard to imagine how your mind could be your brain, but not impossible.
+
+# Part I: Problems and Methods
+
+## Chapter 2: Explaining Consciousness
+
+- Human consciousness is just about the last surviving mystery.
+- Unlike the mysteries of the origin of the universe, of life and reproduction, and of time and space, the mystery of consciousness still stands.
+- There are many who insist, and hope, that there will never be a demystification of consciousness.
+- E.g. Some fear that science will “murder to dissect” as Wordsworth put it.
+- The author argues that any losses by demystifying consciousness are overridden by the gains in understanding that a good theory of consciousness provides.
+- No notes on justifying the demystification of consciousness.
+- In a way, consciousness is similar to love or money because they don’t exist if people disappear; they’re all part of an intersubjective reality.
+- When we understand consciousness, when there’s no more mystery, it will be different, but there will still be beauty and awe. Just like how we understand sunsets but can still enjoy them.
+- What is the mystery of consciousness?
+- The mystery is in what consciousness is and how the physical world can produce it.
+- Thought experiment
+    - Close your eyes and imagine, in as much detail as possible, a purple cow.
+    - Now answer the questions below
+        - Was your cow facing left, right, or head on?
+        - Was your cow chewing their cud?
+        - Was their udder visible to you?
+        - Was your cow a pale purple or deep purple?
+    - If you followed the instructions, you could answer all four questions without making up an answer on the spot.
+    - If you found all four questions demanding, you probably didn’t bother imagining a purple cow at all but thought “I’m imagining a purple cow”.
+    - Now close your eyes again and imagine a yellow cow.
+    - You can probably answer the previous questions but this time we want to ask
+        - What’s the difference between imagining a purple cow and imagining a yellow cow?
+- The obvious answer is that the first imagined cow is purple and the second cow is yellow.
+- However, the trouble is that since these cows are just imagined, it’s hard to see what could be purple in the first case and yellow in the second.
+- E.g. Nothing cow-shaped in your brain turns purple in one case and yellow in the other.
+- There are events in your brain that are tightly associated with your specific imaginings, so perhaps in the future a neuroscientist can say that the difference in color is attributed to a difference in brain activity.
+- But what is yellow when you imagine a yellow cow?
+- When you imagine a cow and it came into existence, something somewhere must have had those properties at that time.
+- Events in consciousness are, by definition, witnessed; they’re experienced by an experiencer.
+- An experienced event can’t just happen on its own; it must be somebody’s experience, it must be an existence’s experience.
+- The trouble with brains is that when you look in them, you find that there’s nobody home.
+- E.g. No part of the brain is the thinker that does the thinking or the feeler that does the feeling.
+- If the self is distinct from the brain, it seems that it must be made of mind stuff and not brain stuff.
+- Review of functionalism, the argument that regardless of a system’s physical instantiation, as long as it does the same job as the brain that system is conscious.
+- The brain is a machine of sorts, an organ like the heart, lungs, or kidneys with an ultimately mechanical explanation of all its powers.
+- Consciousness is precisely what distinguishes us from mere automata, from mere automatic reflexes.
+- Four reasons for believing in mind stuff, because nothing in the brain could
+    - be the medium for rendering the purple cow
+    - be the thinking thing, the I in “I think therefore I am”
+    - appreciate wine, hate racism, love, and be a source of mattering
+    - act with moral responsibility
+- I disagree with these four reasons, but for the sake of transparency these are reasons provided by the book.
+- Dualism: the idea that the mind is distinct from the brain, composed not of ordinary matter but of some other, immaterial special stuff.
+- Materialism: that the mind is the brain and is nothing but a physical phenomenon.
+- The problem with dualism is how the mind is immaterial, and yet can still affect the material.
+- E.g. Similar to Casper the ghost, how can a ghost both travel through walls but also grab a falling towel?
+- How can mind stuff both elude all physical measurement, but control the body?
+- Dualism is a fundamentally antiscientific stance as it proposes no theory of how the mind works and believes that consciousness should remain mysterious. To accept dualism is to give up.
+- Thus, dualism should be avoided at all costs.
+- If dualism is the best we can do, then we can’t understand consciousness.
+- The rules for the author’s theory of consciousness
+    - No Wonder Tissue allowed. Every feature of consciousness must be explained by science and there must never be an appeal to unknown forces, substances, or powers.
+    - No feigning anesthesia. Don’t pretend that some experiences don’t exist. If we wish to deny the existence of some controversial feature of consciousness, the burden falls on us to show that it’s somehow illusory.
+    - No nitpicking about empirical details.
+- The very mysteriousness of consciousness is one of its central features, one of which it possibly can’t survive without.
+
+## Chapter 3: A Visit to the Phenomenological Garden
+
+- We often use the term ‘phenomenology’ as an umbrella term to cover all the things that inhabit our conscious experience.
+- E.g. Thoughts, smells, itches, pains, imagined purple cows, hunches, etc.
+- While there are zoologists who study animals, there aren’t any phenomenologists who are uncontroversial experts on the nature of the things that swim in the stream of consciousness.
+- Let’s take a brief trip in the phenomenological garden (phenom) to satisfy ourselves that we know what we’re talking about.
+- Three parts of the phenom
+    - Experiences of the external world
+        - E.g. Sights, sounds, smells, slippery, hot and cold, and the position of our limbs.
+    - Experiences of the internal world
+        - E.g. Fantasy images, daydreaming, talking to yourself, and recollection.
+    - Experiences of emotion
+        - E.g. Bodily pains, hunger and thirst, joy, anger, and regret.
+- Let’s start with the crudest of our outer senses: taste and smell.
+- Other animals have vastly superior olfaction compared to us as they can not only discriminate more odors, but also in fainter traces and with better temporal and spatial resolution.
+- It’s no mystery why humans have poor olfaction localization, it’s because the odor molecules wander more or less at random into our nasal passages and their arrival at specific points on the epithelium provides no information about where they came from.
+- In other words, smell doesn’t form a topographical map unlike the retina.
+- The complicated processes of integrating all of our sensory information isn’t transparent to consciousness.
+- We don’t and can’t notice how we integrate sensory information, we just experience it.
+- E.g. Integrating taste and smell is done without our conscious knowledge.
+- E.g. Think of how you can feel the slipperiness of an oil spot on the highway under the car as you turn, even though the wheels don’t have nerves.
+- It seems as if some of your nerve endings were in the pen because you feel the differences of the surfaces at the tip of the pen.
+- The signal trains from the ear are no more heard sounds than are the grooves etched into a vinyl disk.
+- When and where do these toneless signals get their final translation into subjectively heard sounds?
+- We don’t want to look for places in the brain that vibrate like guitar strings any more than we want to find places in the brain that turn purple when we imagine a purple cow.
+- But then what could we find that would satisfy us that we had reached the end of an auditory experience?
+- Why does a guitar sound different than a flute? It’s because our auditory system is sensitive enough to pick up on the differences in sound generated by both instruments. Given a less sensitive auditory system, both instruments would sound the same.
+- The segmentation of words in speech is a process that imposes boundaries based on the grammatical structure of the language, and not on the physical structure of the sound wave.
+- This explains why we hear speech in foreign languages as jumbled and fast.
+- Review of visual phenomenology and the fovea.
+- Imagined, anticipated, and recollected sensations are quite different from real sensations.
+- However, in dreams they’re almost equal.
+- Laughter is a unique human behavior and we don’t know the evolutionary purpose behind it, if it has one.
+- Note that the view from within is well known and unsurprising: we laugh because the stimulus is funny.
+- However, an explanation behind laughter from within isn’t what we want. We want a general explanation for why it exists.
+- E.g. Pain exists because it prevents the body from being destroyed, which enables reproduction and survival.
+
+## Chapter 4: A Method for Phenomenology
+
+- First-person-plural presumption: we can comfortably speak about the mysteries of consciousness because we all are conscious.
+- E.g. Any conscious-introspection experiment can be performed by anyone.
+- Perhaps we’re fooling ourselves about the high reliability of introspection.
+- We have privileged access to our own thoughts and feelings, an access guaranteed to be better than the access of any outsider.
+- E.g. Nobody can tell you that you’re wrong about what you’re thinking or feeling.
+- However, this access may mislead us into believing that our observations are true rather than being theories.
+- E.g. Introspection fails us when we believe that we can see color in our peripheral vision when we actually can’t.
+- It was a growing understanding of the problems with introspection that lead to the rise of behaviorism.
+- Since we can’t see directly into people’s minds but only what they report, any facts about their mental events can’t be verified by objective methods.
+- However, we can measure brain events in a third-person perspective, thus negating some of the argument that we can’t study subjective experience.
+- Heterophenomenology: a third-person approach to describing phenomenology.
+- Review of a philosophical zombie, a person that behaves like any other person but isn’t conscious.
+- The point of a philosophical zombie is that you can’t tell a zombie from a normal person by only examining external behavior.
+- People are the only objects of scientific study that involve verbal communication.
+- No notes on how stenographers transcribe speech into text based on contextual cues.
+- We can’t be certain that the speech we hear expresses real beliefs about real experiences.
+- No notes on fictional stories and the philosophical problems associated with them.
+- Review of Shakey the robot and how it sees and recognizes objects.
+- Review of the SHRDLU program.
+- We have to treat people’s descriptions of phenomenology as analogous to fiction, because there are cases where people are just wrong about what they’re doing and how they do it.
+- E.g. Asking people how they recognize that object as a box leads to only surface-level answers because people don’t have access to deeper-level mechanisms.
+- The relation between what they say and how they do it is obscure to themselves, so whatever they say can’t be trusted.
+- What people say is only how it seems to them, which may or may not be true.
+- If we are to believe everything you say about your phenomenology, then you’re asking too much.
+- You aren’t authoritative about what’s happening in you, but only about what seems to be happening in you.
+- A neutral method for investigating and describing phenomenology
+    - You extract reports from speaking subjects.
+    - You use those texts to generate a theorist’s fiction, the subject’s heterophenomenological world.
+    - This fictional world is populated with all the images, events, sounds, smells, memories, and feelings that the subject believes to exist in their stream of consciousness.
+    - This world is a portrayal of exactly what it’s like to be that subject, in the subject’s own terms.
+- The theorist can then try to explain the existence of this heterophenomenology in all its details.
+- The heterophenomenology exists as uncontroversial as novels and other works of fictions exist.
+- Similar to how people have theories for fictional worlds, we can have theories of phenomenology.
+- The next step is to see whether the items portrayed in these heterophenomenological worlds exist as real objects, events, and states in the brain. This is the approach of the neural correlates of consciousness.
+- Thus, we can ground fiction in reality using empirical evidence.
+
+# Part II: An Empirical Theory of the Mind
+
+## Chapter 5: Multiple Drafts Versus the Cartesian Theater
+
+- This chapter covers how some of the most perplexing paradoxes of consciousness come from clinging to habits of thought.
+- Wherever there’s a conscious mind, there’s a point of view; an observer.
+- Observers at different points in the universe see things differently.
+- What happens when we try to locate the observer’s point of view precisely, to a point within the individual?
+- We find that there’s no single point in the brain where all information funnels to, no center of consciousness.
+- All experiments we consider involve scales of time measured in milliseconds (thousandths of a second) because that’s the temporal resolution of consciousness.
+- E.g. You can start and stop a stopwatch in about 175 msec. You feel pain from your fingertip in 20 msec.
+- Descartes thought that the center of consciousness was the pineal gland because it lives in the brain’s midline rather than being paired.
+- He was wrong though as there’s no reason to believe that the brain has any inner observer.
+- Although light travels faster than sound, the brain takes longer to process visual stimuli.
+- There’s a “horizon of simultaneity” of about ten meters where light and sound that leave the same point about ten meters away are perceived as simultaneous.
+- But there’s a fundamental problem if we dig deeper, which is what to count as the “finish line” in the brain.
+- We can use behavior as a proxy for the finish line, but if we could say where exactly in the brain the finish line is, then we could say exactly when the experience happened.
+- Cartesian materialism: the view that the mind is material but that there’s still a center for consciousness, a finish line or boundary somewhere in the brain.
+- Cartesian theater: a metaphorical picture of how conscious experience must sit in the brain.
+- If the point of view of the observer must be smeared over the large volume in the observer’s brain, then the observer’s own sense of sequence and simultaneity must be determined by something other than sensory information arrival order.
+- E.g. If A beats B to one finish line, but B beats A to another, which result do we experience?
+- Perhaps our conscious minds are located at the termination of all inbound processes, just before the initiation of all outbound processes that implement our actions.
+- Thus, conscious experience may exist at the peak of two slopes, one going up to provide input and the other going down to provide output. This peak is covered by a fog though.
+- There must be a place where the signals turn from input to output, assuming the output signals require the input signals.
+- We must stop thinking of the brain as if it has one summit or peak because we simply don’t know what’s there. All we know is that two slopes reach into the fog.
+- An alternative approach is the Multiple Drafts model.
+- Multiple Drafts model
+    - All varieties of perception, thought, or mental activity are accomplished in parallel in the brain.
+    - Information entering the nervous system is under continuous editorial revision.
+    - E.g. How vision edits out saccades and motion. The McGurk effect.
+    - We don’t directly experience what happens on our retinas, ears, or the surface of our skin.
+    - What we actually experience is a product of many processes of interpretation.
+    - Feature detections only have to be made once as once they’re picked up by a specialized and localized part of the brain, the information doesn’t have to be sent somewhere else to be processed.
+    - The detection doesn’t lead to a representation of the feature for the benefit of a Cartesian Theatre.
+    - It’s confusing to ask when a feature becomes conscious because perception is being continually edited by many distributed processes around the brain.
+    - At any point in time, there are multiple drafts of narrative fragments in various stages of editing in various places of the brain.
+    - Probing this stream at different places and times produces different drafts and effects.
+    - This model avoids the tempting mistake of supposing that there must be a single narrative, a final draft, that is experienced. Instead, there’s an actual stream of consciousness of the subject, regardless of if the experimenter or subject can gain access to it.
+- Review of the color phi phenomenon.
+    - Suppose we have a red spot and a green spot that are separated by a small distance.
+    - If the two spots are rapidly switched on and off, not only will the spot appear to move (and not appear as two spots), but the color switches abruptly midway through the movement.
+    - How does the brain know to switch the color midway if it hasn’t seen the second spot?
+- Unless the brain can time travel, which we don’t believe, the only possible explanation is that the red-switching-to-green-midway can’t be created until after seeing the second green spot.
+- But if the second spot is already in conscious experience, wouldn’t it be perceived as a spot?
+- It follows that your consciousness of the whole event must be delayed until after the green spot is perceived. Similar to how a memory can be changed after it is formed.
+- The phenomenon isn’t due to conditioning or prediction because the effect still occurs on the first trial and in subsequent trials where the second color is randomly changed.
+- One hypothesis is that analogous to how live broadcasts are delayed to provide censors in the control room a few seconds to remove obscenities, the brain has an editing room to change perception before it arrives at consciousness.
+- Another hypothesis is that perception isn’t tampered with but instead memory. Perhaps the brain perceives the actual sequence but upon inspection, it must make sense of the changing color and thus edits the memory, creating a memory hallucination.
+- A third hypothesis is that color information is processed faster than shape and movement information, thus the second color is processed before the second spot is shown, which changes the first spot’s color to second color.
+- If we try to test both hypotheses by extending the interval between the two spots, we run into the issue of changing perceived motion to inferred motion.
+- There’s an intermediate range of intervals where the phenomenology is that both spots are stationary and moving, but this distinction isn’t relevant to testing the hypotheses.
+- Is your memory playing tricks on you, or are your eyes playing tricks on you? Is the edit post-experiential or pre-experiential?
+- In the end, both hypotheses tell exactly the same story except for when the edit occurs. All the evidence fails to distinguish between the two thus, this is a difference that makes no difference.
+- A mistaken idea is that our perception projects a signal back to the source to determine where the perception should be felt.
+- E.g. When you stub your toe, this causes upward signals to the brain’s pain centers, which then project the pain back down into the toe where it’s felt.
+- Instead, it seems to the observer that the sound or pain is coming from that point; the observer projects the sound in phenomenal space.
+- What is phenomenal space?
+- It’s a space of a fictional world, but this world is anchored to actual physical events in the ordinary space of the brain.
+- When we say the listener projects the sound to a point in this space, we mean only that it seems to him that this is where the sound is coming from; to other observers the sound source might come from somewhere else.
+- The parallel processing of inputs and outputs in the brain, and by processing we mean the creation, revision, and deletion of interpretations of content or behavior, is similar to writing multiple drafts for multiple stories.
+- At any point in time, there are multiple drafts of narrative fragments in various stages of editing in various places in the brain.
+- Some of these drafts will make a brief contribution and then fade, others make no contribution at all, while others still persist to play a variety of roles in the further modulation of internal state.
+- Probing this stream at different points in the process produces different effects.
+- E.g. If we probe too late, there might be no draft left at all. If we probe too early, we learn how early drafts are achieved but at the cost of disrupting the normal progression of the stream.
+
+## Chapter 6: Time and Experience
+
+- We saw how the Multiple Drafts model dissolves the problem of “backwards projection in time” for the color phi phenomenon, but we ignored some major complications.
+- If you’re rapidly presented with a list of words or pictures but subsequently only report some of the words or pictures, did you rapidly forget them or did they never get consciously perceived by you in the first place?
+- We intuitively argue that we did experience them consciously but didn’t remember them.
+- Review of the masking experiment paradigm where a stimulus is briefly flashed and then immediately followed by a second ‘masking’ stimulus. Subjects report only seeing the second stimulus.
+- The standard explanation is that the second stimulus somehow prevents conscious experience of the first stimulus by blocking it on its way to consciousness.
+- Another explanation is that subjects are conscious of the first stimulus but their memory of this experience is almost entirely overwritten by the second stimulus.
+- The Multiple Drafts theory agrees with the second explanation as it argues that the initial stimulus was overwritten.
+- Review of the cutaneous rabbit illusion where tapping the wrist and area near the elbow in a short interval results in subjects perceiving taps to travel in regular sequence up their arm.
+- How does the brain know that after the taps on the wrist, there are going to be taps near the elbow?
+- In trials where the later elbows taps are never delivered, subjects feel all wrist taps at their wrist as expected. So the brain can’t know about the elbow taps until they happen or else it can time travel.
+- Perhaps the brain delays the conscious experience of stimuli until all taps are felt, and then editing the experience to match expectations. We don’t know.
+- The brain’s fundamental task is to control the body through a world of changing conditions and surprises, so it must gather information from that world and use it to quickly produce anticipated movements to stay ahead of disasters.
+- So the brain must represent temporal properties of events in the world.
+- Given that the electrochemical signals used by neurons are relatively slow compared to light or electronic signals through wires, the brain is under significant time pressure.
+- Thus, the brain predicts the future to reduce some of that pressure.
+- How does the brain keep track of the temporal information it needs?
+- E.g. Since the toe-to-brain distance is greater than the knee-to-brain distance or the chest-to-brain distance, simultaneous stimuli applied to these different areas will arrive out-of-order at the brain, assuming identical travel speed.
+- How does the brain ensure central simultaneity of representation for distant simultaneous stimuli?
+- We might think that the nervous system introduces artificial delays for signals closer to the brain, but this goes down the wrong path. It’s a mistake to assume that the brain even needs to solve this problem.
+- Why should important signals, say from the forehead, be delayed just because there might be a chance for simultaneous signals from the toes?
+- Why should the brain care about simultaneous signals in the first place?
+- Instead of synchronized clock-based paradigm like in digital computers, the brain works on an event-based paradigm to process signals. Useful information is used immediately, minimizing delay.
+- Imposing system-wide synchrony requires delays, making processing inefficient.
+- We must remember to distinguish what’s represented with how it’s represented, the distinction between content and vehicle.
+- E.g. Representing A before B can be conveyed as “A before B” or “B after A”. In the latter case, what’s represented differs from how it’s represented.
+- It doesn’t matter what order the representations occur in, as long as they occur in time to contribute to behavior.
+- This time window to act, called temporal smearing, makes it so that small time differences don’t matter.
+- No notes on Benjamin Libet’s “backwards referral in time” experiment and readiness potential experiment.
+- Couldn’t consciousness be not the arrival of a representation at a point, but rather a representation that exceeds some threshold of activation over the entire cortex or large parts of the cortex?
+- The idea that consciousness is a mode of action rather than a subsystem of the brain has much support.
+- Asking exactly when we become conscious of a stimulus is analogous to asking exactly when did the British Empire become informed of the truce in the War of 1812? Sometime between Dec 24, 1814 and Jan 15, 1815, as different factions received the truce at delayed times.
+- The signing of the truce was done at one moment by the Empire, but the participation by the British forces was done in different moments. There simply is no fact if we try to pin down the truce to a specific day and hour.
+- Similarly, when the brain receives perceptual information, each of the brain’s system become conscious of the feature they’re looking for at different times.
+- Since cognition, control, and hence consciousness is distributed around the brain, no moment can count as the precise moment at which each conscious event happens.
+
+## Chapter 7: The Evolution of Consciousness
+
+- When something gets into the business of self-preservation, boundaries become important because you’re trying to preserve yourself.
+- This primordial form of selfishness is one of the hallmarks of life.
+- E.g. A rock doesn’t protect it’s territory or boundary from changes or damage.
+- The distinction between everything on the inside of a closed boundary, and everything outside of that boundary, is at the heart of all biological processes.
+- Natural selection tries out many designs but many side effects occur. Most designs are terrible but every now and then, there’s a beneficial design that gets replicated and passed on.
+- Multiple functions aren’t unknown in human-engineered artifacts, but they’re relatively rare.
+- In contrast, nature has multi-function elements everywhere and this is one of the reasons theorists have a hard time finding plausible designs for consciousness in the brain.
+- Review of how nervous systems evolved and for what purpose.
+- Sometimes events in nature are chaotic and don’t follow a pattern or cycle. In these cases, no pre-built design can address all possibilities, so better organisms will be those that can redesign themselves to meet the conditions they encounter.
+- This redesign is called learning, or sometimes just development.
+- Learning can be implemented by moving evolutionary processes inside the brain.
+- The candidates for selection are various brain structures that control or influence behaviors, and the selection is accomplished by a mechanical weeding-out process that’s genetically installed into the nervous system.
+- This capability to learn not only provides organisms with a competitive advantage, but it also reflects back on the process of genetic evolution and speeds it up.
+- Baldwin effect: natural selection can explore an genetic search space but is inefficient compared to how neural plasticity can explore the same space.
+- Plasticity allows solutions and successful advantages to be spread and learned by more individuals of the same species and by future generations; this is also known as culture.
+- This means that species with plasticity will tend to evolve faster than those without it.
+- So evolution in the second medium, neural plasticity, can enhance evolution in the first medium, genetics.
+- Hard-wired nervous systems are good at dealing with unchanging environments as they’re more energy-efficient and lightweight compared to plastic nervous systems.
+- Review of Oliver Selfridge’s Pandemonium model in AI.
+- Our brains are very similar to the brains of our ancestors 10,000 years ago. So the tremendous process of our species in the last 10,000 years must be due to harnessing the plasticity of the brain in a compound fashion.
+- The way a brain represents hunger must differ from how it represents thirst since different representations govern different behaviors.
+- Plasticity makes learning possible, but there must be something to learn, something to make use of that plasticity. That something is culture.
+- Review of the evolution of language and cultural transmission.
+- Talking to yourself or drawing pictures to yourself are both acts of self-manipulation.
+- Meme: a unit of cultural transmission passed on by imitation.
+- A meme’s existence depends on a physical embodiment in some medium.
+- The meme for education is a meme that reinforces the very process of meme-implantation.
+- All three media of change: genetic evolution, phenotypic plasticity, and memetic evolution, have each contributed to the design of human consciousness at an accelerated rate.
+- “The large brain, like large government, may not be able to do simple things in a simple way.” - Donald Hebb
+- Review of the history of computers from Alan Turing to John von Neumann.
+- There’s a big difference between a standard computer’s serial architecture and the parallel architecture of the brain.
+- Just as we can simulate a parallel brain on a serial von Neumann machine, we can also do the opposite and simulate a serial von Neumann machine on parallel hardware.
+- The author argues that conscious minds are more-or-less serial virtual machines implemented on the parallel hardware that evolution provided us.
+- Some features of consciousness may just be selfish memes without any function or purpose except to replicate.
+- Learning to reason is learning efficient knowledge-retrieval strategies.
+- It isn’t obvious why talking to yourself does any good at all, because you’re retrieving information that you already know.
+- What’s special about talking to yourself is that you also process information, not just retrieve it. You make judgements on the recalled information and combined it with other information to gain new information.
+
+## Chapter 8: How Words Do Things with Us
+
+- There isn’t a chain of command in the brain governing speech production, at least at the time of writing.
+- Part of the task of dismantling the Cartesian Theater is to find a more realistic explanation of the actual source(s) of the assertions, questions, and other language acts that we naturally attribute to a person.
+- An explanation for our actions depends on the level of access that the report-making machinery has.
+- E.g. “My retina has two types of photoreceptors, one for wavelength and one for intensity” or “My eyes see different shades of color” or “I don’t know, some things just look different/colored”.
+- A speech error is an error because it’s not what the speaker meant to say; it’s an error in implementation.
+- Whatever is initiating and generating speech intention only provides the language centers of the brain with enough to construct a message, but not enough to exactly specify the message.
+- Thus, errors arise from the disconnect between the desire for a message and message construction.
+- This is a model where responsibility for the details are delegated to lower-level systems.
+- We know that somewhere in any successful model of language production, there must be a process of message generation otherwise we’ll be stuck with either a miracle or an infinite regress of meaning.
+- Some models suggest a near complete separation between the processes of message generation and linguistic production.
+- Other models merge the two processes as there isn’t one source of meaning, but many shifting sources that are chosen out of the search for the right words.
+- Perhaps we have to abandon the idea that the brain begins with a determinate thought to be expressed and instead builds the thought as it goes.
+- We often discover what we think and mean by reflecting on what we find ourselves saying.
+- Review of aphasia and anosognosia.
+- We note that the brain’s machinery is quite capable of constructing apparent speech in the absence of any coherent direction.
+- E.g. Wernicke’s aphasia.
+
+## Chapter 9: The Architecture of the Human Mind
+
+- The author’s theory so far (Multiple Drafts theory)
+    - There is no single stream of consciousness because there is no central Headquarters, no Cartesian Theatre where it all comes together.
+    - Instead, there are multiple channels of specialist circuits in parallel pandemoniums that create Multiple Drafts as they go.
+    - Most of these fragmentary drafts are short-lived in the modulation of current activity but some get promoted to further functional roles.
+    - The basic specialists are part of our animal heritage and came from evolution.
+    - E.g. Predator-avoiding, face-recognizing, grasping, throwing.
+    - Other specialists come from self-exploration or from culture.
+    - E.g. Thousands of memes take up residence in an individual brain.
+- With so many idiots working on the problem, no wonder consciousness is still a mystery.
+- E.g. Artificial intelligence researchers, neuroscientists, psychologists, anthropologists, and philosophers.
+- At the time of this book, the frontier of research on the mind is so wide open that there’s almost no settled paradigm about what the right questions and methods are.
+- Some researchers argue that human consciousness is very recent and born out of culture applied to early functional architecture.
+- Thus, the neural architecture is a medium in which structures get built as a function of the brain’s interactions with the world, and these structures explain cognitive functioning.
+- No notes on the ACT* cognitive model.
+- The sketch of a theory of consciousness presented here is only that: a sketch. This sketch can loosely fit a family of different empirical theories but the main purpose is to address the philosophical problems of consciousness, namely whether any such theory could explain consciousness.
+- It’s commonly believed that specialized modules in the brain must get their functional identity somehow from their actual position in a network of mostly fixed connections.
+- E.g. A color module must be connected, however indirect, to the cone cells in the retina.
+- Once this functional identity is established, the input connections can be cut without loss of the power of the specialist to represent color.
+- It seems then that the cortex is mainly composed of elements whose fixed representational powers are the result of their functional location in the overall network.
+- This is analogous to the way members of the House of Representatives represent districts by carrying information from their linked sources.
+- When human engineers design systems with their imperfect foresight, they build a system where each element plays a single role, carefully insulated from interference from the outside and from other elements to minimize unforeseen side effects.
+- Mother Nature, on the other hand, doesn’t worry about foreseeing side effects and so can capitalize on useful side effects when they appear.
+- It’s fiendishly difficult, but not impossible, to figure out how the brain works, in part because it was designed by a process that can thrive on multiple, superimposed functionality, something difficult to discern from the perspective of reverse engineering.
+- Review of David Marr’s three levels of analysis.
+- To ask what is the function of consciousness is an oversimplification because it presumes that consciousness only has one function.
+- Instead, some features of consciousness might have multiple functions, some features might poorly serve their function, and some features might have no function at all.
+- One function of consciousness is to resolve disputes between brain systems.
+
+# Part III: The Philosophical Problems of Consciousness
+
+## Chapter 10: Show and Tell
+
+- Review of Roger Shepard’s classic study on the speed of object mental rotation.
+- Here’s a simple test that shows how limited our mind’s eye abilities are.
+    - Imagine a three-by-three crossword puzzle and fill the following three words down in each column, starting at the left column: GAS OIL DRY.
+    - Can you read off the horizontal words?
+    - In an actual crossword, it would be simple, but in the mind’s eye it’s incredibly difficult.
+    - A three-by-three array of characters isn’t a complicated data structure, but it’s apparently not something our brains can hold in our mind’s eye.
+- When we learn something new and it becomes second nature or habit, we’ve incorporated the structure of that external phenomenon into our own control structure.
+- What good is talking to yourself if you already know what you intend to say?
+- If the brain is structured into fragments with partial understanding and lack of intercommunication, we can see how talking to one’s self is useful.
+- Thinking is easier to create than to control.
+- First-order thoughts are our desires and feelings that haven’t been expressed, while second-order thoughts are those expressions.
+- E.g. Realizing that you love the person but haven’t yet said it.
+- One researcher, Rosenthal, argues that the transition from first-order to second-order thought is a matter of being conscious of the first-order state.
+- The first-order states are unconscious mental states; states of mind that people haven’t noticed that they’re in.
+- If you couldn’t talk to yourself, then you’d have no way of knowing what you were thinking.
+- There are other ways to express yourself that aren’t verbal.
+- E.g. Facial expressions, hand motions, dance, art.
+
+## Chapter 11: Dismantling the Witness Protection Program
+
+- In Part I, we covered some problems of consciousness and laid down some methodological presuppositions and principles.
+- In Part II, we introduced a new model of consciousness, the Multiple Drafts model, and showed why it should be preferred over the traditional model of consciousness, the Cartesian Theater.
+- Now in Part III, we investigate the implications of the Multiple Drafts models by answering some objections to it.
+- The idea of a “mechanical” interpretation of the brain is the central insight of any materialistic theory of consciousness, but it also challenges a deeply held intuition that there is someone in the brain to witness the events that happen.
+- The goal of this chapter is to break the illusion of a central Witness, the idea that sensations are felt by someone/something in the brain, just like watching a Cartesian theatre.
+- The patterns of disability and spared ability resulting from brain damage sometimes provide substantial and even startling evidence about how the mind is accomplished by the brain.
+- E.g. Trauma, tumor, or stroke.
+- One of the most surprising conditions is blindsight.
+- Blindsight: when subjects can guess with remarkable accuracy visual stimuli occurring in a scotoma even though they don’t consciously experience it.
+- Scotoma: a blind spot or partial loss of vision due to loss of the visual cortex.
+- Blindsight doesn’t support the concept of a philosophical zombie, but actually undermines it.
+- The retina’s blind spot is a great example of when an absence of information isn’t the same as information about an absence.
+- A scotoma differs from the normal blind spot because it is usually noticed by the subject.
+- This is because the brain’s expectations are disrupted as something that should be there is missing.
+- No blindsight person has yet shown a capacity to discriminate colors in the blind field.
+- Interpreting blindsight is controversial in many ways, but one fact is uncontroversial: that blindsight subjects somehow come to be informed about some event in the world via their eyes, in spite of having no conscious visual experience of that event.
+- What separates blindsight people from people who are just lying about being blind?
+- We doubt the blindness claims from hysterically blind people because they sometimes use information from their eyes without being prompted, unlike blindsight subjects that don’t.
+- Blindsight subjects have to be prompted or cued to give their better-than-chance guesses.
+- With enough practice and strategic forgetfulness, we might start from a consciously adopted and followed policy, and gradually move ourselves into following an unconscious policy by detecting the relevant stimuli without being conscious of them.
+- In other words, this is turning any task into a habit.
+- Interestingly, blindsight subjects report that they do consciously experience the stimuli in the blind area, as how else would they be able to report it?
+- But the contradiction is that if they’re conscious of the stimuli, then they’re not blind.
+- The solution is to be more specific about what we mean by being conscious of the stimuli and by being blind. The subject is blind to visual stimuli in that area, but is conscious of reports from that area. Thus, the direct visual knowledge is lost, but the indirect visual knowledge is present.
+- When we have to visually search for an object in plain sight, our brains do receive visual information from it but we don’t consciously perceive it.
+- E.g. Like finding your keys that were in plain sight or the ‘I, Spy’ children’s books.
+- What’s going on with this disconnect between what the brain receives and what we consciously perceive? Was the object present in the background of consciousness, or not present at all?
+- Getting a stimulus to the forefront of consciousness is getting it into a position where it can be reported on.
+- But what causes a stimulus to get to the forefront of consciousness?
+- When instructors teach apprentice piano tuners, they’re told to listen to the “beats” as they tune with a reference key.
+- With training, the apprentices can tune the piano by isolating and tuning out the beats.
+- Thus, with training their conscious experience has changed as they’re now conscious of things that they weren’t previously conscious of.
+- This may be the case for blindsight patients as they can learn to “see” in the blind visual field and thus become conscious of the stimuli.
+- This “seeing” isn’t the normal sense of the word but it still is seeing.
+- E.g. If we hold a playing card in our peripheral vision, we can see the card without being able to identify either its colors or its shapes, but that’s still normal sight.
+- Review of Paul Bach-y-Rita’s work on prosthetic vision devices where pixels were spread over the back or belly of the subject by either electrical or mechanical stimulators.
+- After only a few hours of training, blind subjects using the device could learn to interpret the pattern of vibrations on their skin and their point of view shifted from tingles on the skin to the perspective of the camera mounted on their head.
+- What do we mean that our visual blind spot is “filled-in”?
+- We don’t mean literally since the brain can’t generate light.
+- The brain doesn’t have to “fill in” the blind spot because it has no precedent of getting information from that gap in the retina.
+- When no information arrives from those sources, no one complains as the area is simply neglected.
+- So, all normally sighted people “suffer” from a bit of anosognosia as we’re all unaware of our “deficit”.
+- The blind spot is a spatial visual hole, but there are also temporal visual holes.
+- E.g. We don’t notice the gaps in vision during saccades.
+- Likewise to the blind spot, the brain doesn’t fill in saccade gaps because we’re not designed to notice them.
+- The fundamental flaw of “filling in” is that it presumes the brain is providing something when in fact the brain is ignoring something.
+- This can lead researchers astray as consciousness is not continuous as we’re lead to believe.
+- The discontinuity of consciousness is striking because of the apparent continuity of consciousness.
+- The brain’s handling of the blind spot is like “Ask me no questions and I’ll tell you no lies.”
+- If the brain has no desire for that knowledge, no epistemic hunger, then there’s nothing more it needs to do.
+- What about the cases where there’s less epistemic hunger than expected? These are cases of neglect.
+- E.g. Hemispatial neglect, typo neglect.
+- The absence of representation isn’t the same as the representation of absence. The same goes for presence.
+- Input from the eye isn’t blocked by the brain during a saccade, but instead the brain treats it with neglect.
+- Just because consciousness seems to be something doesn’t mean that it actually is that something.
+- E.g. Consciousness seems continuous and seems to reflect the real world, but we know that there are gaps in consciousness that go unnoticed and parts of reality that are hidden.
+
+## Chapter 12: Qualia Disqualified
+
+- The author believes that the idea of qualia is too messy and convoluted to be useful.
+- We should just try to start over from scratch.
+- Color isn’t out there in the real world but instead it’s in the eye and brain of the beholder.
+- John Locke called properties such as colors, smells, tastes, and sounds as secondary qualities in contrast to the primary qualities of wavelength, chemical molecule, mass, number, etc.
+- What are secondary qualities? They’re primary qualities interpreted by an observer.
+- E.g. Colors are just the reflective properties of surfaces of objects.
+- The wavelength of light hitting the retina is only indirectly related to color. Instead, there is no clear property of surfaces such that all and only the surfaces with that property are red.
+- Color vision coevolved with colors from plants that wanted animals to notice it for pollination and reproduction.
+- Different systems of color vision have evolved independently with different color spaces and not all species have color vision.
+- E.g. Among mammals, only primates have color vision.
+- Which species have color vision and why?
+- The fact that apples are red is as much a function of the available photopigments in cone cells as it is a result of chemical interactions in the apple’s skin.
+- It’s a mistake to believe that colors came first and then evolution took advantage of those available colors.
+- Instead, there were reflective properties of surfaces and photopigments that react to those properties, and evolution mutually used both to develop color vision.
+- If the blue of cobalt and the blue of a butterfly’s wing happened to match, this is just a coincidence, a side effect of the processes that brought color vision into existence.
+- Facts about secondary qualities are inescapably linked to an observer.
+- Our perceptual space has been shaped by selective pressures and evolution.
+- E.g. We dislike certain odors such as waste and rot because they’re toxic.
+- “If what I want when I drink fine wine is information about its chemical properties, why don’t I just read the label?” - Sydney Shoemaker
+- Our preferences are ultimately based on the biases that are still wired into our nervous system even though their ecological significance may have lapsed eons ago.
+- The problem with qualia is that it doesn’t explain our conscious experience, it just pushes it back one step.
+- E.g. We can explain that pregnancy is caused by conception, similar to how our conscious experiences are caused by qualia. However, both of these explanations aren’t informative. To be informative, both need to provide a mechanistic explanation of conception or qualia.
+- Inverted qualia problem: are the sensations that I experience the same sensations that other people experience?
+- E.g. Is my definition of the color red the same as your definition of red? How do I know that you and I see the same subjective color when we look at something?
+- Although we both learn the same words for colors, our experiences might differ.
+- Is there any way to tell whether our experiences differ?
+- Suppose we have a machine that feeds what you see into my brain. I might see your green as my red, your yellow as my blue, and so on.
+- However, the machine needs to be calibrated by the normalization of both subjects, so we’re right back to where we started.
+- There seems to be no possible intersubjective comparison of qualia even with perfect technology.
+- Another version of the thought experiment inverts the spectrum within a person’s brain, so we don’t need the color-translation machine.
+- E.g. You wake up one morning and everything green is red, everything blue is yellow, etc. While you slept, evil neurosurgeons switched all the neurons leading from the color-sensitive cone cells in your retina.
+- You would certainly know that things are very different and we have a scientific explanation for it: the neurons in the visual cortex that care about color would be getting their stimulation from a different set of retinal receptors.
+- A difference in qualia would be detectable if it’s within a single person.
+- However, what we need to prove for qualia to exist is to switch qualia without switching behavior.
+- E.g. The red qualia becomes the green qualia but you now call the green qualia red and without any changes in experience.
+- From what we know about the brain, this is impossible. It’s impossible to switch qualia without switching experience. It might be possible with a Cartesian Theatre, but since there’s no such Cartesian Theater, there’s no thought experiment possible.
+- Review of the Mary’s room thought experiment.
+- The problem with this thought experiment is that presuming Mary knows everything about color means she also knows what it is like to experience color.
+- A failure to imagine Mary knowing everything isn’t an insight.
+- No notes on the criticism of epiphenomena qualia.
+- When we marvel at those moments of heightened self-consciousness, at the richness of our conscious experience, the richness we marvel at is actually the richness of reality in all of its detail.
+
+## Chapter 13: The Reality of Selves
+
+- If we believe that selves exist, which evidence suggests that they do, then we also know that eons ago, before life arose, there were no selves.
+- So there has to be a story about how there came to be creatures with selves.
+- The most fundamental self is the biological self, the one that divides “me” from the “rest of the world”.
+- The boundaries of a biological self are sometimes fuzzy and indefinite, another case of evolution tolerating error if the cost is right.
+- E.g. Is the shell a part of self for snails?
+- In contrast to ants and hermit crabs, we are commonly engaged in presenting our self to others and to ourselves, thus representing our self in language and behavior.
+- Can life go on without a self? Is more than one self possible in one body?
+- Like many features due to evolution, the self probably evolved gradually from nothing to something.
+- No notes on multiple personality disorder (I don’t believe it to support the theory of multiple selves in one body) and on split-brain patients.
+- According to the Multiple Drafts theory, a self is an abstraction defined by the various attributions and interpretations that composed the biography of the body.
+- Of all the things in the environment a brain must make a mental model of, none is more crucial than the model of the agent itself.
+
+## Chapter 14: Consciousness Imagined
+
+- The phenomena of human consciousness is analogous to a “virtual machine” that runs on computers.
+- There is no Cartesian Theater in the brain, only Multiple Drafts composed by parallel processes in the brain.
+- People who object to consciousness in robots don’t fail to imagine a conscious robot, but fail to imagine how a robot could be conscious.
+- E.g. People can accept fictional conscious robots such as R2D2 in Star Wars or how children play pretend with their toys.
+- There’s a gap between phenomenology as we know by introspection and our brains as science reveals to us.
+- By thinking of our brains as information-processing systems, we can gradually dispel the fog and pick our way across the great divide.
+- Some philosophers, such as Thomas Nagel, have argued that crossing this divide is impossible.
+- The intuitive “obviousness” made in many consciousness arguments is a great obstacle to progress in understanding consciousness.
+- E.g. There is no filling in the blind spot, there are no intrinsic qualia, there is no central controller, and there is no Cartesian Theater.
+- Review of John Searle’s Chinese Room thought experiment and the author’s criticisms of it.
+- The problem with this thought experiment is that it asks us to imagine a system that’s too simple.
+- Just because we can’t imagine it doesn’t mean that it can’t exist.
+- E.g. We can’t imagine the biological details of the dinosaurs, but they did exist.
+- Searle’s thought experiment depends on your imagining too simple a case and drawing the “obvious” conclusion from it.
+- Review of Thomas Nagel’s “What Is It Like to Be a Bat?” paper.
+- Nagel’s target organism of the bat is a smart choice since more extreme examples such as “What is it like to be a spider” or similar examples like “What is it like to be a chimpanzee/cat” would lead to more disagreement with his conclusion.
+- An issue with Nagel’s thought experiment is that we couldn’t confirm if someone had successfully imagined themselves to be a bat; the experiment isn’t falsifiable.
+- There’s a lot that we can learn and know about what it’s like to be a bat, and neither Nagel nor anyone else has provided a good reason to believe that there’s knowledge inaccessible to science and us.
+- The author denies Nagel’s claim that no amount of third-person knowledge can tell us what it’s like to be a bat.
+- Our understanding of a bat’s conscious experiences depend on the ecology and neurophysiology of the bat.
+- E.g. Bat ears have a clever mechanism to shut down their ears when they emit the loud squeaks used for echolocation. So we know that bat’s don’t hear their own squeaks.
+- One objection to this argument is that these investigations teach us about a bat’s brain organization and information-processing, but they only show us what bats aren’t conscious of, leaving open what, if anything, bats are conscious of.
+- Much of the information-processing in nervous systems is entirely unconscious, so how can we say that neural activity in bats correlates to their conscious experience?
+- A bat might be a philosophical zombie, an organism that acts conscious but has no experience. But we know that zombies, while we can imagine them, don’t align with evidence from reality.
+- How could a bat convince us that it is conscious?
+- In the same way that people convince us that they’re conscious, the bat could talk about it’s conscious experiences but bats can’t talk.
+- They can, however, behave in nonverbal ways that suggest or imply their experiences of the world.
+- Language plays an enormous role in structuring the human mind and creatures lacking language are assumed to lack this structure.
+- Does this mean that language-less animals aren’t conscious?
+- We must remember that consciousness isn’t an “all-or-nothing” phenomenon, just as the line between conscious and unconscious mental states is blurred.
+- We don’t do a favor to nonhuman animals by trying to obscure the facts about the limitations of their minds.
+- Only a theory that explained conscious events in terms of unconscious events could explain consciousness at all.
+- Similar to life, you can’t explain life using life otherwise you have a circular argument.
+- All the author has done, really, is to replace one family of metaphors and images with another.
+- E.g. Replacing the Cartesian Theater, the Central Meaner, the Figment, and qualia with software, virtual machines, multiple drafts, and pandemonium.
