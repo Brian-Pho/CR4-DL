@@ -3,7 +3,7 @@ layout: post
 title: "Vision"
 date: "2022-08-08"
 categories:
-  - Books
+  - Textbooks
 book_authors: "David Marr"
 excerpt: "A computational investigation into the human representation and processing of visual information."
 ---
