@@ -7,6 +7,12 @@ categories:
 excerpt: "My thoughts on certain books."
 ---
 
+### A Thousand Brains
+
+*Rating: 3/5*
+
+A disappointing book. I was hoping for more details on the Thousand Brains theory but only a third of the book covers it. The rest two-thirds covers artificial intelligence and exisentialism, which I found interesting but not relevant to understanding the brain. I understand the book was written for a layperson and would not recommend it for experienced neuroscientists. Instead, read the papers by Hawkin and his team for more details.
+
 ### Consciousness Explained
 
 *Rating: 3/5*
