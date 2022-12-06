@@ -244,6 +244,7 @@ A list of my favourite quotes that I've collected over the years.
 - A man must be a very great genius to make up for being such a loathsome human being. - **Martha Gellhorn, Ernest Hemingway's third wife**
 - In every field, the real experts are also the best at business. - **Stefan Zweig, Chess Story**
 - The transformation was total: I had created an internal projection of the chessboard and pieces and was able to see any position based on nothing more than the formulas in the book, the way an expert musician has only to glance at a score to hear all the voices and their harmonization. - **Stefan Zweig, Chess Story**
+- There is no such thing as a general expert.
 
 ## Relationships
 
@@ -385,6 +386,14 @@ A list of my favourite quotes that I've collected over the years.
 - He’d always found it odd that so many died when they were old, as logic said that was the point in their lives when they’d had the most practice not dying. - **Brandon Sanderson, Shadows of Self**
 - Hell, with some kandra friends, he could be annoying Steris well into the afterlife. - **Brandon Sanderson, Shadows of Self**
 - [After a sad story of a person] "Is that the end?" Marasi asked. "What?" Wayne said. "You want more to happen to the poor fellow? Right sadistic of you, Marasi. Right sadistic." - **Brandon Sanderson, The Bands of Mourning**
+- I used to say pika before I sneezed as a kid so it came out like pika-CHOOOO. I have unthinkingly done this as an adult. People heard. - **Redditor**
+- She's the type of girl who misses her doctor's appointment because she was sick.
+- Now my computer has more viruses than an Iranian nuclear facility.
+- She just started talking to me and never stopped. - **Someone who dated an extrovert**
+- There was this Indian professor at some college. A guy wrote "Don't be fooled. Looks like Gandhi but grades like Hitler".
+- An Ancient Math Proverb: "That's not what I got."
+- If you create a robot without red lights build in, will it never turn evil?
+- If light travels faster than sound, then why can I hear my girlfriend bitching at me before I see what I've done wrong.
 
 ## Money
 
@@ -432,3 +441,6 @@ A list of my favourite quotes that I've collected over the years.
 - They tried to bury us. They didn’t know we were seeds.
 - The moon blew up without warning and for no apparent reason. - **Neal Stephenson, Seveneves**
 - For he knew that the winning side wasn't always the right side. - **Brandon Sanderson, The Hero of Ages**
+- Even photos are lies—they frame reality rather than capturing it. - **Peter Cawdron, Generation of Vipers**
+- Conjoiner ships were here, too: sleek and black, as if chiselled from space itself. - **Alastair Reynolds, Revelation Space**
+- They would learn of their implants, and how they enabled a second layer to be draped over reality, one that could be shaped into any form imaginable. - **Alastair Reynolds, Revelation Space**

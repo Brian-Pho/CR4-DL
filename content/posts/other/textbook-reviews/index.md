@@ -7,6 +7,12 @@ categories:
 excerpt: "My thoughts on certain textbooks."
 ---
 
+### Vision Science
+
+*Rating: 4/5*
+
+A very good book on how we see. Although a bit dated and reads like a literature review at points, the ideas are excellent and well connected. The theories make sense and are supported by evidence that you can try for yourself in the figures. I liked how the ideas were connected into a general framework while different aspects of vision were deconstructed. But I didn't like the writing at points and the textbook could be more concise.
+
 ### Vision
 
 *Rating: 1/5*

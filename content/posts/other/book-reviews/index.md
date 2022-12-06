@@ -11,7 +11,7 @@ excerpt: "My thoughts on certain books."
 
 *Rating: 3/5*
 
-A disappointing book. I was hoping for more details on the Thousand Brains theory but only a third of the book covers it. The rest two-thirds covers artificial intelligence and exisentialism, which I found interesting but not relevant to understanding the brain. I understand the book was written for a layperson and would not recommend it for experienced neuroscientists. Instead, read the papers by Hawkin and his team for more details.
+A disappointing book. I was hoping for more details on the Thousand Brains theory but only a third of the book covers it. The rest two-thirds covers artificial intelligence and exisentialism, which I found interesting but not relevant to understanding the brain. I understand the book was written for a layperson and would not recommend it for experienced neuroscientists. Instead, read the papers by Hawkin and his team for more details. The book also repeats ideas too often to make up for the lack of substance. See [this](https://www.alignmentforum.org/posts/ixZLTmFfnKRbaStA5/book-review-a-thousand-brains-by-jeff-hawkins) for a more in-depth review of the book.
 
 ### Consciousness Explained
 
