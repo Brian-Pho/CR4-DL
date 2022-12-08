@@ -9,8 +9,8 @@ exports.createPages = async ({ graphql, actions }) => {
     `
       {
         allMarkdownRemark(
-          filter: {frontmatter: {layout: {eq: "post"}}}
-          sort: { fields: [frontmatter___date], order: DESC }
+          filter: { frontmatter: { layout: { eq: "post" } } }
+          sort: { frontmatter: { date: DESC } }
           limit: 1000
         ) {
           edges {
@@ -53,8 +53,8 @@ exports.createPages = async ({ graphql, actions }) => {
 
   // Create blog post list pages
   const postListTemplate = path.resolve(`./src/templates/postListTemplate.tsx`)
-  const postsPerPage = 6;
-  const numPages = Math.ceil(posts.length / postsPerPage);
+  const postsPerPage = 6
+  const numPages = Math.ceil(posts.length / postsPerPage)
 
   Array.from({ length: numPages }).forEach((_, pageCounter) => {
     createPage({

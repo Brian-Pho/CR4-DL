@@ -29,7 +29,6 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-catch-links`,
-    `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-sitemap`,
@@ -100,23 +99,26 @@ module.exports = {
       },
     },
     {
-    resolve: `gatsby-plugin-webfonts`,
+      resolve: `gatsby-omni-font-loader`,
       options: {
-        fonts: {
-          google: [
-            {
-              family: `Arima Madurai`,
-              variants: [`100`],
-            },
-          ],
-        },
+        enableListener: true,
+        preconnect: [
+          `https://fonts.googleapis.com`,
+          `https://fonts.gstatic.com`,
+        ],
+        web: [
+          {
+            name: `Arima Madurai`,
+            file: `https://fonts.googleapis.com/css2?family=Arima+Madurai:wght@100&display=swap`,
+          },
+        ],
       },
     },
     {
       resolve: `gatsby-plugin-typescript`,
       options: {
         isTSX: true,
-        allExtensions: true
+        allExtensions: true,
       },
     },
     `gatsby-plugin-offline`,

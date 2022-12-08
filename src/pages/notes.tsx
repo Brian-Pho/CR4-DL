@@ -14,7 +14,7 @@ const Notes = () => {
     query {
       allMarkdownRemark(
         limit: 2000
-        sort: { fields: [frontmatter___date], order: DESC }
+        sort: {frontmatter: {date: DESC}}
       ) {
         edges {
           node {

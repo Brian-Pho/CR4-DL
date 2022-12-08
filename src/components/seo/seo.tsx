@@ -1,5 +1,4 @@
 import React from "react"
-import { Helmet } from "react-helmet"
 import { useLocation } from "@reach/router"
 import { graphql, useStaticQuery } from "gatsby"
 import { SiteMetadataType } from "../../utils/graphqlTypes"
@@ -8,6 +7,15 @@ interface SEOProps {
   customTitle?: string
   customDesc?: string
   isArticle?: boolean
+}
+
+interface HeadProps {
+  seo: {
+    title: string
+    description: string
+    url: string
+    type: string
+  }
 }
 
 const SEO = ({ customTitle, customDesc, isArticle }: SEOProps) => {
@@ -34,17 +42,7 @@ const SEO = ({ customTitle, customDesc, isArticle }: SEOProps) => {
   }
 
   return (
-    <Helmet
-      htmlAttributes={{ lang: "en" }}
-      title={seo.title}
-      meta={[
-        { name: "description", content: seo.description },
-        { name: "og:title", content: seo.title },
-        { name: "og:description", content: seo.description },
-        { name: "og:url", content: seo.url },
-        { name: "og:type", content: seo.type },
-      ]}
-    />
+    <Head seo={seo}/>
   )
 }
 
@@ -54,4 +52,17 @@ SEO.defaultProps = {
   title: null,
   description: null,
   article: false,
+}
+
+const Head = ({seo}: HeadProps) => {
+  return (
+    <>
+      <title>{seo.title}</title>
+      <meta name="description" content={seo.description}/>
+      <meta name="og:title" content={seo.title}/>
+      <meta name="og:description" content={seo.description}/>
+      <meta name="og:url" content={seo.url}/>
+      <meta name="og:type" content={seo.type}/>
+    </>
+  )
 }

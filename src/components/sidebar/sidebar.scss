@@ -36,3 +36,12 @@
   padding-right: 1rem;
   padding-left: 1rem;
 }
+
+.navbar-nav .show>.nav-link,
+.navbar-nav .nav-link.active {
+  color: white;
+}
+
+.nav-link {
+  color: #677B8C;
+}
