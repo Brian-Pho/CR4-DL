@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MSc Neuroscience Paper Notes"
-date: "0000-00-00"
+date: "2022-09-01"
 categories:
   - Papers
 excerpt: "My academic paper notes during my masters degree."
