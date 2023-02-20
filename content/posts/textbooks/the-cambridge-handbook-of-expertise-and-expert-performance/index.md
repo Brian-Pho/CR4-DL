@@ -5,7 +5,7 @@ date: "2023-02-20"
 categories:
   - Textbooks
 book: "the-cambridge-handbook-of-expertise-and-expert-performance"
-book_authors: ""K. Anders Ericsson, Robert R. Hoffman, Aaron Kozbelt, A. Mark Williams"
+book_authors: "K. Anders Ericsson, Robert R. Hoffman, Aaron Kozbelt, A. Mark Williams"
 excerpt: "A review of the findings from the scientific study of expertise."
 ---
 
