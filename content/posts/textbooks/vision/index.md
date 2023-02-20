@@ -8,6 +8,11 @@ book_authors: "David Marr"
 excerpt: "A computational investigation into the human representation and processing of visual information."
 ---
 
+<blockquote class="blockquote">
+  <p>So far from tribe and fire.</p>
+  <p class="blockquote-footer">Danusha Laméris</p>
+</blockquote>
+
 # Part I: Introduction and Philosophical Preliminaries
 
 ## Chapter 1: The Philosophy and the Approach

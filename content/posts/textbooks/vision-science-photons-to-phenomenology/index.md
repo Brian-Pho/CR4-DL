@@ -9,6 +9,11 @@ book_authors: "Stephen E. Palmer"
 excerpt: "An interdisciplinary approach to all topics related to vision."
 ---
 
+<blockquote class="blockquote">
+  <p>There is no red or green," said Teller. "All the colors we see are artificial; they're constructs of the mind. This beautiful rainbow of colors you see here on these felt-pens is, in reality, different shades of gray.</p>
+  <p class="blockquote-footer">Peter Cawdron, Anomaly</p>
+</blockquote>
+
 # Part I: Foundations
 
 ## Chapter 1: An Introduction to Vision Science

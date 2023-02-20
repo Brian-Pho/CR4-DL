@@ -49,6 +49,9 @@ A list of my favourite quotes that I've collected over the years.
 - Resentment is like taking poison and waiting for the other person to die.
 - If we don't change, we don't grow. If we don't grow, we are not really living. - **Gail Sheehy**
 - You are inexperienced. So was I, once. So is every man. The measure of a person is not how much they have lived. It is not how easily they jump at a noise or how quick they are to show emotion. It’s in how they make use of what life has shown them. - **Brandon Sanderson, The Alloy of Law**
+- I don't want to get to the end of my life and find that I have just lived the length of it. I want to have lived the width of it as well. - **Diane Ackerman**
+- Sometimes we spend a lifetime climbing a ladder, not knowing it's up against the wrong wall.
+- How we spend our days is, of course, how we spend our lives. What we do with this hour, and that one, is what we are doing. A schedule defends from chaos and whim. It is a net for catching days. - **Annie Dillard**
 
 ## Science
 
@@ -287,8 +290,10 @@ A list of my favourite quotes that I've collected over the years.
 - I'd rather be hated for who I am than loved for who I am not. - **Kurt Cobain**
 - He had seen a few smiles he might have killed for, but never one he'd have died for. - **Iain M. Banks, Use of Weapons**
 - It’s hard to admit but we are visual creatures and we try to make love out of lust. - **Reddit**
-- Life isn't meant to be lived alone. - **Reddit**
 - You're like my own children, adults before I had time to know them as kids. - **Brandon Sanderson, The Hero of Ages**
+- I will always harbor the regret of leading her down a path that I was not prepared to follow. - **[Reddit](https://www.reddit.com/r/dating/comments/t8tfq4/a_success_story_of_online_dating/)**
+- I think we both saw attraction, but not affection, in each other.
+- Does anyone feel like its pointless dating? It's not pointless it's challenging, just like anything else worthwhile in life. - **Reddit**
 
 ### Loneliness
 
@@ -309,6 +314,7 @@ A list of my favourite quotes that I've collected over the years.
 - Nobody realizes that some people expend tremendous energy merely to be normal - **Albert Camus**
 - I guess that’s the strange torment I suffer: dying for company, for someone to talk to, but it’s never the right someone who shows. And an unwelcome presence is far worse than miserable silence. - **Hugh Howey, Beacon 23**
 - Crying isn’t simply about opening the floodgates to some private trauma and letting it out—crying is just as much about letting those around you know you’re hurting. - **Hugh Howey, Beacon 23**
+- Life isn't meant to be lived alone. - **Reddit**
 
 ## Wisdom
 
@@ -357,6 +363,7 @@ A list of my favourite quotes that I've collected over the years.
 - The law is there to keep us from ruining everyone else’s ability to explore. Without law, there’s no freedom. - **Brandon Sanderson, The Bands of Mourning**
 - People can ask questions, but where there is no money, there are no answers. - **Brandon Sanderson, The Bands of Mourning**
 - Pushing society forward is no destruction. Even if, in doing so, it leaves us behind. - **Brandon Sanderson, The Bands of Mourning**
+- The saddest aspect of society right now is that science gathers knowledge faster than society gathers wisdom.
 
 ## Funny
 
@@ -394,6 +401,9 @@ A list of my favourite quotes that I've collected over the years.
 - An Ancient Math Proverb: "That's not what I got."
 - If you create a robot without red lights build in, will it never turn evil?
 - If light travels faster than sound, then why can I hear my girlfriend bitching at me before I see what I've done wrong.
+- Those that can't do, teach.
+- Have you ever thought that the purpose of your life is to serve only as a warning for others?
+- Women age like milk, men age like wine.
 
 ## Money
 
@@ -402,6 +412,11 @@ A list of my favourite quotes that I've collected over the years.
 - Don’t save what is left after spending; spend what is left after saving.
 - Concentrate to make money; diversify to keep money.
 - Spend money where you spend time.
+- If there is money to be made, there are morals to be discarded. - **Asmongold**
+- I have no problem spending money, but I have a problem wasting it. - **Linus Sebastian, WAN Show**
+- Money can't buy happiness, but poverty can't buy anything. - **Reddit**
+- That money is only useful if you buy goods and services with it. So much of this sub just wants a fancy funeral or something. - **Reddit**
+- When you buy something cheap and bad, the best you’re going to feel about it is when you buy it. When you buy something expensive and good, the worst you’re going to feel about it is when you buy it. - **Sasha Aickin Grandmother**
 
 ## Other
 
@@ -444,3 +459,7 @@ A list of my favourite quotes that I've collected over the years.
 - Even photos are lies—they frame reality rather than capturing it. - **Peter Cawdron, Generation of Vipers**
 - Conjoiner ships were here, too: sleek and black, as if chiselled from space itself. - **Alastair Reynolds, Revelation Space**
 - They would learn of their implants, and how they enabled a second layer to be draped over reality, one that could be shaped into any form imaginable. - **Alastair Reynolds, Revelation Space**
+- OneWeb was founded to bring the world closer together, but that is hard to do when the world is falling apart. - **[Eric Berger](https://arstechnica.com/science/2022/03/russia-places-extraordinary-demands-on-oneweb-prior-to-satellite-launch/)**
+- I never desire to converse with a man who has written more than he has read. - **Samuel Johnson**
+- Crispy is the front of your teeth, crunchy is the back of your teeth.
+- Our problem-solving skills can often be overshadowed by our problem-creating abilities.

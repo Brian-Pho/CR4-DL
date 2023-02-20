@@ -9,6 +9,11 @@ book_authors: ""K. Anders Ericsson, Robert R. Hoffman, Aaron Kozbelt, A. Mark Wi
 excerpt: "A review of the findings from the scientific study of expertise."
 ---
 
+<blockquote class="blockquote">
+  <p>I don't want to get to the end of my life and find that I have just lived the length of it. I want to have lived the width of it as well.</p>
+  <p class="blockquote-footer">Diane Ackerman</p>
+</blockquote>
+
 # Part I: Introduction and Perspectives
 
 ## Chapter 1: An Introduction to the Second Edition of The Cambridge Handbook of Expertise and Expert Performance: Its Development, Organization, and Content
