@@ -52,6 +52,7 @@ A list of my favourite quotes that I've collected over the years.
 - I don't want to get to the end of my life and find that I have just lived the length of it. I want to have lived the width of it as well. - **Diane Ackerman**
 - Sometimes we spend a lifetime climbing a ladder, not knowing it's up against the wrong wall.
 - How we spend our days is, of course, how we spend our lives. What we do with this hour, and that one, is what we are doing. A schedule defends from chaos and whim. It is a net for catching days. - **Annie Dillard**
+- We demand proof of life from those who wish to speak to us. - **Andrew Bosworth, Age of Authenticity**
 
 ## Science
 
@@ -84,6 +85,7 @@ A list of my favourite quotes that I've collected over the years.
 - To steal ideas from one person is plagiarism. To steal from many is research. - **Wilson Mizner**
 - Even though most of us cannot separate science from superstition or technology from magic. - **Peter Thiel**
 - The drug of discovery.
+- I strongly believe that the only way to encourage innovation is to give it to the young. The young have a great advantage in that they are ignorant. Because I think ignorance in science is very important. If you’re like me and you know too much you can’t try new things. I always work in fields of which I’m totally ignorant. - **Sydney Brenner**
 
 ### Neuroscience
 
@@ -105,6 +107,7 @@ A list of my favourite quotes that I've collected over the years.
 - There is no red or green," said Teller. "All the colors we see are artificial; they're constructs of the mind. This beautiful rainbow of colors you see here on these felt-pens is, in reality, different shades of gray. - **Peter Cawdron, Anomaly**
 - There are birds that migrate by the stars, bats that echolocate, bees that compute the variance of flower patches, spiders that spin webs, humans that speak, ants that farm, lions that hunt in teams, cheetahs that hunt alone, monogamous gibbons, polyandrous seahorses, polygynous gorillas. There are millions of animal species on earth, each with a different set of cognitive programs. The same basic neural tissue embodies all of these programs, and it could support many others as well. Facts about the properties of neurons, neurotransmitters, and cellular development cannot tell you which of these millions of programs the human mind contains. Even if all neural activity is the expression of a uniform process at the cellular level, it is the arrangement of neurons—into bird song templates or web-spinning programs—that matters. - **Steven Pinker, How the Mind Works**
 - To explain how birds fly, we invoke principles of lift and drag and fluid mechanics that also explain how airplanes fly. That does not commit us to an Airplane Metaphor for birds, complete with jet engines and complimentary beverage service. - **Steven Pinker, How the Mind Works**
+- But then we always suspected the cortex is a mere blanket for regulating the temperature of the crucial parts of the brain. And while some continue to protest that “the folds of human cortex are what makes us unique!”, they are denying the simple, near universally-accepted explanation — greater surface area improves heat dissipation. - **Mark Humphries, Review of 2019 in neuroscience**
 
 ### Artificial Intelligence
 
@@ -141,6 +144,8 @@ A list of my favourite quotes that I've collected over the years.
 - We are always living in tomorrow’s history.
 - A dream we dream together is reality. - **Burning Man 2017**
 - Hope is like a road in the country; there was never a road, but when many people walk on it, the road comes into existence. - **Lu Xun**
+- One day you will wake up and there won’t be any more time to do the things you’ve always wanted. Do it now. - **Paulo Coelho**
+- Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for. - **Epicurus**
 
 ## Identity
 
@@ -248,6 +253,10 @@ A list of my favourite quotes that I've collected over the years.
 - In every field, the real experts are also the best at business. - **Stefan Zweig, Chess Story**
 - The transformation was total: I had created an internal projection of the chessboard and pieces and was able to see any position based on nothing more than the formulas in the book, the way an expert musician has only to glance at a score to hear all the voices and their harmonization. - **Stefan Zweig, Chess Story**
 - There is no such thing as a general expert.
+- Don't be fooled by the calendar. There are only as many days in the year as you make use of. One person gets only a week's value out of a year while another gets a full year's value out of a week. - **Charles Richards**
+- It seems, in fact, as though the second half of a person's life is made up of nothing but the habits they accumulated during the first half. - **Fyodor Dostoyevsky**
+- Almost everybody can stay excited for 2 or 3 months. A few people can stay excited for 2 or 3 years. But a winner will stay excited for 30 years or however long it takes to win. - **Art Williams**
+- I long to accomplish a great and noble task; but it is my chief duty and joy to accomplish humble tasks as though they were great and noble. The world is moved along, not only by the mighty shoves of its heroes, but also by the aggregate of the tiny pushes of each honest worker. - **Helen Keller**
 
 ## Relationships
 
@@ -294,6 +303,8 @@ A list of my favourite quotes that I've collected over the years.
 - I will always harbor the regret of leading her down a path that I was not prepared to follow. - **[Reddit](https://www.reddit.com/r/dating/comments/t8tfq4/a_success_story_of_online_dating/)**
 - I think we both saw attraction, but not affection, in each other.
 - Does anyone feel like its pointless dating? It's not pointless it's challenging, just like anything else worthwhile in life. - **Reddit**
+- The right person at the wrong time is still the wrong person. You didn't miss an opportunity, you just weren't ready for one. - **Reddit**
+- It’s not about what someone can do for you, it's who and what the two of you become in each other's presence. - **Ronald Sharp**
 
 ### Loneliness
 
@@ -315,6 +326,7 @@ A list of my favourite quotes that I've collected over the years.
 - I guess that’s the strange torment I suffer: dying for company, for someone to talk to, but it’s never the right someone who shows. And an unwelcome presence is far worse than miserable silence. - **Hugh Howey, Beacon 23**
 - Crying isn’t simply about opening the floodgates to some private trauma and letting it out—crying is just as much about letting those around you know you’re hurting. - **Hugh Howey, Beacon 23**
 - Life isn't meant to be lived alone. - **Reddit**
+- No one compares, you stand alone. - **Selena Gomez, Love You Like a Love Song**
 
 ## Wisdom
 
@@ -364,6 +376,8 @@ A list of my favourite quotes that I've collected over the years.
 - People can ask questions, but where there is no money, there are no answers. - **Brandon Sanderson, The Bands of Mourning**
 - Pushing society forward is no destruction. Even if, in doing so, it leaves us behind. - **Brandon Sanderson, The Bands of Mourning**
 - The saddest aspect of society right now is that science gathers knowledge faster than society gathers wisdom.
+- What you risk reveals what you value. - **Jeanette Winterson**
+- Boredom is the awareness of time passing. - **Heidegger**
 
 ## Funny
 

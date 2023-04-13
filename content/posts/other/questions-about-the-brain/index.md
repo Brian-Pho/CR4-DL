@@ -57,7 +57,8 @@ The following is a list of questions about the brain that I don't know the answe
     - Hypothesis is eye gaze.
     - Domesticated dogs also show an increase in scleras, why?
 - Is the brain a computer?
-    - No, the brain isn't an implementation of a Turing machine nor does it perform computation as defined by computer science (performing calculations).
+    - The answer depends on what we mean by "computer". If by computer we strictly mean the everyday use (physical instantiation) of it such as laptop, smartphone, and desktop PC, then no the brain isn't a computer. If we mean a more abstract version of the definition such as a Turing machine, then the no brain isn't a computer. If we mean even more abstract such as an artifact/object that performs computation (where computation means calculation or running an algorithm), then yes the brain is a computer. So the more abstract the definition of computer, the more likely the brain is a computer.
+    - Interestingly, the same applies to quantum computers, analog computers, and neuromorphic computing. All of which aren't computers in the common sense but are in the abstract sense since they all perform computations. But the problem with this definition is that it applies to everything such as a sand hourglass (computes elapsed time), logic gates built out of [water](https://youtu.be/IxXaizglscw) or light (optical gates), or even the weather (it computes the interaction between atoms, the Sun's energy, landscape, etc).
 - Population coding based on Georgepopulous?
     - No
 - Mirror neurons?
