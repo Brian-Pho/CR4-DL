@@ -71,9 +71,8 @@
 <li>This is in comparison to the current frame-based cameras that we currently use that requires the entire snapshot of the image before changes can be identified.</li>
 <li>Silicon retinas = dynamic vision sensors.</li>
 <li>The computation consists of a prediction of the future input and a comparison of that prediction to the actual input.</li>
-<li>When the prediction is correct, the model isn’t updated. When the prediction is incorrect, the model is updated to correct its mistake.</li>
-</ul>
-<p><span
+<li>When the prediction is correct, the model isn’t updated. When the prediction is incorrect, the model is updated to correct its mistake.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 527px; "
     >
@@ -102,8 +101,7 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>Only the relative contrast in space/time is passed on to the next level of processing, not the absolute value.</li>
 <li>Artificial neural networks, at the conceptual level, take their overall strategy from the nervous systems of animals.</li>
 <li>However, at the implementation level, they are still a brute-force strategy; using little of the cleverness of nature.</li>
@@ -143,9 +141,8 @@
 <li>These functions provide a rich set of computational primitives, each a direct result of fundamental physical principles.</li>
 <li>However, these operations aren’t the familiar AND and OR that’s used in computers.</li>
 <li>If we try to fight them, to turn them into something familiar, then we make a mess.</li>
-<li>Mahowald silicon retina model</li>
-</ul>
-<p><span
+<li>Mahowald silicon retina model
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 593px; "
     >
@@ -175,15 +172,17 @@
       />
   </a>
     </span>
-- The output of the circuit represents the difference between a center intensity and a weighted average of the intensities of surrounding points in the image.
-- The center-surround computation is sometimes referred to as a Laplacian filter and can be approximated by a difference in Gaussians.
-- This computation has been useful in helping computers localize objects because discontinuities in intensity frequently correspond to object edges.
-- The computation occurs as a natural result of an efficient physical implementation of local normalization of the signal level.
-- In addition to its role in gain control and spatial filtering, the retina sharpens the time response of the system as an intrinsic part of its analog computation.
-- Effective temporal processing requires that the time scale of the computation be matched to the time scale of external events. In other words, event-based processing.
-- The model enhances both the first temporal and second spatial derivatives of the image.
-- It also displays several well-known optical illusions such as Mach bands.</p>
 <ul>
+<li>The output of the circuit represents the difference between a center intensity and a weighted average of the intensities of surrounding points in the image.</li>
+<li>The center-surround computation is sometimes referred to as a Laplacian filter and can be approximated by a difference in Gaussians.</li>
+<li>This computation has been useful in helping computers localize objects because discontinuities in intensity frequently correspond to object edges.</li>
+<li>The computation occurs as a natural result of an efficient physical implementation of local normalization of the signal level.</li>
+<li>In addition to its role in gain control and spatial filtering, the retina sharpens the time response of the system as an intrinsic part of its analog computation.</li>
+<li>Effective temporal processing requires that the time scale of the computation be matched to the time scale of external events. In other words, event-based processing.</li>
+<li>The model enhances both the first temporal and second spatial derivatives of the image.</li>
+<li>It also displays several well-known optical illusions such as Mach bands.</li>
+</ul>
+</li>
 <li>Adaptive retina model
 <ul>
 <li>One problem with the Mahowald retina is that the circuit is sensitive to transistor offset voltages.</li>
@@ -318,9 +317,8 @@
 </li>
 <li>Loihi is make up of a manycore mesh of 128 neuromorphic cores, 3 embedded x86 processor cores, and off-chip communication interfaces.</li>
 <li>Each neuromorphic core implements 1024 primitive spiking neural units/compartments grouped into sets of trees constituting neurons.</li>
-<li>Neuromorphic cores communicate using an asynchronous network-on-chip (NoC) that transports messages in the form of packets.</li>
-</ul>
-<p><span
+<li>Neuromorphic cores communicate using an asynchronous network-on-chip (NoC) that transports messages in the form of packets.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -350,8 +348,7 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>Instead of using a globally distributed time clock to synchronize core activity, Loihi uses a barrier synchronization mechanism.</li>
 <li>Barrier synchronization mechanism
 <ul>
@@ -359,9 +356,8 @@
 <li>Barrier messages flush any spikes in flight and propagate a time-step advance notification to all cores.</li>
 </ul>
 </li>
-<li>An abstract network, such as an ANN, is mapped to the mesh by assigning neurons to cores.</li>
-</ul>
-<p><span
+<li>An abstract network, such as an ANN, is mapped to the mesh by assigning neurons to cores.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 748px; "
     >
@@ -390,11 +386,9 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
-<li>Skimming over the STDP stuff.</li>
-</ul>
-<p><span
+    </span></li>
+<li>Skimming over the STDP stuff.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -424,7 +418,8 @@
         decoding="async"
       />
   </a>
-    </span></p>
+    </span></li>
+</ul>
 <h2 id="a-million-spiking-neuron-integrated-circuit-with-a-scalable-communication-network-and-interface" style="position:relative;"><a href="#a-million-spiking-neuron-integrated-circuit-with-a-scalable-communication-network-and-interface" aria-label="a million spiking neuron integrated circuit with a scalable communication network and interface permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://science.sciencemag.org/content/345/6197/668">A million spiking-neuron integrated circuit with a scalable communication network and interface</a></h2>
 <ul>
 <li>Authors built a 5.4 billion transistor chip with 4096 neurosynaptic cores that integrates 1 million programmable spiking neurons and 256 million configurable synapses.</li>
@@ -664,9 +659,8 @@
 <li>Perhaps the error-tolerance seen in brains can be replicated by combining analog-dendritic computation with digital-axonal communication.</li>
 <li>Review of the problems of transistors being too small.</li>
 <li>There are two signal choices for communication and computation: analog or digital.</li>
-<li>Communication moves operands and results around, while computation combines operands to produce results.</li>
-</ul>
-<p><span
+<li>Communication moves operands and results around, while computation combines operands to produce results.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 587px; "
     >
@@ -695,8 +689,7 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>Errors are highly probable when communication is maximally energy efficient, as in the brain.</li>
 <li>For computation, using analog signals is more energy efficient at low precision, whereas using digital signals is more energy efficient at high precision.</li>
 <li>This is because energy scales differently with precision for analog and digital computation.</li>
@@ -722,9 +715,8 @@
 <li>Hierarchical axonal arbors between pools of neurons.</li>
 </ul>
 </li>
-<li>By emulating these two principles, we can also emulate cortical columns.</li>
-</ul>
-<p><span
+<li>By emulating these two principles, we can also emulate cortical columns.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 538px; "
     >
@@ -753,14 +745,12 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>The secret to scaling inter-pool communication linearly with neuron count is to emulate the cortex’s hierarchically branching wiring patterns.</li>
 <li>Hierarchical organization amortizes the cost of more energetically expensive memory lookups and address-event communication over greater numbers of synapses to minimize the average energy consumed per synaptic activation.</li>
 <li>This organizational principle recognizes that energy consumption is proportional to how far information travels.</li>
-<li>Minimizing the number of spikes used to transmit a signal minimizes the amount of energy consumed to communicate it, as well as to lookup the synaptic/decoding weights applied to it.</li>
-</ul>
-<p><span
+<li>Minimizing the number of spikes used to transmit a signal minimizes the amount of energy consumed to communicate it, as well as to lookup the synaptic/decoding weights applied to it.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 803px; "
     >
@@ -789,7 +779,8 @@
         decoding="async"
       />
   </a>
-    </span></p>
+    </span></li>
+</ul>
 <h2 id="the-business-of-building-brains" style="position:relative;"><a href="#the-business-of-building-brains" aria-label="the business of building brains permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://doi.org/10.1038/s41928-020-0449-1">The business of building brains</a></h2>
 <ul>
 <li>Drawbacks to cloud computing
@@ -802,9 +793,8 @@
 <li>The answer may be neuromorphic computing.</li>
 <li>It’s hard to know when to call a processor neuromorphic.</li>
 <li>Is parallelism enough? Spiking? Analog processing?</li>
-<li>Review of current neuromorphic companies such as Intel and IBM and neuromorphic startups.</li>
-</ul>
-<p><span
+<li>Review of current neuromorphic companies such as Intel and IBM and neuromorphic startups.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -835,8 +825,7 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>One critical aspect of a neuromorphic company is having a complete solution; from sensors to processors.</li>
 </ul>
 <h2 id="building-brain-inspired-computing" style="position:relative;"><a href="#building-brain-inspired-computing" aria-label="building brain inspired computing permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://doi.org/10.1038/s41467-019-12521-x">Building brain-inspired computing</a></h2>
@@ -968,13 +957,8 @@
 <li>Nonlinearity for implementing neurons can be provided by the Kerr effect.</li>
 <li>Kerr effect: a change of the refractive index of a material due to an applied electric field.</li>
 <li>Synaptic multiply-and-accumulate function can be implemented by combing multiple interferometers or by modifying the transmission of optical waveguides with optically active phase-change materials deposited on top.</li>
-<li>Advantages include conveying large amounts of information in parallel on a single fiber through wavelength multiplexing.</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li>Advantages include conveying large amounts of information in parallel on a single fiber through wavelength multiplexing.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -1005,8 +989,11 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
+</ul>
+</li>
+</ul>
+</li>
 <li>Materials exhibiting electronic phase transitions, such as Mott insulators, can emulate spiking neurons.</li>
 <li>Among these different bioinspired approaches, the most interesting are probably those that will allow crafting of synapses and neurons using the same technology, thus allowing easier co-integration with large-scale systems and implementation of learning algorithms.</li>
 <li>Algorithms and physical computing substrates should be developed hand in hand.</li>
@@ -1036,9 +1023,8 @@
 </li>
 </ul>
 </li>
-<li>The future of neural network hardware is still open-ended.</li>
-</ul>
-<p><span
+<li>The future of neural network hardware is still open-ended.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -1069,8 +1055,7 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>Cross-fertilization between quantum computing and neuromorphic computing is likely to bring remarkable results.</li>
 <li>Reaching the commercial level will require
 <ul>
@@ -1147,9 +1132,8 @@
 </ul>
 </li>
 <li>The desire to replicate the brain is as old as computer science itself, with both von Neumann and Turing discussing brain-inspired machines back in the 1950’s.</li>
-<li>Most of the early work in neuromorphic computing was spurred by the development of hardware that could mimic the brain.</li>
-</ul>
-<p><span
+<li>Most of the early work in neuromorphic computing was spurred by the development of hardware that could mimic the brain.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -1179,8 +1163,7 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>The most popular motivation in present-day literature and discussions of neuromorphic systems is the emphasis on their potential for extremely low power operation.</li>
 <li>E.g. The human brain requires about 20 watts of power and performs extremely complex computations and tasks on that small power budget.</li>
 <li>Another major motivation in recent years has been to use neuromorphic hardware to study neuroscience.</li>
@@ -1202,9 +1185,8 @@
 <li>McCulloh-Pitts: derivative models of the original MP neuron.</li>
 </ul>
 </li>
-<li>These types lie on a spectrum from biologically accurate components and behavior to biologically inaccurate.</li>
-</ul>
-<p><span
+<li>These types lie on a spectrum from biologically accurate components and behavior to biologically inaccurate.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -1234,11 +1216,9 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
-<li>There are a wide variety of neuron models implemented in hardware, and one of the decisions a user makes is the tradeoff between complexity and biological inspiration.</li>
-</ul>
-<p><span
+    </span></li>
+<li>There are a wide variety of neuron models implemented in hardware, and one of the decisions a user makes is the tradeoff between complexity and biological inspiration.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -1268,8 +1248,7 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>Neuromorphic work has also focused on modeling synapses, not just neurons.</li>
 <li>Two types of synapse models
 <ul>
@@ -1297,11 +1276,8 @@
 <ul>
 <li>Projects whose goal is to produce useful neuroscience results usually are biased towards biologically-plausible/inspired models.</li>
 <li>Projects whose goal is real-world applications usually are biased towards ANN models.</li>
-<li>The choice of model also depends heavily on the hardware and how well the model fits the hardware.</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li>The choice of model also depends heavily on the hardware and how well the model fits the hardware.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 774px; "
     >
@@ -1330,8 +1306,9 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
+</ul>
+</li>
 <li>Considerations when choosing algorithms
 <ul>
 <li>How the chosen neuron, synapse, and network models impact the algorithm.</li>
@@ -1363,11 +1340,8 @@
 <ul>
 <li>Digital: uses Boolean logic-based gates such as AND, OR, and NOT.</li>
 <li>Analog: uses the native physical characteristics of electronic devices as part of the computation.</li>
-<li>Mixed: a combination of both digital and analog.</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li>Mixed: a combination of both digital and analog.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 776px; "
     >
@@ -1396,8 +1370,9 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
+</ul>
+</li>
 <li>The biological brain is an analog system and relies on physical properties for computation and not on Boolean logic.</li>
 <li>In digital neuromorphic hardware, FPGAs aren’t often used as part of the neuromorphic implementation, but rather to program the device as a neuromorphic system.</li>
 <li>Since FPGAs are relatively common, researchers can work with hardware description languages such as VHDL or Verilog to implement circuits in FPGAs.</li>

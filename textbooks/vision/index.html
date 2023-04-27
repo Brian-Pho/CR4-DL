@@ -187,13 +187,8 @@
 <li>Zero-crossing: a place where the value of a function changes from positive to negative.</li>
 <li>The author and Hildreth argue that the the operator that captures the both of these features is the Laplacian operator on the 2D Gaussian distribution (<span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi mathvariant="normal">∇</mi><mn>2</mn></msup><mi>G</mi></mrow><annotation encoding="application/x-tex">\nabla^{2}G</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord"><span class="mord">∇</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span><span class="mord mathnormal">G</span></span></span></span></span>).</li>
 <li>This Mexican-hat-shaped operator blurs the image, wiping out all structure at scales smaller than the space constant of the Gaussian.</li>
-<li>It also performs a similar operation to a ON/OFF-receptive field.</li>
-</ul>
-</li>
-</ol>
-</li>
-</ul>
-<p><span
+<li>It also performs a similar operation to a ON/OFF-receptive field.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -223,8 +218,8 @@
         decoding="async"
       />
   </a>
-    </span>
-- The critical fact about the Mexican-hat operator is that its zero-crossings mark intensity changes.
+    </span></li>
+<li>The critical fact about the Mexican-hat operator is that its zero-crossings mark intensity changes.
 <span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 716px; "
@@ -254,40 +249,60 @@
         decoding="async"
       />
   </a>
-    </span>
-- The operator may be physiologically realized by ON- and OFF-center retinal ganglion cells.
-- What do we do with the information from the <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi mathvariant="normal">∇</mi><mn>2</mn></msup><mi>G</mi></mrow><annotation encoding="application/x-tex">\nabla^{2}G</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord"><span class="mord">∇</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span><span class="mord mathnormal">G</span></span></span></span></span> filters?
-2. Formation of the raw primal sketch
-- The author has been intentionally avoiding using the word “edge” to describe intensity changes because edge has a partly physical meaning that isn’t known at the level of intensity changes.
-- Three features in the world that give rise to intensity changes
-1. Illumination changes (shadows, light sources)
-2. Orientation or distance changes
-3. Surface reflectance changes
-- The primitives of the raw primal sketch are edges, bars, blobs, and terminations.
-- These primitives have attributes of orientation, contrast, length, width, and position.
-- You are aware of the raw primal sketch but not the zero-crossings that made it.
-- How are spatial relations represented?
-- No notes on using a bit map representation of an image for finding spatial relationships.
-- Most of the early spatial relationships examined are local, thus a bit map representation is more efficient.
-- For detecting certain aspects of local geometry, rough topographical representation and locally connected receptive fields can provides adequate machinery power.
-- Image properties useful for decoding surface geometry
-- Average local intensity
-- Average size of similar items
-- Local density of items
-- Local orientation
-- Local distances
-- Local orientation of similar items
-- Virtual line: a primitive between neighboring similar tokens that has orientation and length.
-- Virtual lines are used to represent the organization of images, not surfaces.
-- No notes on detecting light sources and transparency.
-3. Creation of the full primal sketch
-- Two goals of the full primal sketch
-1. Construct tokens that capture the larger-scale structure of the surface reflectance function.
-2. Detect various types of changes in the measured parameters associated with these tokens that may help in detecting changes in orientation and distance from the viewer.
-- In other words, the goals are to make tokens and to find boundaries.
-- To do so, we start with the raw primal sketch and select similar elements from it, grouping them together to form lines, curves, blobs, groups, and small patches.
-- This process is repeated recursively to capture spatial structure at scale with increasingly abstract properties being extracted.
-- With these primitives, we can learn about the geometry of visible surfaces.</p>
+    </span></li>
+<li>The operator may be physiologically realized by ON- and OFF-center retinal ganglion cells.</li>
+<li>What do we do with the information from the <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi mathvariant="normal">∇</mi><mn>2</mn></msup><mi>G</mi></mrow><annotation encoding="application/x-tex">\nabla^{2}G</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord"><span class="mord">∇</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span><span class="mord mathnormal">G</span></span></span></span></span> filters?</li>
+</ul>
+</li>
+<li>Formation of the raw primal sketch
+<ul>
+<li>The author has been intentionally avoiding using the word “edge” to describe intensity changes because edge has a partly physical meaning that isn’t known at the level of intensity changes.</li>
+<li>Three features in the world that give rise to intensity changes
+<ol>
+<li>Illumination changes (shadows, light sources)</li>
+<li>Orientation or distance changes</li>
+<li>Surface reflectance changes</li>
+</ol>
+</li>
+<li>The primitives of the raw primal sketch are edges, bars, blobs, and terminations.</li>
+<li>These primitives have attributes of orientation, contrast, length, width, and position.</li>
+<li>You are aware of the raw primal sketch but not the zero-crossings that made it.</li>
+<li>How are spatial relations represented?</li>
+<li>No notes on using a bit map representation of an image for finding spatial relationships.</li>
+<li>Most of the early spatial relationships examined are local, thus a bit map representation is more efficient.</li>
+<li>For detecting certain aspects of local geometry, rough topographical representation and locally connected receptive fields can provides adequate machinery power.</li>
+<li>Image properties useful for decoding surface geometry
+<ul>
+<li>Average local intensity</li>
+<li>Average size of similar items</li>
+<li>Local density of items</li>
+<li>Local orientation</li>
+<li>Local distances</li>
+<li>Local orientation of similar items</li>
+</ul>
+</li>
+<li>Virtual line: a primitive between neighboring similar tokens that has orientation and length.</li>
+<li>Virtual lines are used to represent the organization of images, not surfaces.</li>
+<li>No notes on detecting light sources and transparency.</li>
+</ul>
+</li>
+<li>Creation of the full primal sketch
+<ul>
+<li>Two goals of the full primal sketch
+<ol>
+<li>Construct tokens that capture the larger-scale structure of the surface reflectance function.</li>
+<li>Detect various types of changes in the measured parameters associated with these tokens that may help in detecting changes in orientation and distance from the viewer.</li>
+</ol>
+</li>
+<li>In other words, the goals are to make tokens and to find boundaries.</li>
+<li>To do so, we start with the raw primal sketch and select similar elements from it, grouping them together to form lines, curves, blobs, groups, and small patches.</li>
+<li>This process is repeated recursively to capture spatial structure at scale with increasingly abstract properties being extracted.</li>
+<li>With these primitives, we can learn about the geometry of visible surfaces.</li>
+</ul>
+</li>
+</ol>
+</li>
+</ul>
 <h2 id="chapter-3-from-images-to-surfaces" style="position:relative;"><a href="#chapter-3-from-images-to-surfaces" aria-label="chapter 3 from images to surfaces permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Chapter 3: From Images to Surfaces</h2>
 <ul>
 <li>Our goal is to understand how descriptions of the world may be efficiently and reliably obtained from images of it.</li>
@@ -410,11 +425,8 @@
 </li>
 <li>Shape contours
 <ul>
-<li>How does the brain convert the 2D contours from the retina into 3D shapes?</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li>How does the brain convert the 2D contours from the retina into 3D shapes?
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 854px; "
     >
@@ -443,27 +455,34 @@
         decoding="async"
       />
   </a>
-    </span>
-- Contours can be defined on a surface in many ways and should be detected early on in visual processing.
-- Contour: the outline or shape of something.
-- Three types of contours
-- Occluding contours: contours that occur at discontinuities in the distance of the surface from the viewer.
-- Contours that follow discontinuities in surface orientation.
-- Contours that lie physically on the surface.
-- Contour generator: a particular curve on the object’s surface that creates a contour.
-- Three constraining assumptions
-- Each point on the contour generator projects to a different point on the contour.
-- Nearby points on the contour arise from nearby points on the contour generator.
-- The contour generator is planar and lies in a single plane.
-- Generalized cone: the surface created by moving a cross section along an axis.
-- E.g. Football, pyramid, leg, arm, tree trunk.
-- If the surface is smooth and if the three constraining assumptions hold for all distant viewing positions in any one plane, then the viewed surface is a generalized cone.
-- The axes of the cones can be recovered from the image because this helps to establish an object-centered coordinate system.
-- When recovering the geometry of the surface, the most important question is whether a contour is convex or concave.
-- It’s often difficult to distinguish convexities and concavities from purely local cues in a monocular image.
-- Note that occluding contours (shadows) are almost never surface contours.
-- The recovery of surface orientation from surface contours remains an unsolved problem.</p>
+    </span></li>
+<li>Contours can be defined on a surface in many ways and should be detected early on in visual processing.</li>
+<li>Contour: the outline or shape of something.</li>
+<li>Three types of contours
 <ul>
+<li>Occluding contours: contours that occur at discontinuities in the distance of the surface from the viewer.</li>
+<li>Contours that follow discontinuities in surface orientation.</li>
+<li>Contours that lie physically on the surface.</li>
+</ul>
+</li>
+<li>Contour generator: a particular curve on the object’s surface that creates a contour.</li>
+<li>Three constraining assumptions
+<ul>
+<li>Each point on the contour generator projects to a different point on the contour.</li>
+<li>Nearby points on the contour arise from nearby points on the contour generator.</li>
+<li>The contour generator is planar and lies in a single plane.</li>
+</ul>
+</li>
+<li>Generalized cone: the surface created by moving a cross section along an axis.</li>
+<li>E.g. Football, pyramid, leg, arm, tree trunk.</li>
+<li>If the surface is smooth and if the three constraining assumptions hold for all distant viewing positions in any one plane, then the viewed surface is a generalized cone.</li>
+<li>The axes of the cones can be recovered from the image because this helps to establish an object-centered coordinate system.</li>
+<li>When recovering the geometry of the surface, the most important question is whether a contour is convex or concave.</li>
+<li>It’s often difficult to distinguish convexities and concavities from purely local cues in a monocular image.</li>
+<li>Note that occluding contours (shadows) are almost never surface contours.</li>
+<li>The recovery of surface orientation from surface contours remains an unsolved problem.</li>
+</ul>
+</li>
 <li>Surface texture
 <ul>
 <li>We should be skeptical when assuming that texture holds power to determine the geometry of surfaces.</li>
@@ -530,9 +549,8 @@
 </ul>
 </li>
 <li>The main goal of a visual representation isn’t just to make explicit information about depth, local surface orientation, and discontinuities, but to also create and maintain a global representation of depth that’s consistent with the local cues.</li>
-<li>This representation is called the 2.5D sketch.</li>
-</ul>
-<p><span
+<li>This representation is called the 2.5D sketch.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 956px; "
     >
@@ -561,16 +579,14 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>The 2.5D sketch is useful because it makes information explicit, information that closely matches what early visual processes deliver.</li>
 <li>We can then formulate the goals of early visual processing as the construction of this representation.</li>
 <li>From here on we should not expect precise and detailed answers because we simply don’t know more.</li>
 <li>E.g. We don’t know much about the 2.5D sketch or even if it exists.</li>
 <li>No notes on whether we represent depth or surface orientation. But evidence suggests surface orientation given our poor depth perception.</li>
-<li>Any coordinate system for vision must be centered on the viewer, but this leaves several possible systems.</li>
-</ul>
-<p><span
+<li>Any coordinate system for vision must be centered on the viewer, but this leaves several possible systems.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -600,8 +616,7 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>Coordinates referring to the line of sight aren’t very useful to the viewer because it’s difficult to decide whether two surfaces have the same orientation from information in such as frame.</li>
 <li>This is compounded by the addition of eye movements.</li>
 <li>Different early visual processes may use slightly different coordinate systems to express their own guesses at what the surface orientation actually is.</li>

@@ -73,9 +73,8 @@
 <li><a href="/CR4-DL/b4c47523bb2b3aec23a2ae9c3c7256d9/raw-python.py">Raw Python</a></li>
 </ul>
 </li>
-<li>Deep learning → Machine learning → Artificial intelligence</li>
-</ul>
-<p><span
+<li>Deep learning → Machine learning → Artificial intelligence
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -105,8 +104,7 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li><em>Representations</em>: different ways to look at data; to represent or encode the data.</li>
 <li><em>Learning</em>: in machine learning, describes the automatic search for better representations.</li>
 <li><em>Hypothesis space</em>: the set of possible operations that tests whether the operation on the input data generates the correct output.</li>
@@ -123,9 +121,8 @@
 <li>However, don’t mistake deep learning for deeper understanding.</li>
 <li>The term “neural network” comes from biology but the relationship to the brain isn’t there.</li>
 <li>Don’t link artificial neural networks with biological neural networks.</li>
-<li><em>Loss function</em>: the error between the actual output of network and the expected output.</li>
-</ul>
-<p><span
+<li><em>Loss function</em>: the error between the actual output of network and the expected output.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -155,8 +152,7 @@
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>Other types of machine learning
 <ul>
 <li>Probabilistic modeling</li>
@@ -213,11 +209,8 @@
 <li>E.g. Storing age, ZIP code, and income of each person. (num_people, num_features=3)</li>
 </ul>
 </li>
-<li><em>Timeseries/sequence data</em>: 3D tensors of (samples, timesteps, features)</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li><em>Timeseries/sequence data</em>: 3D tensors of (samples, timesteps, features)
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 680px; "
     >
@@ -247,8 +240,11 @@
       />
   </a>
     </span>
-- E.g. Stock prices. (num_days, num_mins_per_day, num_features)
-- <em>Images</em>: 4D tensors of (samples, height, width, channels)
+<ul>
+<li>E.g. Stock prices. (num_days, num_mins_per_day, num_features)</li>
+</ul>
+</li>
+<li><em>Images</em>: 4D tensors of (samples, height, width, channels)
 <span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 692px; "
@@ -279,10 +275,17 @@
       />
   </a>
     </span>
-- E.g. Batch of 128 grayscale images of 256 x 256. (128, 256, 256, 1)
-- <em>Videos</em>: 5D tensors of (samples, frames, height, width, channels)
-- E.g. 4 Youtube videos that’s 60 seconds long, 5 frames per second, and has a resolution of 1920 x 1080. (num_videos=4, num_frames=300, 1920, 1080, 3)</p>
 <ul>
+<li>E.g. Batch of 128 grayscale images of 256 x 256. (128, 256, 256, 1)</li>
+</ul>
+</li>
+<li><em>Videos</em>: 5D tensors of (samples, frames, height, width, channels)
+<ul>
+<li>E.g. 4 Youtube videos that’s 60 seconds long, 5 frames per second, and has a resolution of 1920 x 1080. (num_videos=4, num_frames=300, 1920, 1080, 3)</li>
+</ul>
+</li>
+</ul>
+</li>
 <li>Similar to binary operations on binary inputs (E.g. AND, OR, NOT), there are tensor operations.</li>
 <li>We can think of each layer in the network as performing a function.</li>
 </ul>
@@ -308,9 +311,8 @@ output <span class="token operator">=</span> relu<span class="token punctuation"
 </ul>
 </li>
 <li>E.g. Let X have shape (32, 10) and Y have shape (10, ). To broadcast Y to X, first add another axis to Y to get (1, 10). Then repeat Y 32 times in that new axis to get (32, 10).</li>
-<li><em>Tensor dot</em>: the same as vector dot product. Multiply each corresponding component and then sum the results.</li>
-</ul>
-<p><span
+<li><em>Tensor dot</em>: the same as vector dot product. Multiply each corresponding component and then sum the results.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 694px; "
     >
@@ -339,8 +341,7 @@ output <span class="token operator">=</span> relu<span class="token punctuation"
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li><em>Tensor reshaping</em>: change the shape of a tensor while maintaining its data.</li>
 <li>E.g. Changing from (3, 2) to (6, 1).</li>
 </ul>
@@ -370,24 +371,9 @@ x <span class="token operator">=</span> x<span class="token punctuation">.</span
 <li>Stochastic refers to how each batch of data is randomly drawn.</li>
 <li>Mini-batch stochastic gradient descent versus Stochastic gradient descent: each iteration uses a batch of data instead of a single sample.</li>
 </ul>
-<table>
-<thead>
-<tr>
-<th></th>
-<th>SGD</th>
-<th>Mini-batch SGD</th>
-<th>Batch SGD</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Input/Sample Size per Iteration</td>
-<td>Single</td>
-<td>Batch or subset</td>
-<td>Entire set</td>
-</tr>
-</tbody>
-</table>
+<p>|                                 | SGD    | Mini-batch SGD  | Batch SGD  |
+| ------------------------------- | ------ | --------------- | ---------- |
+| Input/Sample Size per Iteration | Single | Batch or subset | Entire set |</p>
 <ul>
 <li>Momentum address two issues with SGD
 <ul>
@@ -472,9 +458,8 @@ momentum <span class="token operator">=</span> <span class="token number">0.1</s
 <li>Sequence-learning → Connectionist temporal classification</li>
 </ul>
 </li>
-<li>Keras is a model-level library that uses a backend engine for tensor calculations.</li>
-</ul>
-<p><span
+<li>Keras is a model-level library that uses a backend engine for tensor calculations.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 586px; "
     >
@@ -503,8 +488,7 @@ momentum <span class="token operator">=</span> <span class="token number">0.1</s
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>There are two ways to define a model
 <ul>
 <li>Sequential for linear stacks of layers.</li>
@@ -590,9 +574,8 @@ test_data <span class="token operator">/=</span> std</code></pre></div>
 <li><em>Mean squared error (mse)</em>: the square of the difference between the predictions and the targets.</li>
 <li><em>Mean absolute error (mae)</em>: the absolute value of the difference between the predictions and the targets.</li>
 <li>A small dataset leads to challenges with picking the validation and testing set. The validation set might have high variance which makes evaluating the model difficult.</li>
-<li><em>K-fold cross-validation</em>: splitting the available data into K partitions, starting K identical models, and training each one on K - 1 partitions.</li>
-</ul>
-<p><span
+<li><em>K-fold cross-validation</em>: splitting the available data into K partitions, starting K identical models, and training each one on K - 1 partitions.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -622,8 +605,7 @@ test_data <span class="token operator">/=</span> std</code></pre></div>
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>Once you’re finished tuning the parameters of the model, you can train the final production model on the combination of the training and validation dataset.</li>
 </ul>
 <p><strong>Summary</strong>
@@ -686,9 +668,8 @@ test_data <span class="token operator">/=</span> std</code></pre></div>
 <li><em>Reinforcement learning</em>: an agent received information about its environment and learns to choose actions that will maximize some reward.</li>
 </ul>
 </li>
-<li>These four branches are sometimes blurry and aren’t well defined. It’s more of a continuum than distinct.</li>
-</ul>
-<p><span
+<li>These four branches are sometimes blurry and aren’t well defined. It’s more of a continuum than distinct.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -780,8 +761,7 @@ test_data <span class="token operator">/=</span> std</code></pre></div>
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>We split the input data into a
 <ul>
 <li>Training set</li>
@@ -801,11 +781,8 @@ test_data <span class="token operator">/=</span> std</code></pre></div>
 <ul>
 <li>Set apart some fraction of the data as the test set.</li>
 <li>However, if little data is available, then the validation and test sets may contain too few samples.</li>
-<li>Recognize this problem if the model shows variance based on the train-test split.</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li>Recognize this problem if the model shows variance based on the train-test split.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 942px; "
     >
@@ -834,7 +811,10 @@ test_data <span class="token operator">/=</span> std</code></pre></div>
         decoding="async"
       />
   </a>
-    </span></p>
+    </span></li>
+</ul>
+</li>
+</ul>
 <div class="gatsby-highlight" data-language="python"><pre class="language-python"><code class="language-python">num_validation_sample <span class="token operator">=</span> <span class="token number">10000</span>
 np<span class="token punctuation">.</span>random<span class="token punctuation">.</span>shuffle<span class="token punctuation">(</span>data<span class="token punctuation">)</span>
 
@@ -861,11 +841,8 @@ test_score <span class="token operator">=</span> model<span class="token punctua
 <ul>
 <li>Split the data into K partitions of equal size.</li>
 <li>For each partition i, train the model on the remaining K - 1 partitions and evaluate on partition i.</li>
-<li>Your final score is the averages of the K scores.</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li>Your final score is the averages of the K scores.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -895,7 +872,10 @@ test_score <span class="token operator">=</span> model<span class="token punctua
         decoding="async"
       />
   </a>
-    </span></p>
+    </span></li>
+</ul>
+</li>
+</ul>
 <div class="gatsby-highlight" data-language="python"><pre class="language-python"><code class="language-python"><span class="token comment"># The number of folds</span>
 k <span class="token operator">=</span> <span class="token number">3</span>
 num_validation_samples <span class="token operator">=</span> <span class="token builtin">len</span><span class="token punctuation">(</span>data<span class="token punctuation">)</span> <span class="token operator">//</span> k
@@ -962,9 +942,8 @@ test_score <span class="token operator">=</span> model<span class="token punctua
 </li>
 </ul>
 </li>
-<li><em>Feature engineering</em>: the process of using your own knowledge of the data to make the model work better.</li>
-</ul>
-<p><span
+<li><em>Feature engineering</em>: the process of using your own knowledge of the data to make the model work better.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 613px; "
     >
@@ -993,8 +972,7 @@ test_score <span class="token operator">=</span> model<span class="token punctua
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>E.g. Instead of inputting the raw clock face, convert the time into Cartesian coordinates or, even better, into polar coordinates.</li>
 <li>Make the problem easier by expressing it in a simpler way. However, this requires understanding the problem in depth.</li>
 <li>Benefits of feature engineering
@@ -1055,9 +1033,8 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
 <li>The <code class="language-text">l2(0.001))</code> means to use L2 regularization and for every coefficient in the weight matrix of the layer, add <code class="language-text">0.001 * weight_coefficient_value</code> to the total loss of the network.</li>
 <li>Note that this penalty is only added at training and not during testing.</li>
 <li>Another way to prevent overfitting is dropout.</li>
-<li><em>Dropout</em>: randomly dropping out (or setting to zero) a number of output features of the layer during training.</li>
-</ul>
-<p><span
+<li><em>Dropout</em>: randomly dropping out (or setting to zero) a number of output features of the layer during training.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; "
     >
@@ -1086,8 +1063,7 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>E.g. A normal layer returns <code class="language-text">[0.2, 0.5, 1.3, 0.8, 1.1]</code> but a dropout layer would return <code class="language-text">[0, 0.5, 1.3, 0, 1.1]</code>.</li>
 <li><a href="https://stats.stackexchange.com/questions/241645/how-to-explain-dropout-regularization-in-simple-terms">https://stats.stackexchange.com/questions/241645/how-to-explain-dropout-regularization-in-simple-terms</a></li>
 <li><em>Dropout rate</em>: the fraction of features that are zeroed out.</li>
@@ -1188,11 +1164,8 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
 <ul>
 <li>The baseline is random guessing.</li>
 <li>E.g. For guessing digits between 0-9, the baseline is 10% for random guessing.</li>
-<li>The key choices are for the last-layer activation, loss function, and optimization configuration.</li>
-</ul>
-</li>
-</ol>
-<p><span
+<li>The key choices are for the last-layer activation, loss function, and optimization configuration.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -1222,8 +1195,10 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
         decoding="async"
       />
   </a>
-    </span>
-6. Scale up the model so it overfits</p>
+    </span></li>
+</ul>
+</li>
+<li>Scale up the model so it overfits
 <ul>
 <li>Once the model is better than the baseline, optimize the model.</li>
 <li>The universal tension in machine learning is between optimization and generalization.</li>
@@ -1232,7 +1207,7 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
 <li>To cross the border, develop a model that overfits by adding more layers, making the layer bigger, and training for more epochs.</li>
 <li>When the validation loss increases, you’ve achieved overfitting.</li>
 </ul>
-<ol start="7">
+</li>
 <li>Regularize the model and tune the hyperparameters
 <ul>
 <li>Now that the model overfits, move it closer to the border by
@@ -1289,11 +1264,8 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
 <li>The fundamental difference between dense and convolution layer
 <ul>
 <li>Dense layers learn global patterns in the data.</li>
-<li>Convolution layer learn local patterns in the data.</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li>Convolution layer learn local patterns in the data.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 892px; "
     >
@@ -1322,8 +1294,9 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
+</ul>
+</li>
 <li>Since conv layer learn local patterns, this gives them two interesting properties
 <ul>
 <li>The patterns they learn are translation invariant.</li>
@@ -1333,9 +1306,8 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
 <li>Convolutions operate over 3D tensors, call feature maps, with two spatial axes (height and width) as well as a depth axis (channels).</li>
 <li>RGB has three channels: red, green, blue. Greyscale has one channel: levels of grey.</li>
 <li>The convolution operation outputs a feature map with an arbitrary depth since the depth axis no longer stands for channels, but rather filters.</li>
-<li><em>Filters</em>: encodes specific aspects of the input data.</li>
-</ul>
-<p><span
+<li><em>Filters</em>: encodes specific aspects of the input data.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -1365,8 +1337,7 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>Convolutions are defined by two key parameters
 <ul>
 <li>Size of the patches extracted from the inputs
@@ -1377,13 +1348,8 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
 <li>Depth of the output feature map
 <ul>
 <li>The number of filters computed by the convolution.</li>
-<li>E.g. 32, 64</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li>E.g. 32, 64
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 712px; "
     >
@@ -1412,8 +1378,11 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
+</ul>
+</li>
+</ul>
+</li>
 <li>The output width and height may differ from the input width and height due to
 <ul>
 <li>Border effects</li>
@@ -1422,11 +1391,8 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
 </li>
 <li>Border effects and padding
 <ul>
-<li>If you use a sliding window on the raw input, the output will decrease in dimensions due to not being able to use the edge.</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li>If you use a sliding window on the raw input, the output will decrease in dimensions due to not being able to use the edge.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -1456,9 +1422,9 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
         decoding="async"
       />
   </a>
-    </span>
-- To get the output feature map to have the same spatial dimensions as the input, you can use padding.
-- <em>Padding</em>: adding an appropriate number of rows/columns to the input to fit center convolution windows around every input tile.
+    </span></li>
+<li>To get the output feature map to have the same spatial dimensions as the input, you can use padding.</li>
+<li><em>Padding</em>: adding an appropriate number of rows/columns to the input to fit center convolution windows around every input tile.
 <span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
@@ -1489,14 +1455,17 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
         decoding="async"
       />
   </a>
-    </span>
-- There are two padding arguments in Keras
-- <em>Valid</em>: no padding (only valid window locations are used).
-- <em>Same</em>: pad so that the output will have the same dimensions as the input.</p>
+    </span></li>
+<li>There are two padding arguments in Keras
 <ul>
-<li><em>Stride</em>: the distance between two successive windows.</li>
+<li><em>Valid</em>: no padding (only valid window locations are used).</li>
+<li><em>Same</em>: pad so that the output will have the same dimensions as the input.</li>
 </ul>
-<p><span
+</li>
+</ul>
+</li>
+<li><em>Stride</em>: the distance between two successive windows.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -1526,8 +1495,7 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>Stride can be used to downsample a feature map however, max-pooling is more commonly used.</li>
 <li>The role of max pooling is to aggressively downsample feature maps.</li>
 <li><em>Max pooling</em>: extracting windows from the input feature maps and outputting the max value of each channel.</li>
@@ -1578,11 +1546,8 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
 <li>Convnets consist of two parts
 <ul>
 <li>the pooling and convolution layers (called the convolution base)</li>
-<li>the dense layers</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li>the dense layers
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -1612,8 +1577,9 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
+</ul>
+</li>
 <li>The reason to discard the classifier is because the representations learned by the convolution base are more general and thus more reusable.</li>
 <li>The more general a model is, the more reusable it is.</li>
 <li>After getting a pretrained network, there are two ways you can proceed
@@ -1625,9 +1591,8 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
 <li>In Keras, models behave just like layers which means you can do something like this: <code class="language-text">model.add(conv_base)</code>.</li>
 <li><em>Freezing</em>: preventing a layer’s weights from updating.</li>
 <li>Always recompile the model after freezing layers.</li>
-<li><em>Fine-tuning</em>: unfreezing a few of the top layers of a frozen model and training the thawed layers along with the classifier.</li>
-</ul>
-<p><span
+<li><em>Fine-tuning</em>: unfreezing a few of the top layers of a frozen model and training the thawed layers along with the classifier.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 515px; "
     >
@@ -1656,8 +1621,7 @@ model<span class="token punctuation">.</span>add<span class="token punctuation">
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>Steps for fine-tuning a network
 <ol>
 <li>Add your custom network on top of the pre-trained base network.</li>
@@ -1688,11 +1652,8 @@ activations <span class="token operator">=</span> activation_model<span class="t
 <ul>
 <li>The first layer acts like an edge detector.</li>
 <li>The higher you go, the more the abstract the activations become.</li>
-<li>The higher you go, the more sparse the activations hence why some of the filters are blank. This means the pattern encoded by the filter isn’t found in the input image.</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li>The higher you go, the more sparse the activations hence why some of the filters are blank. This means the pattern encoded by the filter isn’t found in the input image.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -1722,8 +1683,9 @@ activations <span class="token operator">=</span> activation_model<span class="t
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
+</ul>
+</li>
 <li>This channels appears to encode a diagonal edge detector.</li>
 <li>Gradient ascent in input space: applying gradient descent to the input of a convnet to maximize the response of a specific filter.</li>
 <li>Implementing gradient ascent in the input space
@@ -1733,9 +1695,8 @@ activations <span class="token operator">=</span> activation_model<span class="t
 </ul>
 </li>
 <li>Similar to the activations, the filters get more abstract the deeper into the network we go.</li>
-<li><em>Class activation heatmap (CAM)</em>: a 2D grid of scores associated with a specific output class, computed for every location in any input image, indicating how important each location is with respect to the class under consideration.</li>
-</ul>
-<p><span
+<li><em>Class activation heatmap (CAM)</em>: a 2D grid of scores associated with a specific output class, computed for every location in any input image, indicating how important each location is with respect to the class under consideration.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -1765,8 +1726,7 @@ activations <span class="token operator">=</span> activation_model<span class="t
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>You’re weighting a spatial map of “how intensely the input image activates different channels” by “how important each channel is with regard to the class”, resulting in a spatial map of “how intensely the input image activates the class.”</li>
 </ul>
 <p><strong>Summary</strong>
@@ -1814,9 +1774,8 @@ activations <span class="token operator">=</span> activation_model<span class="t
 <li>Extract n-grams of words/characters and transform each n-gram into a vector.</li>
 </ul>
 </li>
-<li><em>N-grams</em>: overlapping groups of multiple consecutive words/characters.</li>
-</ul>
-<p><span
+<li><em>N-grams</em>: overlapping groups of multiple consecutive words/characters.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 852px; "
     >
@@ -1845,12 +1804,10 @@ activations <span class="token operator">=</span> activation_model<span class="t
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li><em>Tokens</em>: the different units you can break down text (characters, words, n-grams).</li>
-<li><em>Tokenization</em>: breaking text into tokens.</li>
-</ul>
-<p><span
+<li><em>Tokenization</em>: breaking text into tokens.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 804px; "
     >
@@ -1879,16 +1836,12 @@ activations <span class="token operator">=</span> activation_model<span class="t
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>There are multiple ways of associating a vector with a token
 <ul>
 <li><em>One-hot encoding</em>: associating a unique integer index to each unique word.</li>
-<li><em>Word embedding</em>: associating a vector to a word.</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li><em>Word embedding</em>: associating a vector to a word.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -1918,8 +1871,9 @@ activations <span class="token operator">=</span> activation_model<span class="t
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
+</ul>
+</li>
 <li>Two ways to obtain word embeddings
 <ul>
 <li>Learn word embeddings jointly with the main task.</li>
@@ -1927,9 +1881,8 @@ activations <span class="token operator">=</span> activation_model<span class="t
 </ul>
 </li>
 <li>The geometric relationship between word vectors should reflect the semantic relationship between those words.</li>
-<li>Word embeddings are meant to map human language into a geometric space with words closer in meaning mapped closer together and specific directions to be meaningful.</li>
-</ul>
-<p><span
+<li>Word embeddings are meant to map human language into a geometric space with words closer in meaning mapped closer together and specific directions to be meaningful.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 351px; "
     >
@@ -1957,8 +1910,7 @@ activations <span class="token operator">=</span> activation_model<span class="t
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>The transformation “from pet to wild animal” goes from bottom to top.</li>
 <li>The transformation “from canine to feline” goes from left to right.</li>
 <li>Learn the embeddings using backprop.</li>
@@ -1975,9 +1927,8 @@ embedding_layer <span class="token operator">=</span> Embedding<span class="toke
 <li>All sequences in a batch must have the same length so pad the shorter ones and chop the longer ones.</li>
 <li>Use pretrained word embeddings when you don’t have a lot of data.</li>
 <li><em>Recurrent neural network (RNN)</em>: a class of neural network that maintains previously seen information; a network with memory.</li>
-<li>RNNs feed their previous output alongside the current input.</li>
-</ul>
-<p><span
+<li>RNNs feed their previous output alongside the current input.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 393px; "
     >
@@ -2005,13 +1956,11 @@ embedding_layer <span class="token operator">=</span> Embedding<span class="toke
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>The state of the RNN is reset between processing two different, independent sequences.</li>
 <li>However, the processing of those sequences is no longer a single step as the network internally loops over it.</li>
-<li>An RNN is a <code class="language-text">for</code> loop that reuses quantities computed during the previous iteration of the loop.</li>
-</ul>
-<p><span
+<li>An RNN is a <code class="language-text">for</code> loop that reuses quantities computed during the previous iteration of the loop.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -2041,8 +1990,7 @@ embedding_layer <span class="token operator">=</span> Embedding<span class="toke
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>Usually, you don’t need the full sequence of outputs from an RNN because the last step already has the information about the entire sequence.</li>
 <li>The <code class="language-text">SimpleRNN</code> in Keras takes inputs of shape <code class="language-text">(batch_size, timesteps, input_features)</code>.</li>
 <li>Use the <code class="language-text">return_sequences</code> argument to specify whether you want the full sequences of successive outputs for each timestamp or if you only want the last output.</li>
@@ -2059,9 +2007,8 @@ model<span class="token punctuation">.</span>summary<span class="token punctuati
 <li>In practice, you’ll never use <code class="language-text">SimpleRNN</code> because it’s too simple. Use either <code class="language-text">LSTM</code> or <code class="language-text">GRU</code>.</li>
 <li>SimpleRNN doesn’t work as well due to the vanishing gradient problem.</li>
 <li><em>Vanishing gradient problem</em>: if the network as too many layers, it becomes untrainable.</li>
-<li><em>Long Short-Term Memory (LSTM)</em>: an extension of RNNs with a carry track to carry information forwards in time.</li>
-</ul>
-<p><span
+<li><em>Long Short-Term Memory (LSTM)</em>: an extension of RNNs with a carry track to carry information forwards in time.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -2091,8 +2038,7 @@ model<span class="token punctuation">.</span>summary<span class="token punctuati
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>An LSTM saves information for later thus preventing older signals from gradually vanishing.</li>
 <li>Psuedocode for an LSTM</li>
 </ul>
@@ -2122,9 +2068,8 @@ c_t<span class="token operator">+</span><span class="token number">1</span> <spa
 <li>To stack recurrent layers on top of each other, all intermediate layers should return their full sequence of outputs instead of just the last output.</li>
 <li>A bidirectional RNN processes input sequences chronologically and anti-chronologically. It trains in both forward and reverse time.</li>
 <li>Interestingly, reverse-order processing on text works just as well as forward-order processing in some cases.</li>
-<li>Although the word order does matter in understanding language, which order is used doesn’t matter.</li>
-</ul>
-<p><span
+<li>Although the word order does matter in understanding language, which order is used doesn’t matter.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 931px; "
     >
@@ -2153,12 +2098,10 @@ c_t<span class="token operator">+</span><span class="token number">1</span> <spa
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>When it comes to markets, past performance is not a good predictor of future returns; looking in the rear-view mirror is a bad way to drive.</li>
-<li><em>1D convolution</em>: a convolution in one dimension where the window is the slice of time.</li>
-</ul>
-<p><span
+<li><em>1D convolution</em>: a convolution in one dimension where the window is the slice of time.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -2188,16 +2131,14 @@ c_t<span class="token operator">+</span><span class="token number">1</span> <spa
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>Like 2D convnets, 1D convnets find local patterns in the sequence so one pattern learned at one time can later be recognized at a different time.</li>
 <li>This makes 1D convnets translation invariant for temporal translations.</li>
 <li>E.g. If it sees that after it’s cloudy it rains, then the next time it’s cloudy, it’ll predict that it’ll rain.</li>
 <li>Just like max pooling, 1D sequences used 1D pooling.</li>
 <li>1D convnets can’t learn longer-term patterns as well as an RNN can due to only focusing on local patterns.</li>
-<li>However, for very long sequences, you can use a 1D convnet to reduce the sequence’s length and feed that into an RNN.</li>
-</ul>
-<p><span
+<li>However, for very long sequences, you can use a 1D convnet to reduce the sequence’s length and feed that into an RNN.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 562px; "
     >
@@ -2226,7 +2167,8 @@ c_t<span class="token operator">+</span><span class="token number">1</span> <spa
         decoding="async"
       />
   </a>
-    </span></p>
+    </span></li>
+</ul>
 <p><strong>Summary</strong>
 <span
       class="gatsby-resp-image-wrapper"
@@ -2260,16 +2202,16 @@ c_t<span class="token operator">+</span><span class="token number">1</span> <spa
     </span></p>
 <h2 id="chapter-7-advanced-deep-learning-best-practices" style="position:relative;"><a href="#chapter-7-advanced-deep-learning-best-practices" aria-label="chapter 7 advanced deep learning best practices permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Chapter 7: Advanced deep-learning best practices</h2>
 <ul>
-<li>Sequential models are limited in that they have exactly one input and exactly one output.</li>
-<li>However, you may want a model that
+<li>
+<p>Sequential models are limited in that they have exactly one input and exactly one output.</p>
+</li>
+<li>
+<p>However, you may want a model that</p>
 <ul>
 <li>takes in multiple inputs</li>
 <li>returns multiple outputs</li>
-<li>has a graph-like structure</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li>has a graph-like structure
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 393px; "
     >
@@ -2388,10 +2330,15 @@ c_t<span class="token operator">+</span><span class="token number">1</span> <spa
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
-<li>The Keras functional API lets you use layers as functions.</li>
-<li>E.g. The <code class="language-text">Sequential</code> model converted into the functional API.</li>
+    </span></li>
+</ul>
+</li>
+<li>
+<p>The Keras functional API lets you use layers as functions.</p>
+</li>
+<li>
+<p>E.g. The <code class="language-text">Sequential</code> model converted into the functional API.</p>
+</li>
 </ul>
 <div class="gatsby-highlight" data-language="python"><pre class="language-python"><code class="language-python"><span class="token keyword">from</span> keras<span class="token punctuation">.</span>models <span class="token keyword">import</span> Sequential<span class="token punctuation">,</span> Model
 <span class="token keyword">from</span> keras <span class="token keyword">import</span> layers
@@ -2415,11 +2362,8 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
 <li>Resnets are built using residual connections and tackle the following problems
 <ul>
 <li>vanishing gradients</li>
-<li>representational bottlenecks</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li>representational bottlenecks
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -2449,8 +2393,9 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
+</ul>
+</li>
 <li>You can use models as you use layers. Think of models as a “bigger layer”.</li>
 <li>E.g. You can use a model to evaluate a single input: <code class="language-text">y = model(x)</code>.</li>
 <li>When training a model, we currently let the model run until it starts overfitting. However, this is wasteful and inefficient.</li>
@@ -2460,11 +2405,8 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
 <li>Model check-points by saving the current weights</li>
 <li>Early stopping when validation loss doesn’t improve</li>
 <li>Dynamically adjusting the value of certain parameters</li>
-<li>Logging training/validation metrics</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li>Logging training/validation metrics
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -2494,8 +2436,9 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
+</ul>
+</li>
 <li>Use Tensorboard to visualize
 <ul>
 <li>Metrics during training</li>
@@ -2513,9 +2456,8 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
 </li>
 <li>Normalization makes different samples seem more similar.</li>
 <li><code class="language-text">BatchNormalization</code> is a type of layer that can continuously normalize data throughout the network.</li>
-<li><em>Depthwise seperable convolution</em>: separating the learning of spatial features and the learning of channel-wise features.</li>
-</ul>
-<p><span
+<li><em>Depthwise seperable convolution</em>: separating the learning of spatial features and the learning of channel-wise features.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -2545,8 +2487,7 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li><em>Hyperparameters</em>: the architecture-level parameters.</li>
 <li>E.g. How many layers/neurons to use, how many epochs, use dropout.</li>
 <li><em>Model ensembling</em>: pooling together predictions of a set of different models to produce better predictions.</li>
@@ -2591,9 +2532,8 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
 <ul>
 <li><em>Generative recurrent networks</em>: using an RNN to predict the next token(s) in a sequence using the previous tokens as input.</li>
 <li>E.g. Given “the sky is bl-” predict “ue”.</li>
-<li>Once the model is trained, sample from it by feeding the generated output as input.</li>
-</ul>
-<p><span
+<li>Once the model is trained, sample from it by feeding the generated output as input.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -2623,8 +2563,7 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>Example sampling strategies
 <ul>
 <li><em>Greedy sampling</em>: always choosing the most likely token.</li>
@@ -2632,9 +2571,8 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
 </ul>
 </li>
 <li>Stochastic sampling is better than greedy sampling as it provides more variety in the generated output.</li>
-<li>However, we want to control the randomness or “creativity” of the network to tune how predictable or surprising the output is.</li>
-</ul>
-<p><span
+<li>However, we want to control the randomness or “creativity” of the network to tune how predictable or surprising the output is.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -2664,13 +2602,11 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>Skipping over the DeepDream content.</li>
 <li>Skipping over the neural style transfer content.</li>
-<li>The key idea for image generation is to develop a latent space that can be sampled from to generate images.</li>
-</ul>
-<p><span
+<li>The key idea for image generation is to develop a latent space that can be sampled from to generate images.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -2700,12 +2636,10 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li><em>Latent space</em>: the space that holds all possible abstractions obtained from the environment.</li>
-<li>Latent space is the same idea as the embedded space for words where certain directions encode certain features.</li>
-</ul>
-<p><span
+<li>Latent space is the same idea as the embedded space for words where certain directions encode certain features.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -2735,8 +2669,7 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li><em>Variational autoencoders (VAE)</em>: a variant of autoencoders that turns the input image into a mean and a variance.</li>
 <li>The three steps of VAE
 <ul>
@@ -2748,11 +2681,8 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
 <li><em>Generative adversarial networks (GAN)</em>: consists of two parts
 <ul>
 <li><em>Generator network</em>: takes a random vector as input and decodes it into a synthetic image.</li>
-<li><em>Discriminator network</em>: takes an image (real/synthetic) and predicts whether the image is real or synthetic.</li>
-</ul>
-</li>
-</ul>
-<p><span
+<li><em>Discriminator network</em>: takes an image (real/synthetic) and predicts whether the image is real or synthetic.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -2782,8 +2712,9 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
+</ul>
+</li>
 <li>GANs don’t seek to minimize like SGD, but instead they seek to reach equilibrium.</li>
 <li>GANs are notoriously difficult to train.</li>
 <li>It’s important to freeze the discriminator’s weights while training the GAN. This way the discriminator won’t always predict “real”.</li>
@@ -2834,9 +2765,8 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
 <ul>
 <li>A review on everything learnt in this textbook.</li>
 <li>Anything requiring reasoning is beyond deep learning.</li>
-<li>Neural networks doesn’t understand the task they perform.</li>
-</ul>
-<p><span
+<li>Neural networks doesn’t understand the task they perform.
+<span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1000px; "
     >
@@ -2866,8 +2796,7 @@ model <span class="token operator">=</span> Model<span class="token punctuation"
         decoding="async"
       />
   </a>
-    </span></p>
-<ul>
+    </span></li>
 <li>The only real success of deep learning so far has been the ability to map space X to space Y using a continuous geometric transform, given large amounts of human-annotated data.</li>
 <li>To make something more efficient, there’s one universal recipe: introduce modularity and hierarchy.</li>
 <li>So please go on learning, questioning, and researching.</li>
