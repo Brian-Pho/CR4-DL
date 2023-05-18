@@ -7,6 +7,18 @@ categories:
 excerpt: "My thoughts on certain textbooks."
 ---
 
+### Brain Facts
+
+*Rating: 3/5*
+
+Surprisingly good for a free textbook. This book is recommended for students competing in the Brain Bee competition and it's decent. The level of detail is below an undergraduate textbook though and is biased towards the medical side of neuroscience. For instance, the book covers more disorders and abnormalities than usual. However, it's a great introduction or review of the basics of the brain.
+
+### The Cambridge Handbook of Expertise and Expert Performance
+
+*Rating: 3/5*
+
+Your average literature-review-style textbook. Some of the chapters are great, some aren't. It felt like some of the chapters tried to force their findings into the framework of deliberate practice but it isn't genuine. The chapters by Ericsson are great but I would recommend to read his book "Peak" instead.
+
 ### Vision Science
 
 *Rating: 4/5*

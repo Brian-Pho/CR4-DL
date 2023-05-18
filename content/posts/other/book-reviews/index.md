@@ -7,9 +7,15 @@ categories:
 excerpt: "My thoughts on certain books."
 ---
 
+### Complexity
+
+*Rating: 2/5*
+
+Another disappointing book. I was expecting a general framework for tackling complexity but instead I got a bunch of loosely tied examples. The start of the book was captivating but it quickly fell off when the author brought in mathematics. The book also describes the history behind computers, evolution, and information which was interesting but unrelated. Am I reading a history book or a complexity book? There was no thesis behind the chapters, no argument made. It read more like a lecture on various topics than a framework for managing complexity.
+
 ### A Thousand Brains
 
-*Rating: 3/5*
+*Rating: 2/5*
 
 A disappointing book. I was hoping for more details on the Thousand Brains theory but only a third of the book covers it. The rest two-thirds covers artificial intelligence and exisentialism, which I found interesting but not relevant to understanding the brain. I understand the book was written for a layperson and would not recommend it for experienced neuroscientists. Instead, read the papers by Hawkin and his team for more details. The book also repeats ideas too often to make up for the lack of substance. See [this](https://www.alignmentforum.org/posts/ixZLTmFfnKRbaStA5/book-review-a-thousand-brains-by-jeff-hawkins) for a more in-depth review of the book.
 
