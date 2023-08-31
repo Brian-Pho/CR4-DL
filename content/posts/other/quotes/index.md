@@ -23,7 +23,7 @@ A list of my favourite quotes that I've collected over the years.
 - The unexamined life may not be worth living, but the life too closely examined may not be lived at all. - **Mark Twain**
 - "What happens after you die?" "Lot's of things happen after you die - they just don't involve you"
 - Don't cry because it's over, smile because it happened. - **Ludwig Jacobowski**
-- We all have two lives, the second one starts when you realise you only have one. - **Confucius**
+- We all have two lives, the second one starts when you realize you only have one. - **Confucius**
 - Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.
 - There's no point in living if you can't, at least occasionally, live.
 - Life - the way it really is - is a battle not between good and bad, but between bad and worse.
@@ -50,9 +50,13 @@ A list of my favourite quotes that I've collected over the years.
 - If we don't change, we don't grow. If we don't grow, we are not really living. - **Gail Sheehy**
 - You are inexperienced. So was I, once. So is every man. The measure of a person is not how much they have lived. It is not how easily they jump at a noise or how quick they are to show emotion. It’s in how they make use of what life has shown them. - **Brandon Sanderson, The Alloy of Law**
 - I don't want to get to the end of my life and find that I have just lived the length of it. I want to have lived the width of it as well. - **Diane Ackerman**
-- Sometimes we spend a lifetime climbing a ladder, not knowing it's up against the wrong wall.
+- Sometimes we spend a lifetime climbing a ladder, not knowing it's up against the wrong wall. - **Allen Raine**
 - How we spend our days is, of course, how we spend our lives. What we do with this hour, and that one, is what we are doing. A schedule defends from chaos and whim. It is a net for catching days. - **Annie Dillard**
 - We demand proof of life from those who wish to speak to us. - **Andrew Bosworth, Age of Authenticity**
+- Time passes whether I stand still or move. - **Anne Barngrover, On Maps, (AGNI 97)**
+- One day you will do something the final time and you will rarely know when that day comes. - **Andrew Anabi**
+- It's hard to remember that this day will never come again. That the time is now and the place is here and that there are no second chances at a single moment. - **Jeanette Winterson**
+- I'll give you the hammer, you decide where to drive the nail. - **James Clear**
 
 ## Science
 
@@ -108,6 +112,9 @@ A list of my favourite quotes that I've collected over the years.
 - There are birds that migrate by the stars, bats that echolocate, bees that compute the variance of flower patches, spiders that spin webs, humans that speak, ants that farm, lions that hunt in teams, cheetahs that hunt alone, monogamous gibbons, polyandrous seahorses, polygynous gorillas. There are millions of animal species on earth, each with a different set of cognitive programs. The same basic neural tissue embodies all of these programs, and it could support many others as well. Facts about the properties of neurons, neurotransmitters, and cellular development cannot tell you which of these millions of programs the human mind contains. Even if all neural activity is the expression of a uniform process at the cellular level, it is the arrangement of neurons—into bird song templates or web-spinning programs—that matters. - **Steven Pinker, How the Mind Works**
 - To explain how birds fly, we invoke principles of lift and drag and fluid mechanics that also explain how airplanes fly. That does not commit us to an Airplane Metaphor for birds, complete with jet engines and complimentary beverage service. - **Steven Pinker, How the Mind Works**
 - But then we always suspected the cortex is a mere blanket for regulating the temperature of the crucial parts of the brain. And while some continue to protest that “the folds of human cortex are what makes us unique!”, they are denying the simple, near universally-accepted explanation — greater surface area improves heat dissipation. - **Mark Humphries, Review of 2019 in neuroscience**
+- Cogito ergo sum ('I think, therefore I am') - **Descartes**
+- The brain is a world consisting of a number of unexplored continents and great stretches of unknown territory. - **Santiago Ramon y Cajal**
+- The initial cause of any human action lies outside the person. - **Ivan Mikhailovich Sechenov**
 
 ### Artificial Intelligence
 
@@ -159,8 +166,8 @@ A list of my favourite quotes that I've collected over the years.
 - You be strange now but don't be a stranger, nah'mean? - **Leon, Mr. Robot**
 - You have to be comfortable with being uncomfortable.
 - A great fire burns within me, but no one stops to warm themselves at it, and passers-by only see a wisp of smoke.
-- It matters not what someone is born, but what they grow to be.
-- Not all those who wander are lost.
+- It matters not what someone is born, but what they grow to be. - **J.K. Rowling, Harry Potter and the Goblet of Fire**
+- Not all those who wander are lost. - **J.R.R. Tolkien, The Fellowship of the Ring**
 - Perhaps it's impossible to wear an identity without becoming what you pretend to be.
 - We judge others by their actions and ourselves on our intentions.
 - We’d care a lot less about what others thought about us, if we realized how little they did.
@@ -176,7 +183,7 @@ A list of my favourite quotes that I've collected over the years.
 - No, it’s impossible. It’s impossible to tell anyone what it feels like to be you. It’s impossible. We live the same way that we dream - alone. - **Joseph Conrad**
 - A man must suffer if he is to remake himself, for he is both the marble and the sculptor.
 - Have the courage to live a life true to yourself, not the life others expect of you.
-- There are days that define your story beyond your life. - **Arrival**
+- There are days that define your story beyond your life. - **Louise Banks, Arrival**
 - Think about yourself first. You’re no good to others if you aren’t good to yourself.
 - They're not looking for a story that tells them who they are. They already know who they are. They're here because they want a glimpse of who they could be. - **Ford, Westworld**
 - You were comforted by your future self. - **Kubera**
@@ -209,6 +216,9 @@ A list of my favourite quotes that I've collected over the years.
 - You hate change. I hate it too. But things can't stay the same—and that's well, for when nothing changes in your life, it's as good as being dead. - **Brandon Sanderson, The Hero of Ages**
 - A man can take it off, Lady Marasi. But he can never stop wearing it. - **Brandon Sanderson, The Alloy of Law**
 - Yes, He hurt Wax. He hurt him badly. But He put the pain where He knew it could be borne. - **Brandon Sanderson, Shadows of Self**
+- The world will ask you who you are, and if you don't know, the world will tell you. - **Carl Jung**
+- Create your life rather than live it. - **James Clear**
+- You're like my own children, adults before I had time to know them as kids. - **Brandon Sanderson, The Hero of Ages**
 
 ## Mastery
 
@@ -257,6 +267,7 @@ A list of my favourite quotes that I've collected over the years.
 - It seems, in fact, as though the second half of a person's life is made up of nothing but the habits they accumulated during the first half. - **Fyodor Dostoyevsky**
 - Almost everybody can stay excited for 2 or 3 months. A few people can stay excited for 2 or 3 years. But a winner will stay excited for 30 years or however long it takes to win. - **Art Williams**
 - I long to accomplish a great and noble task; but it is my chief duty and joy to accomplish humble tasks as though they were great and noble. The world is moved along, not only by the mighty shoves of its heroes, but also by the aggregate of the tiny pushes of each honest worker. - **Helen Keller**
+- We are built to make mistakes, coded for error. We learn, as we say, by "trial and error." - **Lewis Thomas, The Medusa and the Snail**
 
 ## Relationships
 
@@ -266,8 +277,9 @@ A list of my favourite quotes that I've collected over the years.
 - Do you know what time erases? Pain. Do you know what erases time? Love.
 - You know you're in love when you can't fall asleep because reality is finally better than your dreams.
 - The most painful thing is losing yourself in the process of loving someone too much, and forgetting that you are special too.
-- Sometimes I think I need a spare heart to feel all the things I feel.
+- Sometimes I think I need a spare heart to feel all the things I feel. - **Me**
 - Perhaps one did not want to be loved so much as to be understood. - **1984**
+- Women are meant to be loved, not to be understood.
 - Never love anyone who treats you like you're ordinary.
 - It is not a lack of love but a lack of friendship that makes unhappy marriages.
 - I'm not upset that you lied to me, I'm upset that from now on I can't believe you.
@@ -284,8 +296,7 @@ A list of my favourite quotes that I've collected over the years.
 - If the women don't find you handsome, they should at least find you handy.
 - How lucky I am to have something that makes saying goodbye so hard.
 - Just because a relationship ends, that doesn't mean it was a failure or a mistake.
-- You're not afraid she's going to say no, and you're afraid she's going to say yes.
-- Women are meant to be loved, not to be understood.
+- You're not afraid she's going to say no, and you're afraid she's going to say yes. - **Reddit**
 - Don't make someone a priority when all you are to them is an option.
 - One day, whether you are 14, 28 or 65, you will stumble upon someone who will start a fire in you that cannot die. However, the saddest, most awful truth you will ever come to find – is they are not always with whom we spend our lives.
 - Treat others the way they want to be treated.
@@ -293,18 +304,28 @@ A list of my favourite quotes that I've collected over the years.
 - One of the worst pains comes from realizing you overestimated how much someone actually cares about you.
 - The opposite of love isn't hate, it's apathy.
 - It wasn't about how great we were when things were good, it was about how perfect she was when things were bad.
-- It's important to remember that it's not how a relationship starts that matters, it's how it evolves.
+- It's important to remember that it's not how a relationship starts that matters, it's how it evolves. - **Reddit**
 - Do you feel victory when your words cause pain?
 - The most fucked up joke life can play on you is letting you meet the right person at the wrong time.
 - I'd rather be hated for who I am than loved for who I am not. - **Kurt Cobain**
 - He had seen a few smiles he might have killed for, but never one he'd have died for. - **Iain M. Banks, Use of Weapons**
 - It’s hard to admit but we are visual creatures and we try to make love out of lust. - **Reddit**
-- You're like my own children, adults before I had time to know them as kids. - **Brandon Sanderson, The Hero of Ages**
 - I will always harbor the regret of leading her down a path that I was not prepared to follow. - **[Reddit](https://www.reddit.com/r/dating/comments/t8tfq4/a_success_story_of_online_dating/)**
 - I think we both saw attraction, but not affection, in each other.
 - Does anyone feel like its pointless dating? It's not pointless it's challenging, just like anything else worthwhile in life. - **Reddit**
 - The right person at the wrong time is still the wrong person. You didn't miss an opportunity, you just weren't ready for one. - **Reddit**
 - It’s not about what someone can do for you, it's who and what the two of you become in each other's presence. - **Ronald Sharp**
+- Ladies, if you were dating a guy and he took you on a romantic trip to the Maldives, would that make you feel special? Ok, now imagine how you would feel if you discovered you were the 50th girl he took to the Maldives - how would you feel then? This is why body count matters. - **[YouTube](https://www.youtube.com/watch?v=QwSu1cp4xBQ)**
+- Just remember ladies, you’re the gatekeeper of sexual opportunity ... but men are the gatekeeper of marriage opportunity. As long as men set the standard for who they want to marry, your opinion on your body count doesn’t matter. Either be the woman your dream-guy wants you to be, or do whatever you want and live with what’s left.
+- Many relationships exist because they figured out they can’t have the home or lifestyle they want without having a spouse.
+- A lot of you confuse ghosting with them just losing interest in you.
+- It’s just that what is being said isn’t “I don’t like fat people”, what is being said is “I don’t find fat people physically attractive”.
+- While walking together casually say "here can you hold this for me?" and just hold out your empty hand.
+- People rarely change. Don't think you can fix the things that bother you about them. Accept them as they are.
+- Be with someone you want to grow with, not someone you want to change.
+- Because he already had his life together and going, I would just be an add on. Had a good job, money, car, beautiful house, he was beautiful but it just didn’t feel right. Maybe it was weird of me at the time, I just felt that I wanted to build a life with. - **Reddit**
+- The qualities we look for in dating are different than the qualities we looks for in marriage.
+- I think it has to do with wanting a physical connection but not necessarily the hard work that goes into a romantic relationship.
 
 ### Loneliness
 
@@ -378,6 +399,7 @@ A list of my favourite quotes that I've collected over the years.
 - The saddest aspect of society right now is that science gathers knowledge faster than society gathers wisdom.
 - What you risk reveals what you value. - **Jeanette Winterson**
 - Boredom is the awareness of time passing. - **Heidegger**
+- A smart man learns from his mistakes. But a wise man learns from the mistakes of others.
 
 ## Funny
 
@@ -394,7 +416,7 @@ A list of my favourite quotes that I've collected over the years.
 - A girl says "Taken but not appreciated" in response to being given some advice about something. Someone responds with "I didn't ask for the title of your autobiography".
 - Suppose we've chosen the wrong god. Every time we go to church we're just making him madder and madder. - **Homer J. Simpson**
 - Those people who think they know everything are a great annoyance to those of us who do.
-- Why do I need to fight a depressed dude when I can just wait.
+- Why fight a depressed person when I can just wait.
 - The story so far: In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move. - **Douglas Adams, The Hitchhiker's Guide to the Galaxy**
 - Now they pass it by Congress who will carefully evaluate the plan and eventually come to the conclusion that sending people in rockets to other planets is a waste of money better spend on sending rockets into people on this planet.
 - Before you embark on a journey of revenge, dig two graves.
@@ -414,7 +436,6 @@ A list of my favourite quotes that I've collected over the years.
 - There was this Indian professor at some college. A guy wrote "Don't be fooled. Looks like Gandhi but grades like Hitler".
 - An Ancient Math Proverb: "That's not what I got."
 - If you create a robot without red lights build in, will it never turn evil?
-- If light travels faster than sound, then why can I hear my girlfriend bitching at me before I see what I've done wrong.
 - Those that can't do, teach.
 - Have you ever thought that the purpose of your life is to serve only as a warning for others?
 - Women age like milk, men age like wine.
@@ -431,6 +452,7 @@ A list of my favourite quotes that I've collected over the years.
 - Money can't buy happiness, but poverty can't buy anything. - **Reddit**
 - That money is only useful if you buy goods and services with it. So much of this sub just wants a fancy funeral or something. - **Reddit**
 - When you buy something cheap and bad, the best you’re going to feel about it is when you buy it. When you buy something expensive and good, the worst you’re going to feel about it is when you buy it. - **Sasha Aickin Grandmother**
+- Money plays an important role in life, but it can't be the only filter for how you decide to spend your time. Nobody will ever pay you to go on a date with your spouse or take your kids to the park or grab coffee with your parents. - **James Clear**
 
 ## Other
 
