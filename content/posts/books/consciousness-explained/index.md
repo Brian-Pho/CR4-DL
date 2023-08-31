@@ -39,11 +39,11 @@ excerpt: "An account of how consciousness arises from the interaction of physica
 - This was Descartes’s explanation for phantom-limb syndrome.
 - Phantom-limb syndrome is relatively weak since it’s a hallucination in only one sensory modality, usually pains or itches.
 - E.g. Amputees don’t see, hear, or smell their phantom limbs.
-- There’s no way the brain as illusionist could store and manipulate enough false information to fool the mind, is there?
+- There’s no way the brain—as an illusionist—could store and manipulate enough false information to fool the mind, is there?
+- Illusionist: whatever produces the hallucination.
 - If the brain starts trying to short-circuit its own nerves, the result will only be the weakest of hallucinations.
 - A review of the hallucination literature suggests an inverse relationship between strength and frequency.
 - E.g. Weak hallucinations are common while strong hallucinations are rare.
-- Illusionist: whatever produces the hallucination.
 - Review of bottom-up and top-down perceptual processing.
 - All we need to suppose must happen for a normal perceptual system to be thrown into a hallucinatory mode is for the top-down processing to work normally, while the bottom-up processing to stop working normally (random/noisy inputs).
 - This is exactly what happens during sleep and may explain why we dream.

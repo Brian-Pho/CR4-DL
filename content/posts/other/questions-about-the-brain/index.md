@@ -50,6 +50,7 @@ The following is a list of questions about the brain that I don't know the answe
 - Where does the initiation of movement start?
 - What is consciousness?
 - Why is red red and not a different color?
+- Why are the brain's connections to the body crisscrossed?
 
 ## Solved Questions
 
