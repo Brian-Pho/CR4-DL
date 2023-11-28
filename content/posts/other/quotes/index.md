@@ -439,6 +439,8 @@ A list of my favourite quotes that I've collected over the years.
 - Those that can't do, teach.
 - Have you ever thought that the purpose of your life is to serve only as a warning for others?
 - Women age like milk, men age like wine.
+- I've taught you everything you know, not everything I know.
+- You can't be ugly and play hard to get, you're already hard to want.
 
 ## Money
 
