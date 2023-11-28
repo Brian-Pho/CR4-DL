@@ -1,0 +1,572 @@
+---
+layout: post
+title: "A History of the Brain"
+date: "2023-09-08"
+categories:
+  - Books
+book_authors: "Andrew Wickens"
+excerpt: "From stone age surgery to modern neuroscience."
+---
+
+## Chapter 1: Head or heart? The ancient search for the soul
+
+- At every second of your existence, your brain abounds with billions of rapidly moving electrical signals in an incredible weave of changing patterns, causing it to be awash with a variety of chemicals.
+- Consciousness is arguably the greatest scientific mystery we face today, although one we should be able to solve since the answer lies inside our heads.
+- The mystery of the mind and brain has taxed the minds of many great philosophers and scientists.
+- In ancient Egypt, the process of mummification tells us a great deal about how the Egyptians regarded the soul.
+- They worked hard to preserve the heart as the repository for its deeds, but extracted the brain through the nose and threw it away.
+- It’s a revealing fact that the brain is never mentioned in the Bible as a cause of behavior, whereas the heart is referenced hundreds of times.
+- The human brain is evolution’s greatest achievement.
+- In just over two million years, the hominin brain almost tripled in size with Homo habilis.
+- Around 600,000 years ago, the fossil record shows the emergence of a new ape in Africa with a brain volume similar to our own.
+- This new ape is generally recognized as an archaic species of Homo sapiens and to the best of our knowledge, modern day human beings emerged about 200,000 years ago.
+- The burial of the dead is a highly revealing change in behavior because it shows one of our earliest beliefs around 27,000 to 23,000 years ago—the awareness of our own existence.
+- This leads to another idea where the body and spirit are separate entities.
+- From the Late Stone Age (50,000 years ago) to the new Stone Age (1800 BC), we notice something unexpected on the buried skulls of human beings: perforations performed by surgical procedures using specialized stone tools.
+- This procedure is known as trepanation and is the earliest known surgical procedure to have been undertaken by mankind.
+- We can only speculate why Neolithic man went through such lengths to undertake this painful and dangerous surgery.
+- Perhaps it was to remove evil spirits from the head or to reduce the occurrence of seizures.
+- The ancient Egyptians provide the earliest written reference to the brain in a text detailing types of head and neck injuries, along with advice for treatment and surgical intervention.
+- The text also points out that if a finger is placed into a wound of the brain, the person will violently shudder (possibly a seizure).
+- The first philosopher to recognize the brain as having mental powers appears to be Alcmaeon.
+- He stated that “All senses are connected with the brain” after dissecting animals and recognizing the optic nerves.
+- Alcmaeon’s insight marks a revolutionary transformation in mankind’s understanding of himself.
+- Hippocrates further solidified the brain’s role in pleasure, laughter, grief, etc. in his writings.
+- This was when the brain is finally recognized as the organ of consciousness and the cause of our unique human behavior.
+- However, this understanding was limited because they didn’t know about the nervous system.
+- It would be another hundred years before anatomists practicing human dissection for the first time would gain an understanding of the nervous system.
+- One of Plato’s distinguishing characteristics was his desire to understand what lies behind the immediate reality of our everyday experience; the true underlying nature of things rather than their superficial appearance.
+- One can’t be helped but be disappointed at Aristotle's mistaken understanding of the brain.
+
+## Chapter 2: The discovery of the nervous system
+
+- The greatest neuroscientist of antiquity was the Roman physician Galen. He famously discovered the cranial nerves, mapped out the peripheral nervous system, and his work represented the pinnacle of anatomical achievement.
+- Galen established beyond a doubt the importance of the nervous system and the brain in behavior, and his opinions wouldn’t be seriously challenged for at least another 1500 years.
+- Herophilus’s greatest contribution to anatomy was discovering the nervous system.
+- He recognized that the body contained thread-like pathways that didn’t originate from the heart or blood vessels, but from the brain and spinal cord.
+- Herophilus distinguished the two types of nerves into ‘porous’ for ones carrying sensation to the brain and ‘solid’ for ones going to the muscles.
+- As the Greek empire declined, many of its scholars left to settle in Rome.
+- From Galen’s work, nerves were never again confused with the body’s sinews such as ligaments and tendons.
+- Galen proved that voice was controlled by the brain when he accidentally cut the laryngeal nerve in a pig.
+- He also cut all nerves going to all muscles and this proved that muscles were controlled by the brain with the exception of the heart.
+- When the nerve going to the heart (vagus nerve) is cut, the heart continues beating.
+- This lead Galen to hypothesize that the heart has its own intrinsic ‘pulsatile force’.
+- An up-down incision made along the central axis of the spinal cord doesn’t produce paralysis.
+- Galen’s anatomical achievements were only a means to attempt a grander explanation of how the nervous system worked.
+- But he was tied to the prevailing beliefs of his time, which thought an air-like substance called “pneuma” was vital for life.
+- Pneuma was classified into vital pneuma essential for life and psychic pneuma essential for neurological function.
+- Psychic pneuma was stored in the brain’s ventricles and acted as both the soul and nervous force.
+- The pneumatic theory of nerve function wouldn’t be abandoned until the eighteenth century when it was replaced by ideas of animal electricity.
+- After Galen’s time, there was no one to match him for more than 1500 years, equalled only by Hippocrates.
+- During this time, there would be virtually no further study of the brain and nervous system.
+- The combination of Galen’s robust methodology, comprehensive and public investigations, and the church’s acceptance of his work, conveyed the impression that there was little else to learn about anatomy and physiology.
+- Galen’s demise was to be an important development in mankind’s quest to better understand his nature, but we acknowledge him as the first neuroscientist.
+
+## Chapter 3: From late antiquity to the Renaissance: the Cell Doctrine
+
+- Galen’s death and Rome’s fall 200 years later led to the Dark Ages, a period of over 1200 years where most ancient Greek knowledge was lost to the West, resulting in scientific apathy.
+- In the East, however, copies of Roman and Greek works would lead to no new fundamental advances but to new ideas.
+- E.g. The Cell Doctrine where the ventricles of the brain are attributed with different intellectual functions such as sensation, memory, and movement.
+- These ideas would be overturned with the acceptance of human dissection and the emergence of print technology.
+- The Dark Ages started to end with the return of European scholars from the Eastern Roman Empire. They brought back ancients text for translation into Latin and this led to the Italian Renaissance.
+- There was no standard version of the Cell Doctrine and there were at least 25 variations of it.
+- One version was endorsed by Saint Augustine and his authoritative voice of the church made his version dominant for the next eight centuries.
+- Interestingly, realistic anatomical illustrations and diagrams don’t appear in any works before the fourteenth and fifteenth centuries.
+- They start appearing around the time when human dissection wasn’t forbidden in the thirteenth and fourteenth centuries.
+- The dissection of human corpses had only and briefly taken place in Alexandria and lasted no more than one hundred years. After this, there were no more dissections until 1500 years later.
+- The first documented public human dissection took place in 1315 by Mondino de Luzzi.
+- The Renaissance originated in Italy and spanned the fourteenth to seventeenth centuries.
+- A famous figure from the Renaissance is Leonardo da Vinci. He made many anatomical illustrations that would be lost for several centuries, only to be rediscovered in the late eighteenth century.
+- Leonardo continued the Cell Doctrine by ascribing new functions to the ventricles.
+- The next major figure in advancing our understanding of brain anatomy was Andreas Vesalius.
+- Vesalius published a book on anatomy and physiology that questioned the findings of Galen and proved that he made many errors in his anatomical work.
+- Vesalius was asked to translate one of Galen’s works from Greek to Latin and upon closer inspection, Vesalius realized that Galen had never dissected a human body.
+- Instead, all of Galen’s knowledge was extrapolated from dissections performed on monkeys, cows, and pigs.
+- This was a stunning revelation that called into question a huge corpus of work revered for over 1400 years.
+- After recognizing the truth, Vesalius vowed to correct all of Galen’s mistakes and this resulted in the “Fabrica”, one of the most magnificent collections of anatomical drawings ever published.
+- The Fabrica combined scientific exposition and art in an unprecedented way in the sixteenth century.
+- The work consists of seven books and attempts a complete anatomical and physiological study of every part of the human body.
+- Although the Fabrica rendered all previous anatomical works out of date and set a new standard for further progress, the books provoked mixed reactions, many of them unfavourable to believers of Galenism.
+- Due to a tragic accident at sea, we will probably never know the final resting place of Vesalius, the founder of modern human anatomy.
+
+## Chapter 4: Searching for the ghost in the machine
+
+- The seventeenth century was a time when two opposing views emerged on the brain: mechanists believing behavior as understandable through physics and chemistry, and vitalists believing a soul-like force infused the body with motion and life.
+- Review of Descartes’s biography and works.
+- Although Descartes set out to establish a new scientific method, he also wanted science and religion to be compatible.
+- For Medieval and Renaissance thinkers, living beings were believed to contain a special vital energy separate from their physical parts, which animated them.
+- However, Descartes broke this paradigm by arguing that living beings were machines that contained mechanisms for movement.
+- In other words, there was no psyche inside the machine, no spiritual or soul-like force.
+- This was an important moment for biology because it implied that an explanation of life was possible through material processes in the physical world; a process exploitable by scientific investigation.
+- Descartes introduced the idea of Cartesian dualism.
+- Cartesian dualism: the belief that the mind is separate from the brain.
+- Cartesian dualism was a major advance in our understanding of the relationship between mind and body.
+- Although this places humans and animals on the same level as mechanical beings, Descartes also argued that human beings have a mind free from physical influences, whereas animals are simply automatons controlled by events in the natural world.
+- This lead Descartes to even deny that animals felt pain, believing that their cries were mere mechanically induced behaviors.
+- Descartes’s most enduring legacy to neuroscience wouldn’t be Cartesian dualism but his conception of the reflex.
+- If the body is a mechanism capable of acting without a will, then it follows that there must be an explanation of how this automation occurs.
+- Reflex: a sequence of events in which a stimulus from the external world elicits an involuntary response from the body.
+- The idea of a reflex was revolutionary because it made the psychological processes normally associated with the mind, such as imagination and memory, to be amenable to scientific investigation.
+- Thus, Descartes can be credited with establishing our modern paradigm for examining the neurological basis of behavior.
+- A major challenge to Cartesian dualism was how the soul interacted with the material matter of the brain.
+- Descartes proposed that the soul causes fine and fast movements of the pineal gland, resulting in the pouring of animal spirits into the appropriate nerves.
+- Although this hypothesis would later be disproven, Descartes can be forgiven because the puzzle of how the mind interacts with the body remains arguably the most intractable problem in philosophy and neuroscience today.
+- This era would result in the scientific revolution: a change in thinking from finding truths through reason or argument to finding truths from evidence and experimentation.
+- 25 years after the birth of Descartes, the father of modern neurology, Thomas Willis, would be born.
+- Willis and colleagues would embark on an ambitious project to ‘open heads and study their contents’, resulting in the book “Cerebri anatome”.
+- Cerebri anatome was an interdisciplinary investigation into the brain, spinal cord, and peripheral nerves and remained authoritative for the next 200 years.
+- The book would also push our understanding of the brain by minimizing the importance of the ventricles and placed mental functions in brain matter instead.
+- Willis was particularly dismissive of the ventricles, regarding them as no more than empty watery spaces that result from the folding of the brain.
+- His abandonment of the ventricular or Cell Doctrine was a major step forward in the history of the brain sciences.
+- The seventeenth century was a time when microscopes were increasingly used to examine the structure of biological material.
+- However, this was also a time when all explanations of nervous function relied on the idea of animal spirits.
+- Animal spirits: a liquid that flowed through nerve pathways into muscles.
+- This would be overturned in the next century with the discovery of a new life force.
+
+## Chapter 5: A new life force: animal electricity
+
+- The paradigm that the brain and nervous system worked by a soul-like force through animal spirits and liquids would be overturned with the discovery of electricity.
+- The origin of this shift started with Luigi Galvani in 1791 and was elaborated on by Du Bois-Reymond with his discovery of the nerve impulse.
+- The recognition of the nerve impulse as an electrical event and not a spiritual event was revolutionary.
+- The ability of electricity to exert physiological effects raised questions about its relationship to nervous activity.
+- E.g. An electrical shock caused a violent muscle contraction.
+- However, many people questioned whether such an important and powerful natural force could be created by the human body, let alone flow through the nervous system.
+- Galvani would change this by experimenting with frog legs and Leyden jars.
+- He found that muscle contractions were stronger when current was applied to the nerve stump rather than the muscle.
+- He also found that an extremely weak electrical stimulus applied to the nerves still produced strong muscle contractions.
+- Clearly, nerves were particularly sensitive to the effects of electrical stimulation and conducted this type of energy far more efficiently and forcefully than other tissues.
+- But where was the electricity responsible for producing the muscle contractions coming from?
+- Galvani believed that the electricity originated in the nerves themselves and called this new force “animal electricity”.
+- Alessandro Volta argued against animal electricity, believing that the source of electricity lies in using different metals to generate an electric shock.
+- For Volta, there wasn’t any need for a non-material vitalistic electrical force when physical electricity, such as the battery, existed everywhere in nature.
+- The issue remained unresolved for another 50 years or so until technology caught up and could measure the tiny currents from muscles and nerves required to test the theory.
+- With our current knowledge, we know that both Galvani and Volta were correct in certain regards.
+- The experiments by Carlo Matteucci would later confirm the existence of animal electricity by using a galvanometer to measure the current flow between nerve and muscle.
+- In 1843, when replicating Matteucci’s experiments, Du Bois-Reymond made a fundamental discovery that changed the nature of neuroscience.
+- He applied an electric shock to an exposed sciatic nerve stump and recorded the changes in current with an external electrode on the nerve.
+- The recording revealed that the shock produced a decrease in electrical potential that traveled along the surface of the nerve fiber as a ‘wave of relative negativity’.
+- Importantly, Du Bois-Reymond showed that this pulse of negative variation provided the signal to contract the muscle and called it the action current.
+- The next important figure for neuroscience would be Hermann von Helmholtz for being the first to accurately measure the speed of the nerve impulse in 1850.
+- Helmholtz measured the speed of the nerve impulse in frogs to be about 90 feet per second or around 60 miles per hour. This was much slower than the speed of light, the flow of electricity down a cable, and the speed of sound.
+- Since the nerve impulse was slower than electricity in a wire, this suggested that an active biological process was responsible for the nervous message.
+- Helmholtz called this nerve impulse an action potential.
+
+## Chapter 6: The rise and fall of phrenology
+
+- In 1798, Franz Joseph Gall proposed a new science of the human mind called phrenology.
+- Although phrenology was ridiculed at the time and even now, its insistence that mental faculties could be localized to areas of the brain remains an important development of neuroscience and represented a significant break from dogma and assumptions of the past.
+- One of phrenology’s main principles was that the skull was moulded by the shape of the underlying brain.
+- This meant we could examine people’s character by examining the shape of their skull—skull reading.
+- Phrenology contradicted the religious teachings of the time which viewed the soul, and not the brain, as the agent responsible for a person’s choices.
+- For the first time in history, Gall and phrenology put the subject of the brain into popular interest.
+- Although Gall is often negatively associated with phrenology, he did contribute to our understanding of neuroanatomy.
+- E.g. He discovered the two different types of white matter: projection and association fibers. Gall and his colleague Johann Casper Spurzheim also provided strong support for the idea that there was no single center in the cortex where everything converged.
+- Gall and Spurzheim’s most important contribution to neuroanatomy concerned the organization of the cerebral cortex.
+- E.g. They recognized that the gyri and sulci of the brain are consistent across individuals and that it greatly increased the brain’s surface area.
+- Gall wasn’t the first to recognize that different brain regions were responsible for different functions.
+- E.g. Charles Bonnet in 1760 believed that visual hallucinations were due to “irritation of the fibres of the visual organ”. In 1784, Emanuel Swedenborg realized that the cerebral hemispheres contained regions with different functions.
+- This materialistic view of the brain was the first theory to exorcise the vitalistic soul from the brain.
+- Today we know, as did researchers in the nineteenth century, that the shape of the brain has no relationship with the shape of the skull.
+- Although Gall showed no desire to test his theories with experiments, they would encourage others to do so.
+- One important figure was Marie-Jean Pierre Flourens.
+- In the early 1820s, Flourens experimented on the functions of the brain through ablation/lesioning.
+- He found that small lesions didn’t result in any change in behavior nor did large lesions.
+- However, when Flourens removed an entire cerebral hemisphere, deficits appeared.
+- Major deficits also appeared with medulla oblongata lesions that typically caused the animal to die.
+- This lead Flourens to conclude that functions aren’t localized to any area of the brain, but rather they all occupy the brain concurrently.
+- The weight of evidence was in favour of Flourens and provided a sound refutation of phrenology, but it would take many years before opinions started to shift away from Flourens back to cortical localization again.
+
+## Chapter 7: The nerve cell laid bare
+
+- At the start of the nineteenth century, the detailed composition of the brain was unknown.
+- What is the brain made of?
+- A new method of visualizing brain tissue was developed in 1873 by Camillo Golgi using the silver impregnation stain.
+- No notes on Purkinje’s discovery of the nerve cell with its “process” (now called axon/dendrite).
+- By the late seventeenth century, biologist had come to recognize that plants were composed of many tiny small chambers or cells.
+- The same realization for animals would take far longer, in part because animal cells aren’t as structured as plant cells.
+- In 1839, a book would outline the cell theory—its two main ideas being that the cell is the basic building block of life and that all living organisms are composed of cells.
+- By the late 1830s, the cell theory would gain general acceptance except for the nervous system.
+- Two schools of thought arose on the structure of the nervous system.
+- Some believed the nervous system to be composed of cells while others believed it to be made of separate fibre and cell body.
+- The main controversy at the time was: do nerve cells exist or is it all one big connected fibre network?
+- The first nerve cell was isolated by Otto Deiters by accidently discovering a staining technique that clearly differentiated nerve fibres and cells.
+- Deiters is also the first person to recognize the difference between dendrites and axons.
+- However, his staining method wasn’t good enough because it didn’t discriminate neurons from other cells in the tissue.
+- What was needed was a more selective staining method capable of identifying all the various components of the nerve cell.
+- This method would be discovered in 1873 by Camillo Golgi.
+- Golgi’s stain revealed with unprecedented clarity the fine structure of nerve cells and their fibres down to their smallest details.
+- He used his stain to further our understanding of the nervous system, resulting in clear depictions of tissue taken from the cerebellum, olfactory bulb, and hippocampus.
+- Contrary to what his stain showed, Golgi supported the reticulum theory of the nervous system and didn’t believe it was composed of individual nerve cells. Instead, Golgi believed that the nervous system was a continuous network of interconnected fibres like the circulatory system.
+- Other researchers didn’t agree as Wilhelm His’s work with human embryos showed no development of fused axons and August Forel found that Wallerian degeneration didn’t spread as predicted by reticulum theory.
+- The most famous objector of reticulum theory would be Santiago Ramon y Cajal, the founder of modern neuroscience.
+- Cajal proposed the neuron doctrine as an alternative to reticulum theory, arguing that the nervous system is composed of individual cells.
+- His achievements were far greater than this with his discoveries and insights leading to an unprecedented understanding of nerve structures and transmission.
+- E.g. Recognizing the synapse, realizing that information flows from dendrites to soma to axon.
+- When Cajal saw Golgi’s silver impregnation stain, he was impressed at its unsurpassable clarity and the resolution of the finest branchlets.
+- His attempts to replicate the Golgi stain in his lab would prove disappointing as the stain is known for often producing disappointing results.
+- Cajal set out to improve the technique by staining the tissue twice, allowing for more fine processes to be seen and more clear nerve cells.
+- It was an improvement over Golgi’s technique where axon fibres often appeared thin, faint, and prone to disappearance.
+- With improvements to Golgi’s technique, the nerve cell started to give up its secrets.
+- Even today, over 130 years later, Cajal’s drawings of the nervous system haven’t been significantly improved upon.
+- Cajal realized that each area of the brain had a uniform and predictable structure characterized by its own array of cell types and neural organization.
+- But Cajal’s work would go mostly unnoticed and in an act of desperation, he traveled to Berlin in 1889 to attend a congress frequented by important neuroanatomists of his day.
+- This resulted in Cajal’s recognition within the scientific world for his pioneering research.
+- One challenge to the neuron doctrine was how information traveled within an ‘infinitely fragmented’ nervous system.
+- How did a nerve impulse travel from one neuron to another across a tiny gap?
+- Hints would come from the neuromuscular junction as Wilhelm Kuhne saw a clear gap between motor fibres and muscles.
+- Thus, the nerve ending didn’t fuse with the muscle.
+- Although definite visual proof of synapses wasn’t confirmed until the invention of the electron microscope in the 1950s, the pharmacological evidence for their functional existence proved overwhelming long before.
+- In 1906, Golgi and Cajal were told of their Nobel Prize in recognition of their work on the structure of the nervous system.
+
+## Chapter 8: The return of the reflex
+
+- Since the ancient Greeks, we’ve known that many complex bodily actions can occur without any intervention of the will.
+- E.g. Heart beat, breathing, and digestion.
+- It would take another 1500 years before Descartes initialized the concept of a reflex to explain involuntary movement.
+- The reflex would be better understood in the eighteenth century by Robert Whytt.
+- Whytt discovered the pupillary reflex where both pupils' contract when one eye is shone with a bright light.
+- He also discovered the spinal reflexes by destroying the spinal cord in a controlled manner and testing if the reflex still existed.
+- This would be the first clear demonstration of a reflex that’s controlled by a small segment of spinal cord without any intervention from the brain.
+- Further developments in understanding the reflex would have to wait until the neural anatomy of the spinal cord was better understood.
+- The first experimental evidence distinguishing between sensory and motor nerves was discovered by Sir Charles Bell.
+- His work was further elaborated upon by Francois Magendie in 1822 when he discovered that severing the anterior roots caused paralysis, while severing the posterior roots caused sensory deprivation.
+- Both Bell and Magendie established an important and new neurological concept: there are separate motor and sensory pathways in the spinal cord.
+- E.g. The motor fibres leave the spinal cord through its anterior roots while the sensory fibres enter the spinal cord through its posterior roots.
+- This would be an important advance in understanding the reflex.
+- The next step would be taken by Marshall Hall.
+- Hall explained the reflex as an excito-motory system that receives sensory input from the posterior roots and integrates it within that segment of spinal cord to produce a motor response via the anterior roots.
+- Thus, the spinal cord ‘reflected’ a stimulus through a purely mechanical action.
+- And according to Hall, this could all take place without the brain or higher volition.
+- Hall found through experimentation that reflexes not only governed the overall muscle tone of the animal, but also controlled many other automated functions such as sneezing, coughing, and respiration.
+- Many complex behaviors, such as swimming, were likely to involve chains of various reflexes.
+- The idea of psychic reflexes would be further refined by Ivan Mikhailovich Sechenov, who discovered that stimulating the segment of spinal cord just above the site of a spinal reflex would inhibit the reflex.
+- More experimentation would show that stimulation not only suppressed reflexes in the lower body, but also suppressed autonomic responses such as blood flow.
+- Sechenov’s vital discovery was that inhibition from a higher area of the nervous system ruled over a lower one.
+- This meant a stimulus didn’t need to directly cause a reflex but could instead release a reflex from its inhibition.
+- E.g. A sneeze is caused by a stimulus releasing the sneeze reflex.
+- Following the idea to its logical conclusion, Sechenov proposed that a reflex could inhibit not just muscle, but also a stored memory or thought.
+- So, all human behavior and mental activity could be understood in reflexive terms.
+- Another important contribution by Sechenov was the concept that psychic reflexes can be modified by learning.
+- He recognized that reflexive action could be modified by experience, which would later be elaborated on by Ivan Pavlov.
+- One of the greatest and most extensive analyses of the reflex would be done by Charles Scott Sherrington.
+- Sherrington had three main achievements
+    - To map out in detail the neural circuitry of a variety of reflexes.
+    - To show how activity in the nervous system requires both excitatory and inhibitory information.
+    - To demonstrate how the unified individual depends on the integration of reflex activity involving every level of the nervous system.
+- Sherrington is credited with coining the term ‘synapse’.
+- He found a consistent and repeating pattern in all spinal reflexes: the reciprocal action of agonist and antagonistic muscles.
+- He was also the first to establish the territories of touch for each spinal root by stimulating anterior/motor spinal roots and by pinching areas of skin.
+- During these experiments, Sherrington noticed that with lesions of the anterior spinal root, only half of the lesions affected movement with the other half seemingly unrelated to movement.
+- The unknown half would be traced by Sherrington back to the muscles and he confirmed that muscle spindles were sensory organs. He called this type of sensation ‘proprioception’.
+- Sherrington realized that the synapse provided the site where the ‘decision making’ was made over different competing reflexes.
+- The summation of excitatory and inhibitory inputs is now recognized as the fundamental mechanism by which neurons make decisions.
+- Sherrington showed that simple reflexes are the fundamental building blocks of behavior.
+- E.g. Every contraction of muscle movement requires the relaxation of the opposing muscle.
+- Thus, complex behaviors arise from large chains of simple reflexes, sometimes requiring the integration of many different neural circuits and at higher levels of the spinal cord and brain.
+- The most complex reflexes arose from the cerebral cortex, which Sherrington compared to a complicated switchboard with millions of on-off switches, similar to a great telephone exchange.
+- Contrary to Sherrington’s view of the reflex as determined by a pre-wired and fixed neural circuit, the physiologist Ivan Pavlov viewed the reflex as flexible and plastic.
+- Review of Pavlov’s famous dog-bell-food conditioning experiment and the period of behaviorism.
+- Pavlov would inspire another important figure in psychology to search for the neural correlates of conditioned reflexes—Karl Lashley.
+- Pavlov had hypothesized that conditioned reflexes would form new neural connections in the cerebral cortex, connecting a sensory region with the region mediating the response.
+- Lashley then reasoned that lesions to the cerebral cortex should disrupt or even abolish the conditioned response.
+- If he could find a site where a lesion impaired the ability of the animal to perform a learned task, then this was evidence for its anatomical location.
+- However, the results were not as Lashley expected.
+- E.g. After training rats to run through a maze, Lashley found that small lesions, around 20 percent of the cortex, had little adverse effect on retention. Instead, he had to remove around half of the cortex before observing any significant maze deficit.
+- Even then, the rats could relearn the task with subsequent training.
+- It didn’t matter where Lashley placed the lesion either.
+- This lead Lashley to devise two general laws about the location of a memory (engram)
+    - Memory is stored throughout the cerebral cortex.
+    - All parts of the cortex play an equal role in the storage of memory.
+- These laws go against Pavlov’s hypothesis of a reflex pathway in the brain, so there must be a more complex representation in the brain that can generate behavioral responses independent of any stimulus.
+- After 30 years of research, Lashley, despite his attempts to locate a memory, could not find the engram.
+- The next stage of understanding the reflex would come from Lashley’s student Donald Hebb.
+- Hebb was seeking a new way of understanding behavior after agreeing with Lashley that stimulus-response reflex theories failed to explain learning.
+- Hebb realized a different approach was needed.
+- He set out to show how the structure and function of the brain could go beyond reflexes and give rise to mental activity and behavior.
+- It was unorthodox of him to consider mental behaviors such as attention, intelligence, vision, and perception in a time dominated by behaviorism.
+- One of Hebb’s most important innovations was to replace the reflex with a neural circuit containing a large assembly of cells.
+- E.g. Instead of a reflex being a one-way chain from stimulus to response, Hebb created a loop in the middle that could produce ‘reverberations’ within the circuit. This provided a mechanism to maintain activity in the cerebral cortex long after the stimulus had ended.
+- This would not only explain perception as activity by an external sensory stimulus, but it also explained imagery and thought as the reverberated activity in the circuit.
+- But where in the neural circuit would change be allowed?
+- For Hebb, there only one place—the synapse.
+- Hebb’s rule: if an axon of cell A is near enough to excite a cell B and repeatedly or persistently takes part in firing it, some growth or metabolic change takes place in one or both cells, so that the efficiency of neural transmission between the two is increased.
+- This was an important theoretical development because it viewed the synapse as the crucial site of change in the nervous system.
+- This also explained how memory could be distributed throughout the brain as once the synaptic connection had been strengthened in a cell assembly, they effectively acted as a memory that could be retrieved with further stimulation of the circuit.
+
+## Chapter 9: Mapping the cerebral cortex
+
+- The theory that mental faculties could be localized to distinct brain regions wasn’t well accepted in the first half of the nineteenth century.
+- However, this view would change surprisingly fast in the second half of the nineteenth century.
+- The initial hints of evidence for cortical specialization came from Jean-Baptiste Bouillaud in the 1830s when he noticed that people with language disturbances frequently had damage to their frontal lobes.
+- Then Paul Broca came along in 1861 and proved an area existed in the posterior region of the left frontal lobe that was responsible for producing speech.
+- This would be followed by Carl Wernicke’s discovery of a second language center in 1874 and the discovery of motor areas by Eduard Hitzig and Gustave Fritsch.
+- Thus, by the end of the century, the concept of cortical localization had been firmly re-established, although in a different form than phrenology.
+- Broca’s first aphasic patient would be ‘Tan’ because this was the only word the patient could say.
+- Tan would die after a few days in Broca’s care and during the autopsy, Broca discovered an egg-sized hole in Tan’s second or third convolution of the left frontal cortex.
+- By 1863, Broca identified eight more aphasics with damage to the left side of their frontal lobe.
+- Although he described the consistency of his results as ‘remarkable’, he was cautious about drawing any definite conclusions from his findings.
+- The neuroanatomy of language would be further complicated in 1874 when Carl Wernicke discovered a second brain area associated with a different form of aphasia.
+- E.g. Patients that could produce fluent but unintelligible speech with deficits in comprehending language.
+- With knowledge of Broca’s aphasia, Wernicke proposed a new theoretical model of language processing in the brain.
+- The model explained language comprehension as starting with auditory information passed from the ears to the temporal lobes that contained a memory store for recognizing words.
+- From the temporal lobes, an internal verbal representation was then passed to the frontal cortex for producing the verbal sounds using the tongue and larynx.
+- This model was a brilliant attempt to combine anatomical and functional findings to produce a general neuroanatomical theory of language.
+- The model also predicted the existence of a direct pathway from Wernicke’s area to Broca’s area. We now know this pathway to be the arcuate fasciculus.
+- Wernicke reasoned that if a patient had damage to this pathway, they could comprehend language and have fluent speech, but they couldn’t repeat words spoken to them.
+- His prediction would be proven true with the discovery of patients with conduction aphasia.
+- Wernicke’s theory also predicted the existence of a region for reading and suspected that it lay close to the speech comprehension area in the temporal lobes.
+- Again, he was proven correct in 1892 when a patient was found that lost the ability to read despite having no obvious visual deficit.
+- Autopsy revealed a stroke in the angular gyrus, which lies between the visual cortex and the temporal region for speech comprehension.
+- Movement would also be localized in the brain in 1870 by Eduard Hitzig and Gustave Fritsch.
+- They discovered that electrical stimulation to a specific area of the dog evoked a predictable motor response.
+- At first, this discovery evoked general disbelief because it was widely believed that the cerebral cortex was insensitive to electrical stimulation.
+- Weak currents produced twitching in small groups of muscles while strong currents caused more pronounced muscular contractions to spread over both sides of the body.
+- Hitzig and Fritsch would eventually localize the site of movement to regions in the medial-posterior part of the frontal cortex.
+- They confirmed this by lesioning the area and observing the expected motor deficit.
+- This provided further evidence for the theory of cortical localization.
+- A new way of exploring the brain through electrical stimulation of the cortex was now possible and David Ferrier would take advantage of this.
+- Ferrier would improve upon Hitzig and Fritsch’s work by using faradic stimulation instead of galvanic stimulation. This let him induce seizures as implied by Hughlings Jackson’s work.
+- He also experimented on different animals and showed that each type of animal had evolved its own unique type of motor specialization.
+- In 1874, a sensational and disturbing report appeared that described the effects of electrical brain stimulation on a conscious human being. This work wasn’t done by Ferrier.
+- The experiment would confirm our understanding of cortical localization in the brain and matched what Ferrier found in monkeys.
+- However, the subject would die from a massive seizure and coma four days later, possibly from the experiments done on their brain.
+- Ferrier also localized hearing to the upper temporal cortex, which we now know as the primary auditory cortex, and localized vision to the angular gyrus.
+- Despite the increasing evidence supporting cortical localization, there were still opponents to the idea.
+- Review of the Phineas Gage case.
+
+## Chapter 10: The rise of psychiatry and neurology
+
+- Psychiatry has a much longer history than neurology and certain psychiatric illnesses were recognized since Hippocrates’s time.
+- In contrast, an understanding of the importance of the nervous system in health and disease didn’t occur until the eighteenth century.
+- The Enlightenment period was when old concepts such as Hippocratic humours gave way to a more rational understanding of illness and its treatment.
+- One important figure in this transition was Giovanni Battista Morgagni.
+- Morgagani would publish a monumental five-volume work called “The Seat and Causes of Disease Investigated by Means of Anatomy” when he was 79 years old, representing a lifetime of observation and reflection.
+- The work was a major step forward by proposing the cause of all illnesses laid with the breakdown of the bodily organs, a new and radical concept for the mid-eighteenth century.
+- Morgagni memorably put it that disease was “the cry of suffering organs”.
+- In 1817, James Parkinson would characterize Parkinson’s disease, one of the most common degenerative diseases of the brain.
+- Instead of characterizing the tremors as a indirect consequence of age or alcoholism, Parkinson associated the tremors as a specific disturbance of gait, making it a likely manifestation of an underlying brain disease.
+- The core symptoms of shaking palsy is a rigid paralysis of the limbs accompanied by marked tremors when attempting to move.
+- If there is one person responsible for creating modern neurology, it would be Jean Martin Charcot.
+- Charcot would take over the Salpetriere—an asylum for the mentally ill—establishing himself as the world’s greatest expert on diseases of the nervous system.
+- Charcot’s goal for Salpetriere was clear: he and colleague Vulpian wanted to correlate the various behavioral symptoms they observed in their patients with their physiological abnormalities at death.
+- This led Charcot and Vulpain to classify the patients of Salpetriere into more relevant diagnostic categories based on their nervous system pathology.
+- Charcot made meticulous notes because he knew that different diseases often shared similar symptoms.
+- One of Charcot’s most important contributions to neurology was his description of multiple sclerosis in 1868.
+- He found patients with tremors and autopsy showed hardened and discoloured plaques scattered throughout the white matter of their brain and spinal cord.
+- Although these patients had symptoms similar to Parkinson’s disease, the existence of plaques suggested that this was a different disease.
+- Charcot was able to show the disorder was due to the degeneration of myelin within the spinal cord and brain—we now call this condition ‘multiple sclerosis’.
+- In contrast, autopsy reports from patients with Parkinson’s disease show no obvious signs of damage to the nervous system.
+- Charcot also discovered motor neuron disease or amyotrophic lateral sclerosis (ALS).
+- Out of the Salpetriere and from one of Charcot’s assistants would also come the discovery of Tourette’s syndrome in 1884 by Georges Gilles de la Tourette.
+- In the later part of his life, Charcot would focus on hysteria.
+- After Charcot, physicians were better able to separate brain and spinal cord dysfunction, nerve and muscle disease, and psychiatric abnormalities.
+- One famous person to follow after Charcot’s method of classifying neurological symptoms was Emil Kraepelin, recognized today as the founder of modern psychiatry.
+- Kraepelin would write the “Textbook of Psychiatry”, which provides the foundation for all the major classification systems in psychiatric use today.
+- He was also the first investigator to recognize schizophrenia.
+- During Kraepelin’s time, mental illnesses were generally diagnosed by a predominant symptom and attributed to a psychological trauma.
+- E.g. A symptom such as melancholia was attributed to the loss of a friend.
+- However, Kraepelin realized that any one symptom by itself didn’t define a mental illness since most mental disorders shared some similar abnormalities.
+- Instead, he created a new approach by recording the ‘essential characteristics of the clinical picture’ on patients as the entered his clinic and after they left a year or two later.
+- Using these records, Kraepelin had compiled a large database of over a thousand patients and he grouped and regrouped them based on their symptoms.
+- He tried to establish whether certain constellations of symptoms frequently occurred together.
+- Kraepelin also played a key role in naming and establishing a form of dementia that’s now recognized as one of the greatest health threats in our modern world: Alzheimer’s disease.
+- Alzheimer’s disease is a progressive, incurable, and degenerative illness that causes severe memory loss, mood changes, and decline of bodily functions.
+- It was named after Alois Alzheimer who first described its pathological features in 1905.
+- After examining the brain of a patient with those symptoms, he noticed large numbers of tangled nerve fibers and the widespread existence of a ‘peculiar matter’ that looked like tiny starch particles.
+
+## Chapter 11: Solving the mystery of the nerve impulse
+
+- The nerve impulse, or action potential, is crucial to our understanding of how the brain works.
+- And yet little was known about it at the start of the twentieth century.
+- What was known is that the voltage inside the resting nerve cell is negative compared to its outside and that this difference reversed when an impulse passed down the axon.
+- It would take Julius Bernstein in 1902 to propose a plausible explanation of the action potential.
+- Bernstein explained that the negativity of the neuron is caused by the unequal distribution of charged particles (ions) across the cell’s interior and exterior.
+- An action potential is created when the cell’s membrane temporarily “broke down”, allowing a temporary flow of positively charged ions into the axon.
+- Bernstein’s theory couldn’t be verified until after World War One when the amplifier and oscilloscope were developed.
+- The time after would be the heroic age of neurophysiology with many contributions to our understanding of the action potential.
+- These contributions would culminate in the work by Alan Hodgkin and Andrew Huxley who described the action potential in precise mathematical equations in 1952.
+- Bernstein’s great insight was to realize a neuron’s membrane might become permeable to ions, therefore allowing a temporary breakdown in the membrane resistance.
+- This would also explain why the nerve impulse was much slower than an electrical current flowing through a cable.
+- Bernstein’s ‘membrane theory’ was the first plausible physio-chemical explanation of the nerve impulse.
+- Around the same time as Bernstein, Francis Gotch used the capillary electrometer to measure the electrical response of a nerve fibre to a stimulus.
+- This was a significant improvement over the galvanometer needle deflection method and it confirmed what Bernstein had found: the action potential only lasted a few thousandths of a second and had a tiny voltage of about 130 thousandths of a volt.
+- Gotch also noticed that the shape of this ‘blip’ was always consistent regardless of the stimulus intensity and there was no graded response.
+- This would become the law of all-or-nothing for action potentials.
+- If Gotch applied a second stimulus to a nerve fibre before the first blip dissipated, then no second blip was produced.
+- He called this the neuron’s refractory period or a period when the neuron was insensitive to further stimulation.
+- These were important developments because they provided clues on how the nervous system codes information.
+- The next important discovery came from Herbert Gasser and Joseph Erlanger.
+- By amplifying a nerve signal 5000 times, Gasser and Erlanger could finally make reasonably accurate recordings of an action potential.
+- They discovered that peripheral nerve fibres are composed of many hundreds of nerve axons grouped into three types, and each type transmitted nerve impulses at different speeds.
+- E.g. A-fibres conduct information at 100 meters per second, B-fibres conduct information at 10 meters per second, and unmyelinated C-fibres conduct impulses at 2 meters per second.
+- Each fibre type was also associated with a different function.
+- E.g. Sensory transmission of muscle sense and touch are mediated by A- and B-fibres, while low intensity pain comes from C-fibres.
+- Thus, it’s clear the peripheral nervous system prioritized information on motor reflexes and movement over pain signals.
+- When Edgar Adrian recorded from single nerve fibres, he discovered that the nervous system prefers to detect new information.
+- E.g. Neurons spike more when they detect a new stimulus but the spiking gradually decreases as the stimulus remains.
+- The nervous system’s insensitivity to persistent information is called habituation and is important because it allows insignificant information to be ignored.
+- No matter the type of axon Adrian examined, it always encoded information in the same way using the all-or-none electrical impulse.
+- By the late 1930s, we knew a lot about the nature of nervous conduction.
+- E.g. All-or-none principle, frequency coding of spikes, habituation.
+- However, we didn’t know the electrochemical events underlying the action potential.
+- The small size of neurons meant many fundamental questions about the action potential were impossible to address.
+- The solution would unexpectedly come in 1936 by John Zachary and his discovery of the squid giant axon.
+- Zachary saw an axon in the squid that was large, making it easy to study and experiment with. This axon is responsible for the squid’s rapid escape response.
+- By 1939, Kenneth Cole, Howard Curtis, Alan Hodgkin, and Andrew Huxley had started to explore the electrical properties of the giant squid axon.
+- Cole and Curtis found that the axon’s membrane would suddenly reduce its electrical resistance 40-fold in response to an action potential.
+- So the membrane became 40 times more permeable to the passage of ions, making it seem like the membrane was breaking down.
+- But what ions are passing through the membrane?
+- Bernstein had argued that potassium ions were responsible for creating the current flow across the axon’s membrane, but Hodgkin suspected sodium ions were also involved.
+- Hodgkin and Bernard Katz found that changing the concentration of sodium ions in the fluid bathing the axon had significant effects on the action potential.
+- E.g. No sodium completely abolished the impulse while more sodium made the axon more excitable.
+- Hodgkin and Katz would also discover that action potentials are only generated when the membrane potential rises above a threshold voltage.
+- From 1948 to 1951, Hodgkin and Huxley would discover many new facts about the action potential, the main points being the influx of sodium ions during the action potential rising phase, the outflux of potassium ions during the falling phase, and that the membrane had special channels to transport these ions.
+- Their work was published in a series of five landmark papers in 1952 and outlined all the key biophysical properties of the action potential.
+- E.g. Form, duration, amplitude, velocity, and strength of ionic movements.
+- Hodgkin and Huxley’s description and explanation of the action potential has proven so accurate that it has never been seriously challenged.
+- Also in 1952, evidence emerged for calcium’s role in the action potential.
+- Bernard Katz and Paul Fatt discovered the quantal release of neurotransmitter from the neuromuscular junction.
+- They noticed that the oscilloscope sometimes showed ‘blips’ of extremely small voltages around 0.5 millivolts.
+- These blips were caused by the random release of one quanta of neurotransmitter and that many quanta form the voltage seen in the motor neuron.
+- It then became apparent that neurotransmitter release occurred when vesicles at the axon terminal fused with the membrane, causing its contents to be released into the synapse.
+- This process was known to be directly triggered by the influx of calcium ions.
+- Returning back to Hodgkin and Huxley, their theory had only inferred the existence of ion channels but didn’t prove it.
+- It would take the invention of the patch-clamp method by Erwin Neher and Bert Sakmann to isolate and control a single ion channel.
+- Neher and Sakmann used their method to precisely measure the current and time course of an ion channel, proving its existence and discovering further subtypes such as ligand-gated channels, voltage-gated channels, sodium channels, and chloride channels.
+
+## Chapter 12: The discovery of chemical neurotransmission
+
+- The establishment of chemical neurotransmission would be one of our greatest advancements during the twentieth century.
+- E.g. Neurotransmitters and antidepressant drugs.
+- By the mid nineteenth century, it was known that certain drugs could exert their effects by acting on the nervous system.
+- In the 1840s, Claude Bernard experimented with the poison ‘curare’ which causes muscle paralysis and respiratory failure.
+- Bernard deduced from experiments that if and only if the neuromuscular junction was immersed in curare, then stimulating the connected nerve had no effect. If the nerve except the junction was immersed, stimulation would still cause the muscle to twitch.
+- So Bernard concluded that curare must act somewhere in the junction between nerve and muscle.
+- Another important finding was that curare had no effect on sensory nerves.
+- This would further narrow down the location of its pharmacological effect on the body.
+- Review of the somatic and autonomic nervous systems.
+- It became clear that the involuntary nervous system was composed of two separate but complementary parts: an excitatory sympathetic system and an inhibitory parasympathetic system.
+- In 1901, John Langley experimented with adrenaline and tried to explain its effects upon consumption of adrenal gland tissue.
+- E.g. Increased heart rate and blood pressure, dilated bronchial airways, and stimulated salivary secretion.
+- How was adrenaline producing these effects?
+- One of Langley’s students, Thomas Renton Elliott, proposed the existence of neurotransmission involving adrenaline in 1904.
+- Elliott pointed out that adrenaline only acted on tissue innervated by the sympathetic nerves and had no effect on the parasympathetic system or skeletal muscle.
+- To quote Elliott, “Adrenaline might then be the chemical stimulant liberated on each occasion when the impulse arrives at the periphery”.
+- Langley would elaborate on Elliott’s hypothesis by proposing the receptor theory—that each muscle must have some specialized part or ‘receptive substance’ that interacts with nicotine or curare.
+- The receptor theory would be further supported by the work of Henry Hallett Dale.
+- Dale proposed in 1910 that it was noradrenaline and not adrenaline that was the chemical messenger in the sympathetic nervous system, a prediction proven true in 1946.
+- The neurochemical most associated with Dale is acetylcholine.
+- A related substance, choline, was already known to cause blood pressure to fall and had an opposite effect to adrenaline.
+- This encouraged Reid Hunt to synthesize a number of choline derivatives, one of which was acetylcholine.
+- Remarkably, it proved to be 100,000 times more active than choline at reducing blood pressure.
+- This extreme potency suggested it might serve a pharmacological role in the body, but there wasn’t any evidence it was synthesized in the body.
+- The feasibility of chemical neurotransmission in the autonomic nervous system would be strengthened, if not proven, by an experiment Otto Loewi performed in 1920.
+- The experiment Loewi did was relatively simple.
+- He had two hearts, one with the parasympathetic and sympathetic nerves attached and one without. He then stimulated the parasympathetic/vagus nerve of one heart, causing its beat to slow down. Loewi then extracted some of the solution that heart was bathed in and applied it to the second heart.
+- The second heart’s beat also slowed down. So this heart acted as if it was stimulated by the vagus nerve even though it didn’t have one.
+- By repeating it with the sympathetic nerve, both hearts increased their beat even though the second heart had no sympathetic nerves.
+- There was only one feasible explanation: chemicals were released from the stimulated nerves of the first heart, which, when applied to the second heart, caused its beat to change.
+- We now know that Loewi’s experiment was lucky in that cold temperatures increase the stability of neurotransmitters and that the frog heart is the best preparation for this type of experiment.
+- Further experiments by Dale and Wilhelm Feldberg would reveal acetylcholine’s role as a neurotransmitter in both the autonomic and somatic nervous systems.
+- In his 1936 Nobel Prize acceptance speech, Dale speculated on the possibility of identifying chemical neurotransmitters in the brain and spinal cord.
+- One critic of this idea was John Carew Eccles, who instead argued the idea that the central nervous system used electrical transmission at the synapse.
+- This would lead to much heated debates at scientific conferences during the late 1930s and 1940s, which became known as the ‘soup and sparks’ controversy.
+- Dale and Eccles would often clash in public but were good friends behind the scenes.
+- Eccles was the first person to record from the inside of neurons in the central nervous system in 1950 and discovered the excitatory postsynaptic potential (EPSP) in motor neurons a year later.
+- In 1952, Eccles would perform one of the most important experiments in neurophysiology.
+- He started with a micropipette implanted into the cell body of a motor neuron. This motor neuron projected from the spinal cord to the quadriceps muscle.
+- Eccles then stimulated the sensory nerve in the hamstring, a muscle opposing the quadriceps.
+- It was known that muscle pairs are reciprocal where the activation of one must result in the inhibition of the other.
+- It was also known that some synapses in the system must be acting in an inhibitory way to allow this to happen.
+- Eccles explained inhibition by proposing that the electrical excitatory input was blocked from reaching the cell.
+- However, what he observed instead of no change in voltage was a more negative voltage—an inhibitory postsynaptic potential (IPSP).
+- This observation of an IPSP couldn’t fit with Eccles’s theory of electrical synapses, of blocking the flow of electrical energy across the synapse.
+- The only reasonable explanation was that both excitatory and inhibitory synapses existed between the sensory and motor neurons that used chemical neurotransmission.
+- In the decades that followed, many new neurotransmitters would be identified in the brain.
+- E.g. Norepinephrine in the hypothalamus, acetylcholine in the somatosensory cortex, and dopamine in the striatum.
+- Today, it’s known that about 100 substances act as neurotransmitters or have some neuromodulatory role in the central nervous system.
+- During the 1950s, a revolution took place in the fields of psychopharmacology and psychiatry with the introduction of psychoactive drugs to treat mental illness.
+- E.g. Chlorpromazine and haloperidol to treat schizophrenia.
+- This would lead Avrid Carlsson and Margit Lindqvist in 1963 to propose that chlorpromazine and haloperidol worked on the brain by blocking dopamine receptors.
+- This novel idea of blocking a receptor, thereby reducing a neurotransmitter’s effect without depleting it, would be proven correct in the early 1970s and lead to the dopaminergic theory of schizophrenia.
+- Antidepressants would also be explored with the introduction of iproniazid that inhibited the enzyme monoamine oxidase (MAO), and imipramine that blocked the reuptake of monoamine neurotransmitters at the synapse.
+- These discoveries would support the monoamine theory of depression, which even today remains our best explanation of depression.
+
+## Chapter 13: Neurosurgery and clinical tales
+
+- Surgical intervention on the brain is a relatively recent phenomenon.
+- Anaesthesia would be invented in 1846, but a less obvious prerequisite for the development of neurosurgery was the need to better localize behavior in the brain.
+- E.g. Even though we know there’s damage to the brain from say a tumor or piece of shrapnel, it was difficult for surgeons to know where such damage occurred.
+- This problem was solved by the work of Paul Broca and David Ferrier, who began to identify localized regions of the cerebral cortex that were responsible for specific functions.
+- With these brain maps, surgeons could establish with better accuracy where a tumour, abscess, or injury was likely to be located in the brain with careful examination of the patient’s behavior.
+- It’s debatable when the first modern surgery on the brain took place, but many agree that William Macewen performed the first one in 1879.
+- Macewen removed a tumour in a 14-year-old girl who was suffering from seizures in her right arm and face.
+- Macewen correctly deduced that the tumour was located in the left frontal lobe in the motor cortex and successfully removed it.
+- Victor Alexander Haden Horsley would do the most in establishing neurosurgery as a medical specialization.
+- Horsley was the first to successfully remove the pituitary gland and he would free a young man from seizures by cutting and removing part of his brain.
+- Horsley was also the first to successfully excise a spinal tumour in 1887, allowing the patient to stand and walk a year later.
+- He worked with Robert H. Clarke to develop the stereotaxic instrument, a device that could pinpoint 3D coordinates in the brain.
+- This device opened the door to perform procedures deep in the brain such as on the thalamus and striatum, which had previously been out of reach.
+- As neurosurgery progressed in the early part of the twentieth century, it not only opened up new forms of treatment, but also provided a powerful new means of exploring the mysteries of the human brain.
+- One doctor to take advantage of this opportunity was Wilder Graves Penfield.
+- Penfield’s most notable life achievement was the establishment of the Montreal Neurological Institute, which specialized in the surgical treatment of epilepsy.
+- He introduced a new surgical procedure that stimulated and explored the human brain—using electric current—in fully conscious patients prior to their surgery.
+- This was useful to learn areas to avoid by the surgeon that might lead to behavioural impairments.
+- In 1928, at the age of 37, Penfield finally agreed to become a surgeon at a hospital in Montreal, accompanied by an academic post at McGill University.
+- One problem Penfield faced in his attempts to treat epilepsy wasn’t so much identifying the scar tissue causing the seizures, but to remove it in a way that didn’t cause any behavioral or mental impairments for the patient.
+- Surprisingly, much of the brain is behaviorally inert and can be removed without producing any obvious deficit.
+- To detect the areas important for movement and language, Penfield and Herbert Jasper would stimulate the exposed brain in a fully conscious patient prior to surgery.
+- If the stimulation produced a sudden limb movement or caused the patient to cry out, it indicated that that area should be avoided.
+- While the procedure appears horrific, it’s relatively safe and doesn’t cause discomfort because the brain doesn’t have pain receptors.
+- It’s also straightforward to perform, requiring only local anaesthesia of the scalp to allow the bone to be removed.
+- Although useful for surgery, this procedure had another benefit in providing fascinating information about the workings of the human brain.
+- E.g. Penfield and Edwin Boldrey discovered an ‘upside-down’ representation of the human body in the motor cortex called the ‘homunculus’.
+- It also was apparent some parts of the body were more represented than others.
+- E.g. Face and hands.
+- The same applies to the somatosensory cortex.
+- Penfield identified a third speech-related area in addition to Broca’s and Wernicke’s language areas called the supplementary motor cortex.
+- He also realized that no two patients had an exact match of language areas, in contrast to the movement areas that always lie in the precentral gyrus.
+- In the 1950s, Penfield turned his attention to patients with seizures arising from the temporal lobe.
+- This type of epilepsy differed from dramatic generalized convulsions where a person turns rigid and falls to the ground with violent shaking.
+- Instead, temporal lobe seizures typically produces a ‘dreamy state’ with a sense of ‘reminiscence’ that something has already occurred; a feeling of deja vu.
+- These symptoms were localized to the temporal lobe by John Hughlings Jackson based on David Ferrier’s work.
+- Ferrier had shown that electrical stimulation of the anterior regions of the monkey temporal lobe produced oral automatisms similar to those shown in humans with seizures.
+- Although these seizures were associated with the temporal lobes, in most cases there was no sign of brain damage to justify a surgical procedure.
+- Stimulation of the temporal lobe also occasionally caused the patient to relive a memory.
+- Penfield noted that these episodes followed a real-time sequence of events, which moved forwards in time until the stimulating electrode was withdrawn.
+- The Wada technique—injecting a short-acting anaesthetic into a carotid arteries to disable a brain hemisphere—was used to confirm the lateralization of language has a tendency to be different in people who are either right- or left-handed.
+- E.g. 92 percent of right handers and 70 percent of left handers showed language lateralized to the left hemisphere.
+- No notes on the history of lobotomy.
+- Around the same time as the first lobotomies, a new surgical technique was being considered for the relief of epilepsy.
+- The severing or splitting of the corpus callosum was suggested to prevent the spread of seizure activity from one side of the brain to the other.
+- The first surgical cutting of the corpus callosum was done by Walter Dandy during the mid 1930s.
+- Dandy was surprised by the lack of any behavioural impairments following the surgery and claimed “this simple experiment at once disposes of the extravagant claims to function of the corpus callosum.”
+- Then in the late 1930s, William Van Wagenen began exploring the effects of severing the corpus callosum in epileptic patients.
+- The results were variable with the operation eliminating or reducing the occurrence of generalized seizures in some patients.
+- It would take Roger Sperry and Michael Gazzaniga to uncover the effects of severing the corpus callosum.
+- The results from Sperry’s experiments on split-brain patients have provided some of the most fascinating and astonishing findings in the history of biological psychology.
+- Sperry showed that the right and left cerebral hemispheres have different functions, specialized abilities, and even distinct personalities.
+- E.g. If a word was shown to the left hemisphere, the patient could read, vocalize, and understand its meaning. But if the word was shown to the right hemisphere, no recognition occurred.
+- E.g. The left hemisphere also had the ability to write using the right hand, and this skill wasn’t shared with the left hand.
+- The left hemisphere proved dominant in language and solving analytical problems, while the right hemisphere proved dominant in spatial thinking, solving puzzles, and recognizing faces and pictures.
+- Intriguingly, the two hemispheres also showed different temperaments with the right being more emotional.
+- E.g. If a nude picture was shown to the right hemisphere, this caused the person to blush and giggle although they couldn’t explain why.
+- The role of the corpus callosum was now becoming clearer: it linked the two different and specialized halves of the brain, allowing them to function as one.
+- Review of patient H.M.
+- HM, after removal of both medial temporal lobes, lost the ability to create new permanent memories—also known as anterograde amnesia.
+- The operation hadn’t significantly impaired his short-term memory though.
+- HM was conscious of his condition and apologetic for his memory loss.
+
+## Chapter 14: Surveying the last 50 years and looking ahead
+
+- It’s probably the case that more has been learnt about the brain over the last 50 years than in the rest of human history put together.
+- E.g. The discovery of DNA in 1953 and the rise of the digital computer in the second half of the twentieth century.
+- If there was a breakthrough moment when neuroscience came of age, fulfilling its potential to transform lives, then it surely took place in the 1960s when the brain site for Parkinson’s disease was discovered.
+- The substantia nigra and striatum were implicated in Parkinson’s disease as the nigra is the source of dopamine to the striatum and degeneration of the nigra produces Parkinson’s disease.
+- Review of the discovery of DNA and determining the gene responsible for Huntington’s disease.
+- Review of Alzheimer’s disease and the amyloid cascade theory.
+- Review of stem cells, digital computers, CAT scans, MRI, and fMRI.
+- Review of AI and brain-computer interfaces.
+- As the importance of neuroscience grows in the twenty-first century, so does the amount of investment into its research.
+- Review of the Human Connectome Project, BRAIN Initiative, and Human Brain Project.
+- The final frontier of neuroscience is explaining consciousness.
