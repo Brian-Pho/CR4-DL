@@ -1,0 +1,637 @@
+---
+layout: post
+title: "An Immense World"
+date: "2023-11-27"
+categories:
+  - Books
+book_authors: "Ed Yong"
+excerpt: "How animal senses reveal the hidden realms around us."
+---
+
+## Introduction: The Only True Voyage
+
+- In a school gym, imagine an elephant, mouse, robin, bat, rattlesnake, spider, mosquito, bumblebee, and human.
+- Each of these organisms detect and create sensory stimuli that other organisms can’t.
+- E.g. A mouse squeak is inaudible to an elephant. Humans are also oblivious to the ultrasonic mouse squeaks and to the infrasonic rumbles from an elephant.
+- E.g. The robin’s chest looks red to the human but not to the elephant because its eyes are limited to shades of blue and yellow.
+- A spider’s web acts as an extension of its senses.
+- Creatures share the same physical space but experience it in wild and wondrous ways.
+- Animals can only tap into a small fraction of reality’s fullness; their own unique sensory bubble.
+- Umwelt: an organism’s sensory bubble.
+- Organisms don’t ignore stimuli, they simply can’t sense them and thus don’t know they exist.
+- Our umwelt is limited but it doesn’t feel that way to us.
+- It’s all that we know, so we easily mistake it for all there is to know.
+- Each species is constrained in some ways and liberated in others.
+- “They move finished and completed, gifted with extensions of the senses we have lost or never attained, living by voices we shall never hear.” - Henry Beston.
+- Stimuli: quantities in the world.
+- E.g. Light, sound, chemicals.
+- Receptor: cells that detect stimuli.
+- E.g. Photoreceptors for light, chemoreceptors for molecules, and mechanoreceptors for pressure.
+- An umwelt can’t expand indefinitely. Senses always come at a cost.
+- The senses sort through an infinity of stimuli and filter what’s relevant for the organism.
+- E.g. Food, shelter, threats, mates.
+- How many senses are there? We don’t know.
+- The platypus’s bill is loaded with sensors that detect electric fields and sensors that are sensitive to pressure, so does the platypus’s brain treat these streams of information differently, or does it wield a single sense of electrotouch?
+- The boundaries of the human umwelt often bias us to be inconsiderate of other organism’s umwelt.
+- It’s very hard for us to understand other creatures.
+- Perhaps people who experience the world in ways that are considered atypical have an intuitive feeling for the limits of typicality.
+- The concept of umwelt reminds us that there’s light in darkness, noise in silence, and richness in nothingness.
+- “When you look at an animal’s behavior through the lens of that animal, suddenly all of this salient information becomes available that you would otherwise miss.” - Colleen Reichmuth
+- “The only true voyage…would be not to visit strange lands but to possess other eyes…to see the hundred universes that each of them sees.” - Marcel Proust
+
+## Chapter 1: Leaking Sacks of Chemicals | Smells and Tastes
+
+- Dogs examine scent trails and places where moving air imports new odorants.
+- A dog’s nose is its main interface with the world.
+- When we inhale, we create one airstream for both smell and breath. But when dogs inhale, they create two airstreams, one for smell and one for breath.
+- This is important because when we exhale, we purge odorants from our noses, causing our experience of smell to flicker. But dogs get a smoother experience because odorants that enter their nose tend to stay there.
+- A dog’s smell airstream enters a labyrinth of thin, bony walls that are plastered with a sticky sheet called the olfactory epithelium.
+- The epithelium is full of odorant receptors that send detection signals to the olfactory bulb.
+- Humans and dogs share the same basic smell machinery but dogs just have more of everything.
+- E.g. More epithelium, more neurons in the epithelium, more kinds of olfactory receptors, and a larger olfactory bulb.
+- A dog’s nose is also structured in a way to bring in more odorants.
+- E.g. When a dog exhales, air exits through side-facing slits that create vortices to waft fresh odors in.
+- If it has a scent, a dog can be trained to detect it.
+- E.g. Missing people, oil pipeline leaks, low blood sugar, orca poop.
+- These feats of detection are worth marveling at, but it’s difficult for us to appreciate the inner lives of dogs and how their olfactory world differs from our visual one.
+- Unlike light that always moves in straight lines, smells diffuse and seep, traveling through darkness and around corners.
+- E.g. We can’t see a bag obscured by the door but a dog can smell it.
+- Smells can arrive before their source, foretelling what’s to come.
+- Some things become apparent to the nose before they appear to the eyes.
+- Time and again, people impose their values and umwelt onto their dogs, forcing them to look instead of sniff.
+- E.g. Pulling away a dog that’s sniffing for too long during a walk.
+- Interestingly, humans sometimes outperform dogs in smell experiments.
+- E.g. People excel at discriminating between smells.
+- Yet textbooks claim that our sense of smell is terrible.
+- Western cultures have often undervalued smell.
+- Some cultures have extensive smell vocabularies that match our color vocabulary.
+- Many organisms sense light, some respond to sound, but all can detect chemicals.
+- E.g. Bacterium can find food and avoid danger by picking up on molecular clues.
+- Chemicals are the most ancient and universal source of sensory information.
+- However, they’re also the most challenging to understand.
+- There are no good methods for predicting what a molecule will smell like from its chemical structure.
+- The mapping between odorant receptor activation and perceived smell is still murky.
+- Such a code must exist, but it’s mysterious to us.
+- Pheromone: a chemical signal that carries messages between members of the same species.
+- Pheromones are standardized messages whose use and meaning don’t vary between individuals of a given species.
+- Ants use light-weight pheromones to to raise fast-spreading alarms and medium-weight pheromones to mark trails.
+- The heaviest pheromones are found on the surface of the ant’s body and act as identity badges.
+- Smelly substances allow ants to transcend the limits of individuality and act as a superorganism.
+- The same applies to elephants as their lives are dominated by smell.
+- Some scientists believe the main purpose of animal olfaction isn’t to detect chemicals but to navigate the world.
+- No notes on the incorrect belief that birds can’t smell.
+- Dogs, elephants, ants, and even humans all smell in stereo using a pair of nostrils or antennae.
+- This also explains why snakes have forked tongues.
+- With the help of its tongue, a snake smells the world. Each flick equivalent to a sniff.
+- As a snake slithers over its environment, its tongue turns the world into both map and menu.
+- Even the tongue-flick motion is specialized for smelling as high-speed cameras show the motion creates two donut-shaped rings of continuously moving air that draws in odorants from the left and right sides of the snake.
+- It’s as if the snake is creating two large fans that suck in odors from either side, concentrating diffuse odor molecules onto the tips of its tongue.
+- It isn’t entirely clear why most animals have two chemical senses: olfaction and gustation—or smell and taste.
+- The difference between smell and taste is complicated. We know that smell works at a distance and taste works through contact, but this has several problems.
+- E.g. All odor molecules must first be dissolved in a thin layer of liquid to be detected. Ants smell by contact while snakes taste by diffusion. And for fish, the distinction between taste and smell is confusing.
+- One hypothesis is that taste is reflexive and innate while smell isn’t.
+- E.g. We have to override the bitter taste of beer, coffee, or dark chocolate regardless of our preference. In contrast, odors don’t carry meaning until they’re associated with experiences.
+- E.g. The U.S. Army tried to develop a stink bomb for crowd control but couldn’t find a smell that was universally disgusting to all cultures.
+- Taste is the simpler sense.
+- E.g. Smell is used to navigate the world, find prey, mate, and coordinate. Taste is mainly used to make binary decisions about food: should I eat this?
+- Reptiles, birds, and mammals taste with their tongues but other animals don’t.
+- E.g. Most insects can taste with their feet and legs such as mosquitos tasting human flesh.
+- What would it be like to taste with our fingers?
+- The most extensive sense of taste surely belongs to catfish; they’re swimming tongues.
+- Catfish have taste buds spread all over their scale-free body and have turned taste into an omnidirectional sense.
+- However, they have poor and limited receptors for sugar. Does this mean they don’t experience the taste of sweetness?
+- The gustatory Umwelten of animals has expanded and contracted to make sense of the foods they often encounter and eat.
+- After a smell receptor is done with an odorant molecule, it either releases it or destroys it.
+- Except for one group of receptors: opsins.
+- Opsins are special in that they hold onto their target molecules and these molecules absorb light.
+- This is the entire basis of vision.
+- Animals see using light-sensitive proteins that are actually modified chemical sensors.
+- In a way, we see by smelling light.
+
+## Chapter 2: Endless Ways of Seeing | Light
+
+- Jumping spiders have eight eyes that almost cover a 365-degree viewpoint except for directly behind it.
+- Unlike other spiders that sense the world through vibration and touch, jumping spiders rely on vision.
+- In this sense, these spiders have an Umwelten closest to ours, a world dominated by vision.
+- I watch the spider and it watches back, two different species connected by our dominant sense.
+- Jumping spiders have separated sharp vision and motion detection to exist within different sets of eyes.
+- The central eyes recognize patterns, shapes, and colors, while the secondary eyes track movement and redirect attention.
+- Different eyes for different tasks.
+- Jumping spiders remind us that we share a visual reality with other sighted creatures, but we experience it in utterly different ways.
+- E.g. Eye sizes range from soccer balls in the giant squid to golf ball in humans. There’s also the distinction between camera-like eyes and compound eyes. Where an eye is located on the body also affects the experience.
+- Photoreceptors vary from species to species but they all share the use of proteins called opsins.
+- Vision is diverse because light is informative in many different ways and animals sense it for various reasons.
+- Four stages in the evolution of photoreceptors
+    - First involves detecting the presence of light.
+    - Second is gaining a dark pigment or barrier that blocks lights from coming in at certain angles, implying direction.
+    - Third is grouping shaded photoreceptors to produce images. For many scientists, this is when light becomes vision.
+    - Fourth is high resolution vision.
+- The gradation from simple photoreceptors to complex eyes exists as animals have every conceivable intermediate.
+- Eye doesn’t evolve from imperfect to perfect, but rather for performing a few simple tasks to performing many complex tasks.
+- Animals see as they need to, no more and no less.
+- The first step in understanding an animal’s Umwelt is to understand what it uses its senses for.
+- E.g. Our eyes suit our needs.
+- Humans outshine almost every other animal at resolving detail.
+- One exception is the wedge-tailed eagle of Australia that has some of the narrowest photoreceptors that we know of, allowing them to be densely packed within their retina.
+- We should remember that just because an animal displays certain colors or details doesn’t mean that it can see them.
+- E.g. Cleaner shrimp have beautiful colors and patterns but lack the eyes to see them. Instead, this image is meant for fish to see. The same applies to butterflies and flowers.
+- Acute eyes come with the drawback of reduced sensitivity in low light; a sensitivity and resolution tradeoff.
+- E.g. An eagle can spot a far-away rabbit but its acuity plummets as the sun sets. This may explain why there are no nocturnal eagles. Lions and hyenas can’t see as clearly as eagles, but they can see over more time of day.
+- Interestingly, even though a scallop has up to hundreds of eyes with good spatial resolution, this information isn’t sent to the brain. What is sent to the brain is whether something was detected or not.
+- So the scallop has eyes with good resolution but the animal itself might not have spatial vision.
+- It knows when eyes in a certain region of its body have detected something, but it has no visual image of that object.
+- Scallop’s don’t experience a movie in their brain the same way we do. It sees without scenes. Kind of similar to blindsight in humans.
+- Why have such good eyes evolved in an animal whose brain can barely handle the information they convey? No one knows.
+- Weirder yet is the brittle starfish that has photoreceptors on its arms without a brain.
+- They have a decentralized ring of nerves and this is used to coordinate the five arms but doesn’t command them.
+- So the cameras are just signaling each other. What are they doing and why?
+- “Everything we know about animal vision to date relies on having an eye. We’re basing everything on a century’s worth of research on contiguous retinas, with photoreceptors that are close together and grouped. [The brittle star] violates a lot of those assumptions.” - Lauren Sumner-Rooney
+- Scallops and brittle stars reveal how strange vision can be.
+- E.g. Animals don’t need a conscious experience of light to use vision.
+- Even birds with two eyes differ in their experience of vision because their eyes are on the side of their head.
+- This reduces depth perception at the benefit of an increased field of view.
+- A mallard duck’s visual field is completely panoramic with no blind spot above or behind it.
+- When sitting on the surface of a lake, a mallard can see the entire sky without moving.
+- And when its flying, it see the world simultaneously moving toward and away from it.
+- “The human visual world is in front and humans move into it. But the avian world is around and birds move through it.” - Graham Martin
+- Birds also differ from humans in where their vision is sharpest. Our sharpest retinal area converges but a bird’s sharpest area diverges.
+- Does this mean that birds have two centers of visual attention? It’s hard for us to imagine.
+- Acute zone: an area of retina that has a higher density of photoreceptors. It’s called the fovea for humans.
+- Many birds of prey actually have two acute zones in each eye, one forward and one at 45 degrees. The side-facing one is sharper and used when hunting.
+- This explains why a peregrine falcon doesn’t plunge straight at its prey but instead flies along a descending spiral.
+- Another interesting eye is found in cows, rabbits, crabs, and kangaroos.
+- These creatures have eyes with acute zones in horizontal bands, resulting in a horizon of focus.
+- They don’t care about looking up or down but across and afar.
+- The act of looking around—a human action—is inextricable to them because this only applies to animals that have restricted visual fields and narrow acute zones.
+- Elephants, hippos, rhinos, whales, and dolphins have two or three acute zones per eye, possibly because they can’t quickly turn their heads.
+- The fish Anableps anableps splits it eyes into two, the top half sticks out of water and is adapted for air vision, while the bottom half says below the surface and is adapted for aquatic vision.
+- Vision can extend in any and every direction.
+- The speed of vision may seem strange to talk about but it takes time for photoreceptors to react to incoming photons and for the signal to travel to the brain.
+- In killer flies, evolution has pushed the limit of ultrafast vision.
+- E.g. It takes 6-9 ms for killer flies to see, process, and react, while it takes humans 30-60 ms just to see.
+- “We don’t know of a faster photoreceptor than the ones from these flies.” - Paloma Gonzalez-Bellido
+- It’s possible that different visual speeds come with a different sense of time’s passage.
+- E.g. To a leatherback turtle’s eyes, the world might seem to move in time-lapse. But to a fly, the world might seem to move in slow motion.
+- Fast vision requires a lot of light.
+- Like all sensory systems, eye are expensive to build and maintain. In dark environments, some animals unsubscribe from vision entirely.
+- In dark corners of Earth where vision can’t earn its worth, eyes are often lost.
+- Other animals instead evolved ways of seeing in the dimmest of conditions.
+- E.g. In the sweat bee, it pools the response of several different photoreceptors and might also collect photons for longer before firing. This groups the photons reaching the bee’s eye in both space and time, increasing the ratio of signal to noise. The tradeoff is that the vision is grainy and slow.
+- Sometimes, seeing a coarser, slower, and dimmer world is better than seeing nothing at all.
+- Another option is to collect every last photon.
+- E.g. Using a reflective layer behind the retina or using a larger eye.
+- The biggest eyes evolved in one of the darkest environments: the deep ocean.
+- To dive into the ocean is to enter the largest habitat on the planet, a realm with over 160 times more living space than all land ecosystems combined. Most of that space is dark.
+- The giant squid has one of the largest and most sensitive eyes on the planet.
+- One hypothesis on why the giant squid evolved such a large eye is to spot its main predator: the sperm whale.
+- When a sperm whale hunts a giant squid, it bumps against small bioluminescent organisms which can be seen by the giant squid.
+
+## Chapter 3: Rurple, Grurple, Yurple | Color
+
+- Dogs do see color but not in the same range as people.
+- Review of the three types of cones.
+- Color vision involves more than just detecting different wavelengths of light, it’s also about comparing them.
+- Color opponency is how the raw signal from the three cones are transformed into the rainbow we perceive.
+- Opponency is the basis of almost all color vision.
+- There’s nothing inherently “green” about a blade of glass or the 550 nm light that it reflects.
+- Our photoreceptors, neurons, and brain are what turn that physical property into the sensation of green.
+- Color exists only in the eye and brain of the beholder.
+- The existence of so many monochromatic eyes in species hints that color vision isn’t necessary.
+- Then why see color?
+- Color is useful because it offers constancy. It doesn’t change much with illumination changes or position changes.
+- If an animal can compare the outputs of photoreceptors tuned to different wavelengths, it can stabilize its view of the world.
+- Dogs mostly see in shades of blue, yellow, and gray.
+- The first primates were probably dichromats with two cone types: short and long.
+- Over time, a gene change lead to the evolution of the medium (green) cone we know today.
+- Why would there be an evolutionary pressure to see green?
+- Each extra opsin causes an exponential increase in the visual palette space.
+- To see more colors means to better spot red, orange, and yellow fruit against green foliage. It also means to identify more nutritious red rainforest leaves.
+- However, seeing more colors has drawbacks as well.
+- E.g. Dichromats are better at detecting borders and shapes, and seeing through camouflage that trichromats wouldn’t notice.
+- Colors aren’t inherently magical and they only become useful when animals derive meaning from them.
+- Most animals that can see color can see ultraviolet but we’re an exception.
+- E.g. Fish more easily see tiny UV-absorbing plankton against sunlight. Reindeer spot mosses and lichens against a hillside blanketed by UV-reflective snow. Flowers use UV patterns to advertise themselves to pollinators.
+- Although UV feels exotic and enigmatic to us, to color vision researchers it’s just another color.
+- Most birds have four types of cone cells with opsins most sensitive to red, green, blue, and either violet or UV. This makes them tetrachromats.
+- Tetrachromacy isn’t just human vision plus ultraviolet but unlocks another new dimension of color.
+- Dichromats can make out about one percent of the colors that trichromats see.
+- Extrapolating from this, we hypothesize that we see one percent of the colors that tetrachromats see.
+- E.g. We can represent the space of human trichromatic vision as a triangle with the three corners representing red, green, and blue. In comparison, a bird’s color vision is a pyramid with the four corners representing each of its four cones.
+- Our entire color space is just one face of that pyramid whose interior represents colors unimaginable to most of us.
+- If our red and blue cones are stimulated together, we see purple. Purple is a color that doesn’t exist in the rainbow and can’t be represented by a single wavelength of light.
+- These kinds of cocktail colors are called non-spectral colors.
+- Hummingbirds, with their four cones, can see a lot of non-spectral colors.
+- E.g. UV-red (rurple), UV-green (grurple), UV-yellow (yurple), and UV-purple (urple).
+- Tetrachromats also have a different concept of white since we perceive white only when all of our cones are equally stimulated.
+- Human tetrachromats exist and are usually women because the genes for the long and medium opsins both sit on the X chromosome. Since most women have two X chromosomes, they can inherit slightly different versions of either gene.
+- Just having a fourth cone isn’t enough to be a tetrachromat though, as the fourth cone must also be in the central fovea and there needs to be the right neural wiring to perform opponency.
+- Mantis shrimp—although sporting 12 photoreceptor classes—fail to distinguish colors whose wavelengths differ by 12 to 25 nm. For reference, humans can distinguish colors between 1 and 4 nanometers.
+- Scientists hypothesize that the 12 receptor classes instead map directly to 12 colors, omitting opponency.
+- In the mantis shrimp, the retina sends its raw signals directly to the brain.
+- Most insects, crustaceans, and cephalopods can see the polarization of light.
+- They have eyes with two classes of photoreceptors that are stimulated by horizontally or vertically polarized light.
+- By comparing the two receptors, they can distinguish between light that’s polarized to different angles.
+- What does the mantis shrimp experience when it sees polarized light?
+- They might treat the polarization signals as more colors; more channels of information to recognize objects. We don’t know though.
+- An animal’s colors tells you whose eyes it is trying to catch or avoid.
+- The simple act of seeing recolors the world.
+- Guided by evolution, eyes are living paintbrushes.
+- For most senses, there’s a tension between reception and sensation, between what animals can detect and what they actually experience.
+
+## Chapter 4: The Unwanted Sense | Pain
+
+- While capsaicin—the molecule responsible for spiciness—inflames our skin, leaving it hypersensitive to heat, it has no such effect on the naked mole-rat.
+- Naked mole-rats are oblivious to several noxious substances that we find painful.
+- E.g. Capsaicin, acids.
+- Almost all animals have nociceptors (pain receptors) and naked mole-rats are no exception.
+- The naked mole-rat is insensitive to acids probably because it must tolerate high levels of carbon dioxide, which turns liquids acidic.
+- People often assume that pain feels the same across the entire animal kingdom but this isn’t true.
+- Similar to color, pain is inherently subjective and surprisingly variable.
+- E.g. Wavelengths of light aren’t universally red or blue, odors aren’t universally fragrant or pungent.
+- Nothing is universally painful. Animals differ in what they need to avoid and what they can tolerate to survive.
+- This makes it challenging to tell what an animal might find painful and whether it can even experience pain.
+- There’s a distinction between sensing harmful stimuli (nociception) and the painful feelings they produce (pain).
+- E.g. If a harmful stimulus is detected, a reflex may trigger without the animal experiencing pain due to a severed spinal cord.
+- E.g. In patients with phantom limb syndrome, they can experience pain without nociception.
+- Nociception occurs at the site of detection, pain occurs in the brain.
+- Painkillers make us aware of the distinction between nociception and pain because we can feel the sensation but we don’t feel the ensuing pain.
+- Nociception is an ancient sense.
+- E.g. Opioids can kill pain across humans, chickens, trout, sea slugs, and fruit flies.
+- How can you tell if an animal is experiencing pain?
+- Behavior isn’t a perfect measure because movements may be caused by the nociceptive reflex accompanied by pain or by the feeling of pain.
+- The core of the problem is the distinction between nociception and pain.
+- In all senses except pain, the actions of sensory receptors and the subjective experiences produced by the brain don’t get different names.
+- E.g. We don’t argue about whether humans have vision and fish just photoreception.
+- There’s a lot of evidence that fish feel pain and suffer just like birds and mammals.
+- If an animal’s actions don’t match what its brain is theoretically capable of, are we overinterpreting its behavior or underestimating its nervous system?
+- One researcher found that octopuses avoid places where they’ve been injected with acetic acid, and gravitate toward places they’ve received painkillers.
+- This suggests that octopuses are capable of experiencing pain.
+- We might find different forms of pain.
+- E.g. Sociable animals may call for help when in pain, but solitary animals might not react to pain to avoid drawing predators.
+
+## Chapter 5: So Cool | Heat
+
+- If we had two heated plates to stand on—one at 30 degrees Celsius and another at 20 degrees—rats, mice, and humans almost always go for the 30 degree plate.
+- But the thirteen-lined ground squirrel has no preference.
+- A ground squirrel can tolerate low temperatures and needs to in order to hibernate.
+- Its senses have evolved and adjusted according to its needs and the ground squirrel has a different conception of what “cold” is—a different minimum temperature at which its body can no longer cope and its senses raise an alarm.
+- All living organisms are deeply affected by temperature.
+- There are specific receptors for different temperatures and cold isn’t just the absence of hot, but a different sense entirely.
+- A group of proteins called TRP channels act as tiny gates that open when they reach the right temperature.
+- Chili peppers burn because their capsaicin triggers a TRP channel that detects painfully high temperatures. Mint cools because its menthol activates the cold sensor.
+- Each species has its own definition of cold and hot.
+- E.g. The temperature that we live at would be hot to a zebrafish.
+- If you want to live in extreme climates, you’d better tweak your senses to like it.
+- Senses are tuned to the temperatures in which the organism lives in.
+- A fly senses temperature using its antennae and since it has two of them, it senses temperature in stereo and can track heat gradients.
+- E.g. The fly can tell if one antenna is just 0.1 degrees Celsius hotter than the other.
+- This ability is called thermotaxis.
+- Another form of temperature detection comes not from contact but infrared radiation.
+- The Melanophila beetle actively seeks out hot environments as a mating spot.
+- E.g. Forest fires or burning oil pits.
+- These beetles detect infrared radiation by using a cluster of 70 spheres, each filled with fluid and enclosed by the tip of a pressure-sensitive neuron.
+- When infrared radiation hits the sphere, the fluid heats up and expands, squeezing the nerve causing it to fire.
+- The beetle’s spherical sensors must be extraordinarily sensitive because the insects often travel dozens of miles to reach burning forests and other hot places.
+- Fire-chasing is a trick so useful that it has evolved at least four times over and allowed the Melanophila to spread across five continents except Australia.
+- E.g. The threadworm, vampire bats, ticks, and snakes.
+- In infrared-detecting snakes, the organ that detects infrared sends signals that eventually combine with normal vision. So it’s possible that snakes are seeing infrared and treating it as another color.
+- The infrared-detecting organs aren’t an independent sense but instead improve vision for their owners.
+- When thinking about another Umwelt, distance always matters.
+
+## Chapter 6: A Rough Sense | Contact and Flow
+
+- Sea otters have extremely sensitive paws that can distinguish ridges spaced a quarter of a millimeter apart.
+- Sensitivity isn’t the only metric that a sense can be judged with, another is speed.
+- Although both humans and sea otters are equally sensitive to discriminating textures with their hands, sea otters are 30 times faster.
+- Sea otters use their sensitive paws to forage along the seabed—feeling, grasping, pressing, squeezing, and otterhandling anything.
+- E.g. Distinguishing between hard rocks and clams.
+- Touch is one of the mechanical senses and deals with physical stimuli.
+- E.g. Vibrations, currents, textures, and pressures.
+- For many animals, touch can operate at a distance.
+- E.g. Sensing water and air currents.
+- For humans, touch is a sense of direct contact and our fingertips are among nature’s most sensitive touch organs.
+- This sensitivity is mostly possible through movement.
+- E.g. If you rest a fingertip on a surface, you only get a limited idea of its features. But if you’re allowed to move, everything changes.
+- Movement transforms touch from a coarse sense into an exquisite one.
+- Another animal with an interesting sense of touch is the star-nosed mole.
+- This mole has 11 pairs of pink, hairless, finger-line appendages arranged in a ring around its nostril.
+- Surprisingly, one of the 11 pairs—although smaller than the rest—is represented by a massive area in the mole’s brain. Why?
+- The answer is food. When a mole investigates a piece of food, it always uses that smaller pair of appendages.
+- This is analogous to the fovea in the retina but instead this is a tactile fovea.
+- And the speed of the star-nosed mole puts even the sea otter to shame.
+- E.g. It can detect, process, and eat a worm in the span of a human eyeblink.
+- The mole seems to be moving as fast as its nervous system allows, limited only by the speed at which information can travel between the sensory organ and brain.
+- That trip takes just 10 ms.
+- Light may be the fastest thing in the universe, but light sensors have their limits and are a bottleneck.
+- Knot shorebirds use a special form of touch that works at a distance.
+- As a knot’s bill descends into sand, it pushes on the thin channels of water between the grains, creating a radiating pressure wave.
+- If there’s a hard object in the way, like a clam or rock, the wave reflects back to the bill.
+- The bill can sense these distortions, detecting surrounding objects without touching them.
+- This is a kind of “sonar” based on touch instead of hearing.
+- Touch can also be transmitted through hairs similar to the star-nosed mole.
+- E.g. Bird feathers and whiskers.
+- As a fish swims, it leaves behind a hydrodynamic wake.
+- Seals with sensitive whiskers can detect and interpret these trails.
+- To us, touch is rooted in the present. But to seals, touch extends into the past—just as smell does to dogs.
+- However, sensing vortices of water using whiskers should be problem because the whiskers themselves produce their own vortices.
+- The solution that evolution came up with was to modify the whiskers so that they cut through water and have an undulating/smooth surface. These features dramatically reduce the vortices left by the whiskers so the seal can sense others and not itself.
+- Schools of fish communicate using a system of sensors called the lateral line.
+- The lateral line is found in all fish and it detects the currents produced by objects moving nearby.
+- A swimming fish displaces the water in front of it, creating a flow field that envelops its body. Objects distort the field and the lateral line can detect those distortions, providing fish with a hydrodynamic awareness of its surroundings.
+- This is another instance of “touch at a distance”.
+- Fish in a school/group use their lateral lines to match the speed and direction of their nearest neighbors.
+- When a predator lunges at the school, the rush of water triggers the lateral lines of nearby fish causing them to dart away.
+- These startled movements trigger the lateral lines of their neighbors, which triggers their neighbors and so on.
+- Thus, a wave of movement spreads throughout the school to avoid the predator.
+- Each fish only senses the small volume of water around it, but the sense of touch connects them all and allows them to act as a whole.
+- Alligators have bumps on their jawline to detect ripples in the water’s surface.
+- This sensory organ might be used to detect when prey drink water or when males produce deep-throated bellows as a mating signal.
+- Like a fish’s neuromasts or a bird’s filoplumes, a spider also has flow sensors.
+- Spiders detect air currents and they use this ability to catch airborne insects.
+- These hairs are a hundred times more sensitive than any visual receptor that exists or could possibly exist.
+- They’re so sensitive that only a fraction of the energy in a single photon, on the limits of thermal noise, is enough to deflect the hair.
+- It would be almost impossible to make these hairs more sensitive without breaking the laws of physics.
+- The hairs don’t constantly trigger false positives though because the mechanoreceptors at the base of the hair only respond to biologically meaningful frequencies and are less sensitive than the hairs themselves. Plus it takes more than one hair for the spider to act.
+
+## Chapter 7: The Rippling Ground | Surface Vibrations
+
+- Tadpoles can sense vibrations while waiting to hatch on leaves overhanging water. They use this sense to detect predatory snakes and escape when their siblings are being eaten.
+- Many insects can also sense surface vibrations and use them to communicate.
+- Insects fill plants with their vibrational songs.
+- Vibrational songs are strange to us because they’re not bound by the same physical properties as airborne sounds.
+- E.g. In air, an animal’s pitch is normally tied to its size, which is why mice don’t bellow and elephants don’t squeak.
+- This limitation doesn’t apply to surface waves so small animals can make low-frequency vibrations that appear to come from a larger body.
+- Airborne sounds are also limited in that they radiate outwards in three dimensions, losing energy quickly.
+- Insects compensate for this by focusing their energy to produce sounds in a narrow range of frequencies, thus producing simple chirps.
+- Surface waves, however, radiate outward in two dimensions, losing less energy than airborne waves.
+- Since these sounds travel further, insects can produce sounds that are more like bird songs.
+- Intriguingly, tick-trefoil treehopper males can jam the mating vibrations of other males, making it more difficult to find the female treehopper on the same leaf.
+- Sand scorpions feel for disturbances in sand to detect prey.
+- The sensors lie in their feet and when a surface wave hits their feet, it causes tiny slits to compress and thus the nerves to fire.
+- By positioning its feet in a circle, sand scorpions can tell which direction the surface waves came from by noting when those waves hit each foot.
+- It then turns and runs before pausing and waiting for another wave, repeating until it reaches the source.
+- Other animals have this seismic sense too.
+- E.g. Antlion insects, earthworms, and the Namib Desert golden mole.
+- Common among these animals is that they all have poor eyesight and all live either very close to the ground or within it.
+- Evidence collected by Caitlin O’Connell also suggests that elephants have a seismic sense used to communicate among herds.
+- Nephila spiders extend their seismic sense by using a web.
+- The web is a trap and a surveillance system that extends the range of the spider’s senses.
+- A spider’s body is covered in thousands of slit sensilla, vibration-sensing cracks similar to those used by the sand scorpion.
+- Most orb-weaver spiders sit in the middle of their web and rest their legs on the radial spokes that channel vibrations to them.
+- If a prey stops moving in the web, the spider can deliberately pluck the silk and listen to the vibrational echo.
+- This dependency on vibrations can backfire such as when the Argyrodes spider camouflages its steps on the web and steals insects. Or when the Portia spider mimics prey to hunt other spiders.
+- Spiders have an amazing degree of control over their web.
+- E.g. They can alter the stiffness, tension, and overall shape of the web.
+- Orb-weavers have the option of tuning their own senses and defining their own Umwelt according to their needs.
+- The web isn’t just an extension of a spider’s senses but an extension of its cognition.
+- Tuning silk is like tuning its own mind.
+
+## Chapter 8: All Ears | Sound
+
+- Owls can find their prey in darkness so total they can’t even see.
+- E.g. If an owl’s ear is plugged with a cotton ball, the bird would miss rodents by more than a foot.
+- Hearing is the sense that detects repeated movements—waves—in air.
+- Our ears consist of three parts: the outer, middle, and inner ears.
+- The barn owl’s ear shares the same basic structure: the outer ear collects, the middle ear amplifies and transmits, and the inner ear detects.
+- This is where the similarities end as our outer ears are a pair of fleshy flaps, while the owl’s outer ears are effectively its entire face acting like a radar dish for sound waves.
+- Owls excel not only at detecting sounds but also localizing them.
+- An owl’s ears are uniquely asymmetric with the left ear higher than the right ear.
+- The owl’s brain uses differences in timing and loudness to calculate the position of a sound’s source in both the vertical and horizontal dimensions.
+- Both hearing and touch are mechanical senses that detect movements in the outside world. They use receptors to sense when they’re bent, pressed, or deflected.
+- Unlike touch, hearing can operate over long distances. And unlike smell, the speed of sound is faster than the speed of diffusing molecules.
+- Hearing is long in range, fast in speed, and precise in resolution.
+- But hunting by sound has one major drawback: interference.
+- E.g. An owl doesn’t emit light when it moves but it does make noise with its own wingbeats. Although the noise is imperceptibly quiet.
+- The kangaroo rat can hear owls and rattlesnakes using its huge middle ear—ears bigger than their brain.
+- Every species has its own strengths and weaknesses.
+- E.g. An owl’s ears are maximally sensitive to the frequencies produced by scurrying mice but are deaf to the highest and deepest notes that human ears can detect.
+- E.g. Mice can’t hear the wingbeats of an owl but can make high-pitched alarm calls that the owl can’t hear.
+- As with the other senses, an animal’s hearing is tuned to its needs.
+- The qualities that make hearing good for detecting predators also predispose it to communication.
+- Ears tend to appear near the neurons that control the actions for which those ears evolved.
+- E.g. A female cricket’s ears and the neurons connected to them are wired so that she automatically recognizes a male’s song and turns toward it.
+- No need for a mental representation of what is heard when the stimuli directly controls action.
+- Her actions are built into her sensory system.
+- Animal hearing can drive the evolution of animal calls.
+- E.g. In the tungara frog, female frogs gravitate towards males that produce a specific frequency. It was discovered that the tungara frog is predisposed to prefer that frequency, suggesting that their ears defined their voices.
+- However, the fringe-lipped bat is also tuned to that frequency, making male tungara frogs pick between inviting females and death, or neither.
+- The frog’s Umwelt shaped the frog’s calls, which then shaped the bat’s Umwelt.
+- Surprisingly, bird hearing works on a faster timescale than human hearing.
+- E.g. In an experiment, birds could discriminate songs that flipped in 1 millisecond compared to humans at 3 to 4 milliseconds.
+- The communication carrier between species is also a sensory one.
+- Hearing makes an important trade-off that’s inherent to all ears.
+- E.g. If we have two musical notes, one at 1000 Hz and another at 1050 Hz, and we played 10-millisecond clips of them, they’d be indistinguishable. However, if we increased the clip length to 100-milliseconds, they’d be distinguishable.
+- As animal ears become more adept at discriminating between similar frequencies—by having neurons integrate sound information over longer periods of time—they also become less sensitive to fast changes within those periods.
+- A similar trade-off is made in vision.
+- E.g. Eyes can have exceptional resolution or exceptional sensitivity but not both.
+- Ears can have exceptional temporal resolution or exceptional pitch sensitivity but not both.
+- If ears become worse at detecting small time differences, their owners become worse at mapping sounds.
+- An animal’s Umwelt can’t be static because an animal’s world isn’t static.
+- Blue fin whales make extremely low-pitched calls that can be heard across entire oceans.
+- We don’t know the exact purpose of these calls but we suspect it has to do with mapping the ocean.
+- E.g. Blue whales emerge in polar waters between Iceland and Greenland and head straight for tropical Bermuda.
+- E.g. “When you watch these animals move, it’s as if they have an acoustic map of the oceans.” - Chris Clark
+- The scale of a whale’s hearing is hard to grasp because of its vast spatial and temporal course.
+- Underwater sound waves take about a minute to cover 50 miles so hearing a whale song from 1,500 miles is hearing it about 30 minutes ago.
+- Perhaps for whales, the world feels bigger, stretching out in space and time.
+- The largest animals on land, the Asian elephant, also seems to communicate using infrasound.
+- Infrasound rumbles are used to communicate, synchronize movements, greet, and mate.
+- Although whales and elephants produce calls below the range of human hearing, other species go above it.
+- Rodents such as mice and rats make ultrasonic calls when playing, mating, or stressed.
+- Pups separated from their nest make ultrasonic calls that summon their mother.
+- The upper limit of human hearing is around 20 kHz. Chimpanzees hear close to 30 kHz, dogs at 45 kHz, cats at 85 kHz, mice at 100 kHz, and bottlenose dolphins at 150 kHz.
+- For all these creatures, ultrasound to us is just sound to them.
+- Many mammals may use ultrasound not as a secret communication channel, but as an aid in locating the sound’s source.
+- As the space between ears decreases, localizing sound becomes easier for higher frequency sounds.
+- In general, the smaller a mammal’s head, the higher its hearing range.
+- One drawback of ultrasound is that it doesn’t travel very far.
+- It seems absurd to think that an animal couldn’t hear its own calls, but there’s at least one clear case of this: the pumpkin toadlet of Brazil. This frog is insensitive to the frequencies in its calls but perhaps the sight of its inflating vocal sacs is attractive to mates.
+
+## Chapter 9: A Silent World Shouts Back | Echoes
+
+- Bats use short, ultrasonic pulses and their echoes to detect and locate objects around them.
+- It’s a form of biological sonar.
+- Few animals have this skill and only two groups have perfected it: toothed whales (dolphins, orcas, and sperm whales) and bats.
+- Echolocation differs from the senses we’ve encountered so far because it puts energy into the environment.
+- E.g. An echolocating bat creates the stimulus that it later detects.
+- This would be equivalent to creating light for the eyes to see or creating odorants for the nose to smell.
+- The bat speaks and a silent world shouts back.
+- Challenges with echolocation
+    - Distance. A bat’s high frequency call quickly loses energy as it travels, so echolocation only works over short ranges. Bats also concentrate the energy of their calls into a cone, like the beam of a flashlight coming from their head.
+    - Volume. The sonar call of the big brown bat can leave its mouth at 138 decibels, about as loud as a siren or jet engine. These are among the loudest sounds of any land animal so bats must avoid deafening themselves with every scream. They do so by contracting the muscles of their middle ears while simultaneously making the call.
+    - Speed. Echos are only snapshots so bats must fly fast to update and act on those echos. Bats have the fastest mammalian muscles which are their vocal muscles.
+    - Correspondence. A bat must match every outgoing call to its respective echo. Bats solve this by making short and spaced calls. This means that a bat’s flashlight is more like a series of stroboscopic snapshots.
+    - Processing. The delay duration of an echo tells the bat about its distance to the insect. Even our sharp eyes don’t compare to the sub-millimeter accuracy bats have of its distance to their target.
+    - Adjustment. As both the source and target are moving, this makes searching for the target difficult. A bat starts with loud, long, and infrequent pulses to find promising prey. Once it finds one, a bat changes its strategy to use more frequencies to more accurately estimate its distance and prey features (size, shape, texture). It also makes more calls to get faster updates.
+    - Intention. A bat’s voice reveals its intent. If the call is long and loud, it’s focusing on something far away. If the call is short and soft, it’s homing in on something close. If the calls are fast, it’s paying more attention to a target.
+    - Cluttered environments. A bat must compute space from the timing of its echos unlike light. Bats solve this problem by aiming the center of their sonar beams onto objects of interest.
+    - Foreground vs background. A small object against a background is camouflaged when using sonar because the strong echoes from the background drown out the fainter echoes from the object. One solution that bats use is to approach its prey from a sharp angle.
+    - Groups. How do bats distinguish their echoes from other echoes in their group? Big brown bats aim their calls away from other bats, shift the frequency of their calls to avoid overlap, and take turns to avoid interference.
+    - Energy. Echolocation is mentally demanding and solving the previous challenges require a lot of energy. Bats often don’t have time to use their sonar to its fullest capacity which is why they sometimes make ridiculous mistakes.
+- The big brown bat produces a forked sonar beam with two horns: one pointing forwards and another pointing downwards. The forward beam might be for scanning insects and obstacles while the downward beam might be for tracking altitude.
+- This is similar to the eyes in birds-of-prey that have two foveae, one for scanning the horizon and another for tracking prey.
+- Although most bats echolocate in the way described above using frequency-modulated calls, other bats use frequency-constant calls.
+- Frequency-constant calls have a special property where if they strike the wing of prey at a perpendicular angle, a loud and sharp echo bounces straight back to the bat.
+- This acoustic glint is a dead giveaway of the nearby insect and can’t be misinterpreted as a background object.
+- Bats that use frequency-constant calls can recognize different species of insects from the rhythm of their wingbeats.
+- Impressively, they also compensate for the doppler effect when they close in on a target by lowering the frequency of their call.
+- In response, moths have adapted by: shedding scales to absorb the sound of a bat’s calls and muffle the returning echoes, evolving ears to hear bats, and generating ultrasonic clicks that jam a bat’s sonar.
+- Some adaptations aren’t meant to delight the eyes of prospective mates but to fool the ears of prospective predators.
+- Echolocation is more like “touching with sound” than “seeing with sound”.
+- If a bottlenose dolphin perceives the ocean with a sonar flashlight, then a sperm whale fires a laser.
+- The sound that comes out of a sperm whale is the loudest animal sound in the world at 236 decibels, basically an explosion.
+- And yet these toothed-whales use many of the same echolocating tricks as bats.
+- E.g. To get more information, they speed up the pace of their clicks. They can also adjust the sensitivity of their ears to dampen their own booming calls.
+- Sonar also works farther and faster in water because it’s denser.
+- In general, waves reflect when they encounter a change in density. So air waves ricochet off solid surfaces but water waves penetrate flesh since flesh and water have similar density.
+- Bats can sense the outer shapes and textures of their targets, but dolphins can sense an organism’s internal structure like an ultrasound machine.
+- This penetrating perception is unusual to imagine.
+- A bat has less than a second to act on the information carried by its echo, but because water echolocation has such a long range, a whale can plan for up to 10 seconds before making a decision.
+- Humans can also echolocate but at much coarser resolutions.
+- Echolocation grants certain abilities while taking away others.
+- E.g. Sonar can perceive objects behind other objects and around corners or through walls. But it struggles to distinguish small objects from a background.
+- For one blind human, echolocation feels like an extension of their sense of touch.
+- Is the “visual cortex” an accurate name? Perhaps it’s really a “spatial mapping cortex” that’s usually, but not always, connected to the eyes.
+
+## Chapter 10: Living Batteries | Electric Fields
+
+- Around 350 species of fish can produce their own electricity.
+- Electric fish evolved their unique powers by modifying their own muscles or nerves into special electric organs.
+- These organs consist of cells called electrocytes; stacks of cells that control the flow of ions.
+- The electric eel has electric organs that span most of their seven-foot-long body and contains around 5,000 to 10,000 electrocytes, generating up to 860 volts.
+- The electric organ is both a remote controller and taser with small pulses causing the muscles of its prey to twitch and large pulses causing paralysis.
+- However, weakly electric fish had perplexed nineteenth-century scientists because their electric field isn’t used to hunt prey.
+- Current research finds that these fish use their electric fields to sense their surroundings and to communicate with each other.
+- Objects distort the continuous electric field produced by the fish if they’re more electrically conductive than water or less conductive.
+- And by sensing these distortions, a knifefish can detect what produced those distortions.
+- This ability of electric fish is known as active electrolocation.
+- The electric organ in the fish’s tail is like a small battery, it create an electric field that envelops the animal and current flows through the water from the fish’s tail to head.
+- Nearby conductors, like animals, increase the flow of current while insulators decrease it.
+- These changes affect the voltage on different parts of the fish’s skin that contain electroreceptors.
+- Like how people create images of the world from patterns of light shining on their retinas, electric fish create electric images from patterns of voltage dancing on their skin.
+- E.g. Conductors shine brightly while insulators cast shadows.
+- Electric fish can also sense the water’s salinity.
+- Both echolocating bats and electrolocating fish must create the stimuli they wish to detect.
+- One key difference though is that electric fields don’t travel. The fields are instantaneous and omnidirectional with the drawback being its short range.
+- Electric fish use electric fields like a tactile sense.
+- But since the lateral line already existed, why evolve electrolocation on top of it?
+- The answer might be that electric fields are more reliable than other stimuli because they aren’t distorted by turbulence, darkness, murkiness, or barriers.
+- Electric fish are sensitive not only to conductance—the ability to carry current—but also to capacitance, the ability to store charge. And in natural environments, capacitance is a mark of the living.
+- Electric fields are great for communication because they don’t get distorted in the way that sounds do.
+- E.g. Electric fields aren’t absorbed, don’t echo, and don’t travel.
+- By changing the shape and timing of electric pulses, electric fish can communicate threats or courtship with each other.
+- These messages are encoded in the extremely precise oscillations of the electric field.
+- E.g. In the black ghost knifefish, its electric field usually oscillates once every 0.001 seconds with an error of just 0.00000014 seconds. It’s one of nature’s most accurate clocks.
+- One group of elephantfish called mormyrins have developed an electroreceptor so sensitive that it’s like they have the electric version of color vision.
+- The evolutionary pressure to develop such sensitive receptors may be due to a change in the fishes’ social lives. Mormyrins are more solitary and territorial than other elephantfishes.
+- Interestingly, all living organisms produce electric fields when submerged in water.
+- Although the produced field is weak when compared to weakly electric fish, sharks and rays can still detect them to find prey.
+- E.g. Wild sharks bite at buried electrodes and don’t attack prey that are covered by an insulating plastic sheet.
+- A shark’s electric sense is known as passive electroreception and works at distances less than an arm’s length.
+- Other animals have the ability to detect electric fields too.
+- E.g. Lampreys, catfishes, salamanders, Guiana dolphins, and platypuses.
+- The electric sense is special from the other senses because it doesn’t translate from another stimulus—such as light, sound, odorants—into electricity. Electroreceptors just translate electricity into electricity.
+- This means that electroreceptors can directly sense thoughts.
+- However, electroreception is limited by how conductive the medium is, which is why almost every electroreceptive animal we’ve encountered is aquatic except for a few land-based organisms.
+- Bees can sense electric fields because flowers are surrounded by their own distinctive electric field.
+- This field comes from the atmospheric potential gradient.
+- To sense electric fields, Bumblebees have electroreceptors linked with tiny hairs that deflect in the presence of an electric field.
+- Spiders have also been shown to sense Earth’s electric field and can ride it.
+
+## Chapter 11: They Know the Way | Magnetic Fields
+
+- The bogong moth can sense the Earth’s magnetic field to navigate and flee towards cooler climates.
+- This ability to sense magnetic fields is called magnetoreception.
+- Some migratory birds like robins have an internal biological compass.
+- Scientists have found evidence of magnetoreception throughout the animal kingdom but it’s never used for communication.
+- E.g. Animals don’t produce magnetic fields and they have only evolved to detect Earth’s magnetic field.
+- E.g. Big brown bats use their internal compass to return home. Baby cardinal fish use their compass to swim back to their birthplace coral reefs. Mole-rats use their compass to find their way through dark underground tunnels.
+- An untested hypothesis is that whales use the Earth’s magnetic field to migrate with astounding precision.
+- One researcher correlated the occurrence of solar storms with the data on whale beachings and found a striking pattern: on days with intense solar storms, gray whales were four times more likely to beach themselves. This correlation doesn’t confirm causation though.
+- Turtles also have a compass.
+- A turtle’s compass is impressive because it can read both the inclination and intensity of Earth’s magnetic field. Since both inclination and intensity vary around the globe, they form a unique combination at any point on Earth, acting like coordinates.
+- Turtles can read this magnetic map to locate themselves and travel.
+- The turtles’ abilities are especially impressive because they’re innate.
+- They probably don’t have an entire map of the Atlantic genetically encoded, but they probably have some intuition on what to do when they feel that the magnetic field is a certain way.
+- E.g. When the magnetic field feels like A, head east. When it feels like B, head north.
+- The geomagnetic field changes slightly from year to year, which affects the magnetic signatures of turtle nesting beaches.
+- In some years, the signatures of neighboring beaches converge so nesting turtles crowd together. In other years, when the signatures diverge, the turtles spread out.
+- These slight variations aren’t enough to throw the animals significantly off source though.
+- Over the last 83 million years, the geomagnetic field has flipped 183 times. Turtles must have experienced many magnetic reversals over their evolutionary history and had adapted their magnetic maps accordingly.
+- Magnetic maps have a limitation though in that they are inaccurate over short distances.
+- This probably explains why most of the species that have a map sense use it to travel far.
+- E.g. Animals such as salmon, turtles, and Manx shearwaters can imprint on the magnetic signatures of their birthplaces.
+- In general, it’s not difficult to find sense organs because their purpose is to gather stimuli from the environment and since most stimuli are distorted by the animal’s body, sense organs are almost always exposed to the environment.
+- Magnetoreception is an exception though.
+- Magnetic fields can pass through biological matter so the cells that detect them could be anywhere.
+- At the time of this book, magnetoreception remains the only sense without a known sensor.
+- No notes on the controversies and scientific drama surrounding the research on magnetoreceptors.
+- There’s good evidence that honeybees can sense magnetic fields but not humans.
+- If humans are unaware of their magnetic sense and don’t use it, why would it matter?
+- Animals never only use a single sense.
+
+## Chapter 12: Every Window at Once | Uniting the Senses
+
+- Mosquitoes use a variety of cues to sense prey.
+- E.g. Animal odor, carbon dioxide, and body heat.
+- To better understand an animal’s Umwelten, we must consider how the animal integrates and unites not only sensory information from the outside world, but also the sensory information from their own bodies.
+- To gaze through every window at once, to see how animals use their senses together.
+- Each sense has pros and cons and each stimulus is useful and useless in certain circumstances.
+- Animals tap into as many streams of information as their nervous systems can handle.
+- Even animals that are paragons of one sensory domain have several at their disposal.
+- E.g. Dogs with their excellent sense of smell still have large ears. Owls that are masters of hearing still have large eyes. Seals use their whiskers to track the hydrodynamic wakes of fish but still have eyes and ears.
+- Beyond complementing each other, the sense can also combine.
+- E.g. People with synesthesia where the senses bleed into one another.
+- This perceptual blurring is special among humans but standard to other creatures.
+- E.g. A platypus’s bill has receptors for both touch and electric fields but its brain combines both signals. So maybe a platypus has a single sense of electrotouch instead of sensing touch and electric fields separately.
+- E.g. Mosquitoes seem to have neurons that respond to both temperature and chemicals.
+- Even when the senses don’t fuse, they can converge.
+- E.g. A dolphin can visually recognize a hidden object that it had scanned using echolocation by building a mental representation of the object.
+- Some senses also look inward, informing animals about the state of their body.
+- E.g. Proprioception (sense of limb position) and equilibrioception (sense of balance).
+- These senses are only useful because animals move.
+- Two kinds of information
+    - Exafference: signals produced by the environment; other-produced.
+    - Reafference: signals produced by an animal’s own actions; self-produced.
+- Animals are challenged to distinguish between these two kinds of information because they appear the same from the sense organ’s point of view.
+- How does an animal know if a given sensation comes from its own movement (reafference) or someone else’s (exafference)?
+- What’s the difference between touching something and being touched?
+- This problem is so fundamental that even very different creatures have solved it in the same way.
+- Well, technically it’s only a problem shared among animals that move. If you don’t move, then you can be sure that any sensory information is caused by changes in the environment rather than your actions.
+- The solution is when the nervous system issues a motor command, the command is copied and sent to sensory systems to simulate the consequences of the intended movement. Then when the movement occurs, the senses can compare the predicted and actual signals.
+- The copied signal is called an efference copy or corollary discharge.
+- Whenever an animal moves, it creates a mirror version of its own will and uses that to predict the sensory consequences of its actions.
+- Corollary discharges explain why you can’t tickle yourself.
+- Distinguishing the self from others isn’t a given and it’s a difficult problem that nervous systems have to solve.
+- Animals can’t make sense of what’s around them without first making sense of themselves.
+- No notes on octopuses and how their arms are mostly independent of their brain.
+- Thomas Nagel’s challenge of imagining another creature’s conscious experience is so difficult because we would need to know almost everything about that animal.
+- E.g. Its senses, nervous system, body, muscles, needs, environment, evolutionary past, and ecological present.
+
+## Chapter 13: Save the Quiet, Preserve the Dark | Threatened Sensescapes
+
+- Sensory pollution: we’ve forced animals to live in our Umwelten by barraging them with human-created stimuli.
+- E.g. Streetlamps, car honks, and industrial waste.
+- We have filled the night with light, the silence with noise, and the soil and water with unfamiliar molecules.
+- Sensory pollution drowns out stimuli that link animals to their surroundings and to each other.
+- We too quickly forget that we don’t perceive the world in the same way as other species.
+- E.g. Artificial lights can fatally attract insects by causing them to die from exhaustion, and might be contributing to their alarming global decline.
+- True darkness is becoming harder to find—so is true silence.
+- Noise shrinks an animal’s perceptual world.
+- Even oceans have become noisier and researchers suspect a 15-30 decibel increase in ocean noise since World War II.
+- If our background noise had increased by 30 decibels, we would need to wear earplugs.
+- Species with slow or long lives can’t evolve quick enough to keep up with the levels of light and noise pollution that double every few decades.
+- Our influence is both destructive and homogenizing, pushing out sensitive species that can’t live among our sensory onslaughts.
+- As species go extinct, so too do their Umwelten.
+- With every creature that vanishes, we lose a window into the world.
+- Unlike other forms of pollution such as chemical and radioactive, sensory pollution ceases as soon as the source is turned off.
+- E.g. Light pollution disappears when the lights are turned off. Noise pollution silences once engines and propellers wind down.
+- In 1934, Jakob von Uexkull wrote about the Umwelt of the astronomer.
+- “Through gigantic optical aids, [this unique creature has eyes that] are capable of penetrating outer space as far as the most distant stars. In its [Umwelt], suns and planets circle at a solemn pace.” - Jakob von Uexkull
+- The tools of astronomy can capture stimuli that no animal can sense and extend the human Umwelt in space and time.
+- E.g. X-rays, radio waves, and gravitational waves.
+- We’ve used technology to make the invisible visible and the inaudible audible.
+- This ability to dip into the Umwelten of other entities is our greatest sensory skill.
+- We are the only creature capable of knowing what others sense and perhaps the only ones who care.
+- E.g. A bogong moth will never know what a zebra finch hears in its song, and a zebra finch will never feel the electric buzz of a black ghost knifefish.
+- We’ll never fully know either, but we’re the only animal that even comes close.
