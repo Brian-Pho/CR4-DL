@@ -1066,5 +1066,5 @@ excerpt: "Common themes across various scales of neuroscience from chemistry to 
 
 - Adapt output capacity to predicted range of inputs.
 - Match capacity across levels (symmorphosis).
-- Learn in order to improve future predictions.
-- Forget in order to preserve storage capacity.
+- Learn to improve future predictions.
+- Forget to preserve storage capacity.

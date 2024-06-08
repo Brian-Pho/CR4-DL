@@ -133,7 +133,7 @@ excerpt: "An older introduction to information theory."
 - *Sampling theorem*: a continuous signal can be represented completely by, and reconstructed perfectly from, a set of measurements/samples of its amplitude, which are made at equally spaced times. The interval between such samples must be equal to or less than one-half of the period of the highest frequency present in the signal.
 ![Figure 4.1](figure4-1.png)
 - E.g. If a voice signal used frequencies from 0 to 4,000 Hz, then we must sample at minimum 8,000 Hz to not lose any information.
-- If the frequency range of a signal is f cycles per second, then we must use at least 2f samples per second in order to describe the signal perfectly.
+- If the frequency range of a signal is f cycles per second, then we must use at least 2f samples per second to describe the signal perfectly.
 - Thus, the sampling theorem lets us convert between continuous and discrete representations of a signal.
 - The representation by 0 or 1 is convenient and important because it can be used to relate patterns of pulses to numbers expressed in binary.
 - English text is just one sort of message that we might want to transmit. Other messages might be speech, pictures, or changes in stimulus intensity.
@@ -244,7 +244,7 @@ excerpt: "An older introduction to information theory."
 - Before, it wasn’t thought that the noise and signal could be separated in a noisy channel.
 - Shannon characterized noise in a noisy channel and separated it from the signal.
 - The rate of transmission of information depends both on the amount of noise/uncertainty in the channel and on the message source.
-- The whole problem of efficient and error-free communication turns out to be the removing from messages the somewhat inefficient redundancy and then adding redundancy, of the right kind, in order to allow the correction of errors made in transmission.
+- The whole problem of efficient and error-free communication turns out to be the removing from messages the somewhat inefficient redundancy and then adding redundancy, of the right kind, to allow the correction of errors made in transmission.
 
 ## Chapter 9: Many Dimensions
 

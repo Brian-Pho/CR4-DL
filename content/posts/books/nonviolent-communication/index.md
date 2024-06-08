@@ -28,7 +28,7 @@ excerpt: "A language of life for healthy relationships."
     - The actions we observe that affect our well-being.
     - How we feel in relation to what we observe.
     - The needs, values, desires that create our feelings.
-    - The concrete actions we request in order to enrich our lives.
+    - The concrete actions we request to enrich our lives.
 - Two parts of NVC
     - Expressing honesty
     - Receiving emphatically

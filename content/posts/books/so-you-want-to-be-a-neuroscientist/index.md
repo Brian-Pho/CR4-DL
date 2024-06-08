@@ -193,7 +193,7 @@ excerpt: "A modern account of how to become a neuroscientist."
 - One of the most important scientific skills is the ability to convince others that your research is important, worthwhile, and feasible.
 - Three stages of creating a narrative about your research
     - Setting
-        - What does my audience need to know in order to understand what I'm doing and appreciate its significance?
+        - What does my audience need to know to understand what I'm doing and appreciate its significance?
         - The introduction to your research ends with a big "BUT".
         - E.g. "But something is missing."
         - And then, you came along, and found the answer, or at least a way to address the question.

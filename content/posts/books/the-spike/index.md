@@ -199,7 +199,7 @@ excerpt: "An epic journey through the brain in 2.1 seconds."
     - Increasing the number of receptors.
 - Changing the reliability only requires making the release side more or less sensitive to each spike. More sensitive means more vesicles released.
 - Since you can't make a reliable synapse more reliable, you have to start off unreliable to allow headroom for change.
-- This implies that for learning, the brain is deliberately noisy in order to allow for learning.
+- This implies that for learning, the brain is deliberately noisy to allow for learning.
 - Learning becomes the routing of reliable spikes.
 - Maybe unreliable synapses solve the problem of how to transmit as much information as possible with as little energy as possible.
 - Synapses and their machinery take up about 56 percent of all energy used by neurons in the brain.

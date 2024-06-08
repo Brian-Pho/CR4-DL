@@ -273,7 +273,7 @@ excerpt: "How animal senses reveal the hidden realms around us."
 
 - If we had two heated plates to stand on—one at 30 degrees Celsius and another at 20 degrees—rats, mice, and humans almost always go for the 30 degree plate.
 - But the thirteen-lined ground squirrel has no preference.
-- A ground squirrel can tolerate low temperatures and needs to in order to hibernate.
+- A ground squirrel can tolerate low temperatures and must to hibernate.
 - Its senses have evolved and adjusted according to its needs and the ground squirrel has a different conception of what “cold” is—a different minimum temperature at which its body can no longer cope and its senses raise an alarm.
 - All living organisms are deeply affected by temperature.
 - There are specific receptors for different temperatures and cold isn’t just the absence of hot, but a different sense entirely.

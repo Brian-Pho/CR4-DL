@@ -13,7 +13,7 @@ excerpt: "Finding fulfillment in a world obsessed with happiness."
 - What is the meaning of existence?
 - How can I live a meaningful life?
 - Psychologists help people overcome their demons, but it isn't the same as helping them live well.
-- Although it would be best to have both happiness and depth, we would give up some happiness in order to gain depth.
+- Although it would be best to have both happiness and depth, we would give up some happiness to gain depth.
 - Nozick Matrix thought experiment.
 - There is more to life than feeling happy.
 - Hedonia vs eudaimonia. Happiness vs meaning.

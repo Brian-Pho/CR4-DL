@@ -112,7 +112,7 @@ excerpt: "The natural history of innovation."
 - When the going gets tough, life tends to gravitate towards more innovative reproductive strategies.
 - Sex keeps the door to the adjacent possible open by just a crack, so that we can adapt to the changing pressures or opportunities of our environment.
 - The complicated relationship between accuracy and error, between signal and noise.
-- Perhaps the history of the errors of mankind, all things considered, is more valuable and interesting than that of their discoveries. Truth is uniform and narrow; it constantly exists, and does not require so much an active energy, as a passive aptitude of soul in order to encounter it. But error is endlessly diversified.
+- Perhaps the history of the errors of mankind, all things considered, is more valuable and interesting than that of their discoveries. Truth is uniform and narrow; it constantly exists, and does not require so much an active energy, as a passive aptitude of soul to encounter it. But error is endlessly diversified.
 
 ## Chapter 6: EXAPTATION
 

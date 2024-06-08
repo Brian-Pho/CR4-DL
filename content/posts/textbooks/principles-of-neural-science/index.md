@@ -3665,13 +3665,13 @@ Messengers
 - In these cases, actions acquire rewards in a short timescale.
 - In contrast, some motivational states serve long-term goals that are more complex and often involve sequences of actions where not every action is immediately rewarded.
 - In general, incentive stimuli and even stimuli that only signal progress towards a long-term goal, can influence motivational states so that complex behavioral sequences are completed.
-- Motivational states must be sustained across challenging circumstances in order to achieve such goals.
+- Motivational states must be sustained across challenging circumstances to achieve such goals.
 - The brain’s reward circuitry provides a biological substrate for goal selection.
 - Reward: objects, stimuli, or activities that have positive value.
 - The neural mechanisms responsible for goal selection must weigh the costs and benefits of different behaviors that might attain a specific goal.
 - Rats and other vertebrates such as goldfish and humans will work for electrical stimulation of certain brain regions.
 - The enthusiasm and persistence of this self-stimulation is remarkable.
-- E.g. Rats will cross electrified grids or press a lever for hours on end in order to trigger the electrical stimulation.
+- E.g. Rats will cross electrified grids or press a lever for hours on end to trigger the electrical stimulation.
 - The circuitry that mediates brain stimulation reward is broadly distributed as electrical stimulation of sites at all levels of the brain can produce rewarding effects.
 - Particularly effective sites lie along the medial forebrain bundle and along longitudinally oriented fiber bundles near the midline of the brain stem.
 - Stimulation of either of these pathways results in activation of dopaminergic neurons in the ventral tegmental area of the midbrain.

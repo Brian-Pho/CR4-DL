@@ -1054,7 +1054,7 @@ excerpt: "My notes on 20 papers exploring the brain."
 - Five propositions
     1. The activity of a neuron, which is received from and transmitted to other neurons, is a complete description for functionally understanding the nervous system. There’s nothing else “looking at” or controlling this activity, which must be the basis for understanding how the brain controls behavior.
     2. At progressively higher levels in sensory pathways, information about the physical stimulus is carried by progressively fewer active neurons. The sensory system is organized to achieve as complete a representation with the minimum number of active neurons.
-    3. Trigger features of neurons are matched to the redundant features of sensory stimuli in order to achieve greater completeness and economy of representation. This selective responsiveness is determined by the stimuli that neurons are exposed to and by genetic factors.
+    3. Trigger features of neurons are matched to the redundant features of sensory stimuli to achieve greater completeness and economy of representation. This selective responsiveness is determined by the stimuli that neurons are exposed to and by genetic factors.
     4. Just as physical stimuli directly cause receptors to initiate neural activity, so to do the high-level neurons directly and simply cause the elements of our perception.
     5. The frequency of neural impulses encodes subjective certainty as a high impulse frequency corresponds to a high degree of confidence that the cause of the percept is present in the external world.
 - First proposition: significant level of description

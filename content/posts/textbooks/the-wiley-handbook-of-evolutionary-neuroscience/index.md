@@ -681,7 +681,7 @@ excerpt: "A collection of literature reviews on the evolution of the brain."
 - Gaze following most likely helps individuals exploit others for information about important resources like food and potential mates.
 - Is gazing following an inherent automatic response or an indicator of an individual shifting their attention?
 - One way to test this is to see if individuals move to match the line of sight of the gazer.
-- Chimpanzees walk around a barrier in order to track a human’s gaze who had just looked behind this barrier.
+- Chimpanzees walk around a barrier to track a human’s gaze who had just looked behind this barrier.
 - Some researchers argue that this doesn’t answer the question of whether gaze following is automatic or voluntary though.
 - Having an understanding that another individual’s belief is false requires an understanding that another person’s mental states can be contradictory to one’s own and, more importantly, contradictory to reality.
 - So far, there’s no evidence that any nonhuman animals can make this distinction.

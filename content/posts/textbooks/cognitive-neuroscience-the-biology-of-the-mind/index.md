@@ -1584,7 +1584,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Two modes of information processing
     - *Conscious*: can be accessed by systems underlying verbal reports, rational thought, and deliberate decision making.
     - *Nonconscious*: can’t be accessed such as autonomic (gut-level) responses, the internal operations of vision, language and motor control, and repressed desires or memories.
-- Consciousness as something you have to experience in order to define.
+- Consciousness as something you have to experience to define.
 - *Neural correlates of consciousness*: changes in subjective state must be associated with changes in neuronal state.
 - The converse may not be true as different neuronal states can result in the same subjective state.
 - E.g. Different states of sleep all feel like sleep except for dreaming.

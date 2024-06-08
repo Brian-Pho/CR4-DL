@@ -325,7 +325,7 @@ excerpt: "My notes on papers exploring a brain-inspired way of computing."
 - E.g. Local, real-time speech translation or keyword detection in smart devices.
 - Admittedly, none of these examples rises to the level of a grand challenge that would mark a new milestone in AI progress.
 - To truly break new ground, we should look to the inherent scalability of neuromorphic systems.
-- Efficient progress critically depends on embracing the right benchmarks and measuring progress in order to provide the clearest possible view of the road ahead.
+- Efficient progress critically depends on embracing the right benchmarks and measuring progress to provide the clearest possible view of the road ahead.
 
 ## [An integrated brain-machine interface platform with thousands of channels](https://doi.org/10.1101/703801)
 

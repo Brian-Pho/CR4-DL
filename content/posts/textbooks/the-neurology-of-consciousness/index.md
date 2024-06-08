@@ -259,7 +259,7 @@ excerpt: "A collection of literature reviews on consciousness."
 - Predictive coding theory
     - Rather than information coming into the brain to generate consciousness, the brain reaches out with a prior model of perceptual reality.
     - Sensory information isn’t used to generate consciousness, but rather to detect errors or gaps between the model generated and what is sensed in the environment.
-    - The prediction error needs to be coded for in order to adjust the model, allowing for minimization of energy.
+    - The prediction error needs to be coded to adjust the model, allowing for minimization of energy.
     - Is a Bayesian perspective of brain function, where priors are updated and revised according to new information.
     - Events that remain stable and consistent don’t require much conscious attention, while error in prediction account for much of conscious content.
 - Integrated information theory

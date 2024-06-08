@@ -166,7 +166,7 @@ excerpt: "How culture is driving human evolution, domesticating our species, and
 - We also need to track the prey for several hours as the prey could go back into their group.
 - So hunters must be able to track and identify individuals.
 - This knowledge is cultural transmitted and must be learned from skilled hunters.
-- Another culturally transmitted trick is that hunters can strategically vary their speed in order to force their prey to run inefficiently.
+- Another culturally transmitted trick is that hunters can strategically vary their speed to force their prey to run inefficiently.
 - This is due to a body-design limitation that applies to quadrupeds but not to bipeds.
 - The result is that hunters force their prey into a series of sprints and rests that eventually causes heat stroke.
 - Even running isn't natural for us and is copied from skilled hunters.

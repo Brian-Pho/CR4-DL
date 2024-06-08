@@ -210,7 +210,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Neurological model
     - Serial
     - Word processing follows a single, invariant path.
-    - In order to access what the word means, the brain needs to know what the word sounds like.
+    - To access what the word means, the brain needs to know what the word sounds like.
     - We can’t read a word and then pronounce it without invoking what the word means.
 - Cognitive model
     - Parallel
@@ -1261,7 +1261,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Use embodied cognition in robotics to obtain behavior-based robotics.
 - Approach cognition in terms of how it’s affected by the physical body.
 - Both approaches question the necessity of modeling cognition as information processing.
-- Do we really need the framework assumption that cognition is information processing in order to understand the full range of behaviors and achievements of which cognitive agents are capable?
+- Do we really need the framework assumption that cognition is information processing to understand the full range of behaviors and achievements of which cognitive agents are capable?
 
 ## Chapter 14: The cognitive science of consciousness
 

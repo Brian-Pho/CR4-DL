@@ -72,7 +72,7 @@ excerpt: "My notes on 20 papers exploring the brain."
 - The experience of time isn’t like qualia as it’s more abstract like space, number, size, and magnitudes.
 - So time forms part of the perceptual field within which qualia contents are experienced.
 - The key to time consciousness is to relate the duration of a stimuli, their neural representation, and their subjective experience.
-- All three need to be explained by a single theory of consciousness in order to satisfy our criteria for time consciousness that’s long, continuous, and dynamic.
+- All three need to be explained by a single theory of consciousness to satisfy our criteria for time consciousness that’s long, continuous, and dynamic.
 
 ## [Fear and panic in humans with bilateral amygdala damage](https://doi.org/10.1038/nn.3323)
 

@@ -152,7 +152,7 @@ excerpt: "How to distinguish good explanations from bad explanations in neurosci
 - Objections to the CL model
     - The problem of distinguishing laws of nature from accidents.
     - The problem of providing an account of explanatory relevance.
-    - The fact that one doesn’t need to show that a phenomenon was to be expected in order to explain it.
+    - The fact that one doesn’t need to show that a phenomenon was to be expected to explain it.
 - The crucial difference between arguments and explanations.
 - E.g. Suppose a neuron was first blessed by a person and then stimulated with a 10 nanoampere current for one second. This experiment would confirm the general regularity that blessed neurons produce APs when stimulated with a 10 nA current. From this regularity, one could conclude that when a given cell has been blessed and stimulated with a 10 nA current, it will generate an AP.
 - But the blessing isn’t part of the explanation, it’s irrelevant.

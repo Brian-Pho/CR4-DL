@@ -37,7 +37,7 @@ excerpt: "My notes on papers exploring artificial intelligence."
 
 - Paper details ten concerns for deep learning (DL).
 - Is deep learning approaching a wall?
-    - The purpose of this paper is to both temper some irrational exuberance regarding DL and to also consider what we (as a field) might need in order to move forward.
+    - The purpose of this paper is to both temper some irrational exuberance regarding DL and to also consider what we (as a field) might need to move forward.
     - This is a good moment for critical reflection on what DL has and hasn’t been able to achieve.
 - What deep learning is, and what it does well
     - Deep Learning (DL): a statistical technique for classifying patterns using neural networks with multiple layers.

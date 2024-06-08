@@ -283,9 +283,9 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - Coding
     - Early studies suggest that external input is represented in the brain by neuronal firing rates.
     - *Firing rate*: number of spikes in a specified time window.
-    - Since interspike intervals vary from one spike to the next, we need to average over several spikes in order to get a reasonable estimate of the firing rate.
+    - Since interspike intervals vary from one spike to the next, we need to average over several spikes to get a reasonable estimate of the firing rate.
     - In many experiments, the time window is 100 ms or longer.
-    - If temporal averaging isn’t just an experimental convenience but the actual code used by neurons, then a neuron further down in the processing stream would have to average its input spike trains over at least 100 ms in order to decode the message of the presynaptic neuron.
+    - If temporal averaging isn’t just an experimental convenience but the actual code used by neurons, then a neuron further down in the processing stream would have to average its input spike trains over at least 100 ms to decode the message of the presynaptic neuron.
     - Also, this firing rate coding scheme would make transmission of input that’s modulated at 10 Hz or faster difficult due to the need to average.
     - Thus, a naïve rate coding with a time window of 100 ms imposes a cut-off frequency of 10 Hz.
 - Reaction time experiments offer a direct way to measure the performance of a system as a whole.
@@ -476,7 +476,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
         - Rather, they must be inferred based on global context and higher-level knowledge, but the global context isn’t clear until there’s some degree of certainty about the presence of low-level features.
         - E.g. Kanizsa Illusion.
 ![Kansia Illusion](kanizsa-illusion.png)
-        - Some theorists have argued that recognition depends on information circulating through corticocortical feedback loops in order to disambiguate representations at both levels in parallel.
+        - Some theorists have argued that recognition depends on information circulating through corticocortical feedback loops to disambiguate representations at both levels in parallel.
         - But this doesn’t match our results of how we can recognize objects so quickly.
         - There’s a rich set of feedback connections from higher levels into V1, but little is known about the computational role of these connections.
         - One hypothesis is that these higher areas play a role in enhancing the salience of stimuli.
@@ -493,7 +493,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
         - E.g. Pooling results in a dense, distributed representation of contours among the population of complex cells, whereas routing results in a sparse representation.
         - One of the main predictions of the dynamic routing model is that the receptive fields of the invariant neurons would be expected to shift depending on the state of the control neurons.
         - More experiments are needed to properly characterize the invariance properties of visual neurons under normal viewing conditions.
-- Authors emphasize the need for using natural scenes and multiunit recording in order to obtain a more representative picture of V1 function.
+- Authors emphasize the need for using natural scenes and multiunit recording to obtain a more representative picture of V1 function.
 - While single-unit, reductionists approaches have been useful, we feel that it’s usefulness as a tool has been exhausted.
 - A complete understanding of V1 should have at least three ingredients
     1. An unbiased sample of neurons of all types, firing rates, and layers of V1.
@@ -634,7 +634,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
 
 ## Chapter 15: How Does the Hearing System Perform Auditory Scene Analysis?
 
-- In order to identify sound sources, the auditory system must group together sounds coming from one source and separate them from other sources.
+- To identify sound sources, the auditory system must group together sounds coming from one source and separate them from other sources.
 - This perceptual process is called “auditory scene analysis” since it resembles the analysis of objects in visual scenes.
 - On the one hand, learning and memory allow the creation of composite-feature detectors in the sensory system that could be involved in selecting objects from an auditory scene.
 - On the other hand, many processes have been identified that don’t require learning and memory and can enable the auditory system to single out objects in a bottom-up process.
@@ -759,7 +759,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - IPL not only appears to play a fundamental role in space perception, but it’s also necessary for object awareness.
 - E.g. Patients with right parietal lesions have extinction (when two stimuli are presented simultaneously but one is ignored) but when forced to make a same-different decision regarding the two stimuli, they were still able to answer correctly even though they were unaware of the ignored stimulus’s presence.
 - This shows a capacity for processing object information, such as category, without being aware in the case of lesion of IPL.
-- This also implies that subjects must have parieto-frontal sensorimotor circuit intact in order to achieve object awareness.
+- This also implies that subjects must have parieto-frontal sensorimotor circuit intact to achieve object awareness.
 - The ventral stream’s processing isn’t enough to get perception without parietal spatial processing.
 - The VD stream, in addition to organizing movements requiring space computation, is also involved in the organization of grasping and manipulating hand movements.
 - These movements require the computation of the size and shape of objects rather than space.

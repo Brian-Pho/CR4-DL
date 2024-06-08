@@ -70,7 +70,7 @@ excerpt: "The Neuroscience and Physics of Time."
     1. The brain is a machine that remembers the past to predict the future.
         - The degree to which animals succeed in predicting the future translates into the evolutionary currency of survival and reproduction.
         - The brain is, at its core, a prediction or anticipation machine.
-        - In order to predict the future, the brain stores a vast amount of information in the form of memories.
+        - To predict the future, the brain stores a vast amount of information in the form of memories.
     2. The brain is a machine that tells time.
         - The brain is trained to recognize and generate temporal patterns.
         - E.g. Rhythms and motor control.

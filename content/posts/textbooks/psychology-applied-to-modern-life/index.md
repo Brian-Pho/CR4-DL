@@ -516,7 +516,7 @@ excerpt: "An introduction to the field of psychology."
 - Factors that influence self-concept
     - Self-observations
         - People begin observing and judging their own behavior early in life.
-        - *Social comparison theory*: individuals compare themselves with others in order to assess their abilities and opinions.
+        - *Social comparison theory*: individuals compare themselves with others to assess their abilities and opinions.
         - Social comparison is used to accurately assess one’s abilities, but also to improve their skills and to maintain their self-image.
         - E.g. Comparing your current self to your past self.
         - *Reference group*: a set of people who are used as a gauge in making social comparisons.
@@ -764,7 +764,7 @@ excerpt: "An introduction to the field of psychology."
 - Lowballing is a surprisingly effective strategy to get someone to commit.
 - *Reciprocity principle*: the rule that one should pay back in kind what one receives from others.
 - E.g. Charities frequently make use of this principle.
-- *Door-in-the-face (DITF) technique*: making a large request that is likely to be turned down in order to increase the chances that people will agree to a smaller request later.
+- *Door-in-the-face (DITF) technique*: making a large request that is likely to be turned down to increase the chances that people will agree to a smaller request later.
 - E.g. Starting with a high priced car but then trying to sell a lower priced car.
 - DITF only works if there’s no delay between the two requests.
 - Advertisers often try to artificially create scarcity to make their products seem more desirable.

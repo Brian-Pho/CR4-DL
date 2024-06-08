@@ -24,7 +24,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 ![Figure 1.2](figure1-2.png)
 - Networks of neurons have information-processing capabilities beyond that of single neurons such as representing information in a distributed way.
 - E.g. Edge detector network. A single neuron isn’t able to detect an edge but a group of neurons can.
-- *Model*: a simplification/abstraction of a system in order to test aspects of it or a hypothesis.
+- *Model*: a simplification/abstraction of a system to test aspects of it or a hypothesis.
 - It’s questionable how much more we would comprehend about the functionality of the brain with extremely complex and detailed models.
 - E.g. Blue Brain Project
 - The current state of neuroscience is exploratory in nature, not explanatory.

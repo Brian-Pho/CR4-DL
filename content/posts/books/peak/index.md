@@ -282,6 +282,6 @@ excerpt: "Secrets from the new science of expertise."
     - Before class they had to read assigned sections ann then complete a short quiz about the reading.
     - They had discussions.
     - Think of Make It Stick
-- You pick up the necessary knowledge in order to develop the skills; knowledge should never be an end in itself.
+- You pick up the necessary knowledge to develop the skills; knowledge should never be an end in itself.
 - You don't build mental representations by thinking about something, you build them by trying to do something, failing, revising, and trying again, over and over.
 - Instead of planning for what a student should know, plan for what they should be able to do.
