@@ -224,6 +224,7 @@ excerpt: "An introduction to JavaScript."
 - *Synchronous*: things happen one at a time.
 - *Asynchronous*: multiple things happen at the same time.
 
+
 ![Figure 11.1](figure11-1.png)
 
 - One approach to asynchronous programming is to make functions that are slow to take an extra argument called a callback function.
@@ -330,6 +331,7 @@ excerpt: "An introduction to JavaScript."
 - *Document Object Model (DOM)*: representing a webpage as a series of nested boxes.
 - For the DOM, `document.documentElement` is the root element.
 - DOM nodes contains various links to other nearby nodes.
+
 
 ![Figure 14.1](figure14-1.png)
 

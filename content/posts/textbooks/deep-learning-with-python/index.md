@@ -85,10 +85,10 @@ my_slice = train_images[:, 14:, 14:]
     - *Vector data*: 2D tensors of (samples, features)
         - E.g. Storing age, ZIP code, and income of each person. (num_people, num_features=3)
     - *Timeseries/sequence data*: 3D tensors of (samples, timesteps, features)
-![Figure 2.3](figure2-3.png)
+        ![Figure 2.3](figure2-3.png)
         - E.g. Stock prices. (num_days, num_mins_per_day, num_features)
     - *Images*: 4D tensors of (samples, height, width, channels)
-![Figure 2.4](figure2-4.png)
+        ![Figure 2.4](figure2-4.png)
         - E.g. Batch of 128 grayscale images of 256 x 256. (128, 256, 256, 1)
     - *Videos*: 5D tensors of (samples, frames, height, width, channels)
         - E.g. 4 Youtube videos that’s 60 seconds long, 5 frames per second, and has a resolution of 1920 x 1080. (num_videos=4, num_frames=300, 1920, 1080, 3)
@@ -479,6 +479,7 @@ layer_output *= np.random.randint(0, high=2, size=layer_output.shape)
 layer_output *= p
 ```
 
+
 ![Figure 4.8](figure4-8.png)
 
 - <https://stats.stackexchange.com/questions/241645/how-to-explain-dropout-regularization-in-simple-terms>
@@ -566,10 +567,10 @@ model.add(layers.Dense(1, activation='sigmoid'))
     - Strides
 - Border effects and padding
     - If you use a sliding window on the raw input, the output will decrease in dimensions due to not being able to use the edge.
-![Figure 5.5](figure5-5.png)
+    ![Figure 5.5](figure5-5.png)
     - To get the output feature map to have the same spatial dimensions as the input, you can use padding.
     - *Padding*: adding an appropriate number of rows/columns to the input to fit center convolution windows around every input tile.
-![Figure 5.6](figure5-6.png)
+    ![Figure 5.6](figure5-6.png)
     - There are two padding arguments in Keras
         - *Valid*: no padding (only valid window locations are used).
         - *Same*: pad so that the output will have the same dimensions as the input.
@@ -784,6 +785,7 @@ c_t+1 = i_t * k_t + c_t * f_t
 ![Figure 7.1](figure7-1.png)
 ![Figure 7.2](figure7-2.png)
 ![Figure 7.3](figure7-3.png)
+
 ![Figure 7.5](figure7-5.png)
 
 - The Keras functional API lets you use layers as functions.

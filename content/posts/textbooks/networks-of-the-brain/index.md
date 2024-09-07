@@ -579,7 +579,7 @@ excerpt: "How the nature of brain function can be illuminated from a network per
         - E.g. Complexity is high when order and disorder coexist, and low when order or disorder prevail.
         - Highly relevant to biological systems.
         - This measure places complex systems on a continuum between randomness and regularity.
-![Figure 13.1](figure13-1.png)
+        ![Figure 13.1](figure13-1.png)
         - The brain’s structure and function most closely matches a mix of order and disorder, of randomness and regularity, of segregation and integration.
         - Order and disorder are closely related to information and entropy, so it’s no surprise that many measures of complexity use information as their building block.
 - From an information point-of-view, nervous systems need to manage two competing demands.

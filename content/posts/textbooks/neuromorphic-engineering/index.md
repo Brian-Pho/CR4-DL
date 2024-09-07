@@ -53,9 +53,9 @@ excerpt: "The scientist's, algorithms designer's, and computer architect's persp
         - Alan Turing argued that not making mistakes isn’t a requirement for intelligence.
     - In-memory computing
         - If the brain were organized in the von-Neumann architecture, we would separate neurons from synapses and they would communicate over a data bus.
-![Figure 2.7](figure2-7.png)
+        ![Figure 2.7](figure2-7.png)
         - In the brain, memory, computation, and communication are tightly integrated and distributed over a communication fabric.
-![Figure 2.8](figure2-8.png)
+        ![Figure 2.8](figure2-8.png)
         - The data bus should be the synapse.
         - Each unit is independent and isn’t synchronized by a master clock unlike a computer.
 - Neuromorphic computing isn’t suitable for every task since it’s overqualified for low precision applications (analog systems) and underqualified for high precision applications (digital systems).
@@ -112,7 +112,7 @@ excerpt: "The scientist's, algorithms designer's, and computer architect's persp
 - To go from modeling point process to spatial neurons requires the propagation of voltage through space and time.
 - This is captured using a cable or a continuous representation of a segment of dendrite or axon.
 - E.g. We can use multiple connected LIF models to describe a cable.
-![Figure 6.1](figure6-10.png)
+![Figure 6.1](figure6-1.png)
 - We can scale up the cable model by connecting it in a branching architecture to other cables, creating arbitrarily complicated morphologies.
 ![Figure 6.5](figure6-5.png)
 
@@ -224,13 +224,13 @@ excerpt: "The scientist's, algorithms designer's, and computer architect's persp
 ![Figure 12.5](figure12-5.png)
 ![Figure 12.6](figure12-6.png)
 - Decoding a spike representation
-![Figure 12.8](figure12-8.png)
+    ![Figure 12.8](figure12-8.png)
     - To decode a set of spikes into a stimulus, we need to define a window of time that continuously contributes to the decoding.
     - This can be done using convolution.
     - A biologically plausible choice for the convolution window is an exponentially decaying filter.
     - This filter matches the decay of neurotransmitter at the synapse.
     - Using more neurons, we can more accurately decode the spike representation.
-![Figure 12.11](figure12-11.png)
+    ![Figure 12.11](figure12-11.png)
     - However, the distribution of tuning curves in the population also affects the ability to accurately decode the representation.
     - E.g. The greater the distribution, the more accurate the decoding.
 - Transformation

@@ -330,7 +330,7 @@ excerpt: "My notes on 20 papers exploring the brain."
 - From theory to experiment
     - Computational models can be characterized by their cognitive and biological fidelity.
         - E.g. Models that capture only neuronal components and dynamics tend to be unsuccessful at explaining cognitive function, and vice versa.
-![Figure 3](figure3-8.png)
+    ![Figure 3](figure3-8.png)
     - Neural network models
         - These models have been essential to understanding the dynamics in biological neural networks and elementary computational functions.
         - They also provide a common language for building task-performing models that meet the combined criteria for success of the three disciplines.
@@ -460,7 +460,7 @@ excerpt: "My notes on 20 papers exploring the brain."
 - Color vision is uniform despite enormous variability in L:M cone ratio
     - Experiment is that subjects have to select the color that is “uniquely yellow”, a yellow that’s neither reddish or greenish and has a very specific wavelength.
     - Subjects have varied L:M cone ratios but they all selected a color that was very similar to each other.
-![Figure 1](figure1-10.png)
+    ![Figure 1](figure1-10.png)
     - We predict that subjects with more L cones would select a greenish yellow, while subjects with more M cones would select a reddish yellow (flipped because of adaptation).
     - However, this experiment shows that this isn’t the case.
     - The lack of association between variation in cone ratio and unique yellow may be due to if the red and green chromatic channels were adjustable.
@@ -488,7 +488,7 @@ excerpt: "My notes on 20 papers exploring the brain."
     - One possible answer is that M cones absorb fewer photons compared to L cones, about six to seven photons for every ten absorbed by L cones.
     - So, we hypothesize that the normalization mechanism that adjusts the relative gain of L and M cones is due do the difference in absorption of photons. Thus, we predict a compensating reduction in the relative weighting for the L cone input by 0.60-0.70, just as observed.
     - With the experiments above, we see a change in gain of about plus/minus 10%, showing that a plastic neural mechanism controls the gain.
-![Figure 4](figure4-10.png)
+    ![Figure 4](figure4-10.png)
     - How about over the long term?
     - We can study congenital color blind people to see the effects of color vision deficiency over a lifetime of abnormal input.
     - Results suggest that the gain adjustment is near the theoretical limit in color blind people and it’s possible the gain mechanism is fully adjustable and could be set to any value dictated by the environment.
@@ -738,7 +738,7 @@ excerpt: "My notes on 20 papers exploring the brain."
     - Spike trains from retinal ganglion cells can be very precise and reliable.
         - Rapid intensity transients appear to be a key stimulus feature for triggering precisely timed spikes.
         - Instead of firing rate conveying stimulus information, it appears that the time of its first spike and the total number of spikes in the event conveys it.
-![Figure 5](figure5-14.png)
+    ![Figure 5](figure5-14.png)
     - Retinal processing adapts to higher stimulus statistics.
         - To encode the visual scene under many conditions, the retina must efficiently match the dynamic range of its output neurons to the range of sensory inputs.
         - Mean light intensity is one statistic, other statistics include whether the illumination is by direct light or indirect light.
@@ -998,7 +998,7 @@ excerpt: "My notes on 20 papers exploring the brain."
     - Each nucleus also has a unique location, set of connections, and function.
     - The core region of the brainstem was labeled as the reticular formation (RF) because neurons in that region were surrounded by interlacing fibers, which gave the region the appearance of a “reticulum” or web.
     - The RF projects to the intralaminar nuclei of the thalamus.
-![Figure 1](figure1-20.png)
+    ![Figure 1](figure1-20.png)
     - Lesions that cause coma or persistent vegetative state in humans lie in the central and dorsal regions of the brainstem, extending from the middle pons to the upper midbrain, a sizeable part of the general region in which the RF is located.
     - The RF isn’t a homogeneous mesh of neurons but a collection of anatomically and functionally different nuclei. So each component of the RF may have a distinct role in modulating the electrophysiological activity of the cerebral cortex.
     - Different ascending channels from the RF use different neurotransmitters, thus modulating the electrophysiological activity of the cerebral cortex through different mechanisms.

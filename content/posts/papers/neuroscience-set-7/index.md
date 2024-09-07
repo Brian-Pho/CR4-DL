@@ -237,7 +237,7 @@ excerpt: "My notes on 20 papers exploring the brain."
     - PSD area correlated with the release probability of connections.
     - Crucially, our estimates for the number of release sites exceeded the number of synapses for all connections by an average factor of 4.4.
     - This implies that L2/3 pyramidal cells must operate predominately through multivesicular release.
-![Figure 4](figure4-5.png)
+    ![Figure 4](figure4-5.png)
     - We also found no correlation between estimated quantal size and PSD area, consistent with multivesicular release.
 - Electron microscopy revealed synapses at only a minority of all axodendritic contacts between the neurons identified by light microscopy, prompting re-evaluation of studies that use light microscopy as they overestimate the actual number of synapses.
 - The notion that different neocortical synapse types use different release modes is questionable.
@@ -536,7 +536,7 @@ excerpt: "My notes on 20 papers exploring the brain."
 - Given that our knowledge is incomplete but rapidly expanding, we recognize that some of the points made in this paper are speculative and controversial.
 - Evoked functional activity
     - Behaviorally evoked changes in blood flow are at the heart of functional brain imaging signals.
-![Figure 1](figure1-10.png)
+    ![Figure 1](figure1-10.png)
     - The fact that regional brain circulation is evoked by mental performance was first noticed by the Italian physiologist Mosso in 1878 when he noticed that a subject with a bony defect in his skull had faster brain pulsations in the right prefrontal cortex when performing calculations.
     - Despite the centrality of blood-flow changes to functional imaging signals, the complexity of the relationship between blood flow and metabolism has only recently become more appreciated.
     - One unresolved issue is why blood flow changes with brain activity.
@@ -569,7 +569,7 @@ excerpt: "My notes on 20 papers exploring the brain."
     - However, evidence for this hypothesis is controversial.
     - The vast majority of the energy consumed by the brain is produced by the metabolism of glucose to carbon dioxide and water.
     - Review of glycolysis and oxidative phosphorylation.
-![Figure 3](figure3-10.png)
+    ![Figure 3](figure3-10.png)
     - Oxidative phosphorylation is more efficient than glycolysis because it produces more ATP, but glycolysis can be used during rapid increases in neuronal activity.
     - Glycolysis is faster and can operate without oxygen.
     - No notes on the role of astrocytes in brain metabolism.
@@ -589,7 +589,7 @@ excerpt: "My notes on 20 papers exploring the brain."
     - We found no area that exhibited a decrease in OEF in the resting state.
     - We argue that brains are never at a zero-activity level and that such a view often encourages loose and misleading use of the term “activation”.
     - We can monitor activity increases (activations) with fMRI BOLD contrast because when blood flow increases more than oxygen consumption, this creates a local increase in the amount of oxygenated hemoglobin.
-![Figure 6](figure6-10.png)
+    ![Figure 6](figure6-10.png)
     - This increase in blood flow is accompanied by an increase in aerobic glycolysis, thus aerobic glycolysis provides us a window that we can use to observe changes in brain activity.
 - Spontaneous functional activity
     - Anyone who does fMRI BOLD imaging is aware that unaveraged MRI signals are quite noisy.
@@ -689,7 +689,7 @@ excerpt: "My notes on 20 papers exploring the brain."
     - If we answer “yes”, then we go to the next step.
 - Step 2: Optogenetically disconnecting neurons
     - After recording all APs, we use optogenetic tools to disconnect all of the synapses in the subject’s brain.
-![Figure 2](figure2-12.png)
+    ![Figure 2](figure2-12.png)
     - E.g. Shining light on the subject’s brain blocks all synaptic transmission which functionally disconnects all neurons from each other. Turning off the light releases the block and causes all synapses to reconnect.
     - Typically, blocking synaptic transmission will dramatically change the neurons’ firing patterns by preventing neurons from activating each other.
     - However, because we control the firing of all neurons, they fire precisely as in Step 1 despite being disconnected.
@@ -700,7 +700,7 @@ excerpt: "My notes on 20 papers exploring the brain."
     - If “yes”, then we go to the next step.
 - Step 3: Physically disconnecting neurons
     - Suppose we cut and remove the visual cortex from the subject’s brain and replay the APs in all neurons, including the neurons in the removed areas.
-![Figure 3](figure3-12.png)
+    ![Figure 3](figure3-12.png)
     - Will the subject consciously perceive green light during the replay, despite having no visual cortex?
     - If “no”, this challenges the reader to explain why synaptic disconnection in Step 2 doesn’t change conscious perception, but why physical disconnection does.
     - If “yes” after cutting the visual cortex but “no” after its removal, this implies that the distance of the resected neurons from the rest of the brain is vital for conscious perception.
@@ -780,7 +780,7 @@ excerpt: "My notes on 20 papers exploring the brain."
     - Similar results have been reported using different tagging methods across multiple brain regions for a variety of different memory tasks, supporting the existence of engrams.
     - However, causal studies are necessary to show that these reactivated engram cells do function as part of the internal representation of an experience.
     - For loss-of-function studies, we try to capture and disrupt engram cells before a memory test.
-![Figure 1](figure1-13.png)
+    ![Figure 1](figure1-13.png)
     - Results from these studies suggest that neurons active during an experience become engram cells that are needed for successful memory expression.
     - Gain-of-function studies try to induce memory retrieval in the absence of natural retrieval cues by artificially reactivating engram cells.
     - Artificial optogenetic or chemogenetic reactivation of tagged or allocated engram cells across several brain regions induced memory expression without external sensory retrieval cues in a variety of tasks.
@@ -817,7 +817,7 @@ excerpt: "My notes on 20 papers exploring the brain."
     - How do engrams representing different experiences interact?
     - Neurons that are more excitable than their neighbors at the time of an experience are more likely to be allocated to the engram.
     - Therefore, if a related experience occurs in this time window, these same or overlapping engram cells are coallocated to the engram, supporting and linking both experiences.
-![Figure 5](figure5-13.png)
+    ![Figure 5](figure5-13.png)
     - Results from experiments support this hypothesis as the representations of memories for events experienced close in time or with overlapping content may be integrated or linked, enabling generalization and flexibility.
 - We agree with Endel Tulving in that there must be specific physical changes in the brain that correspond to the storage of information. The alternative, that any behavior or thought can occur independently of physical changes, is sheer mysticism.
 - Findings converge to support the idea that complex information may not be represented in single cells, such as a grandmother cell, but instead suggest that the basic unit of computation in the brain is an engram.
@@ -850,7 +850,7 @@ excerpt: "My notes on 20 papers exploring the brain."
     - Absolute brain size is the most general of all brain properties and we assume that larger brains are more intelligent than smaller brains.
     - However, this assumption is challenged by the fact that monkeys have smaller brains than ungulates but have higher cognitive and behavioral flexibility.
     - Humans are supposedly the smartest creature on earth and yet some elephants and some cetacean (whales and dolphins) have larger brains than us.
-![Figure 1](figure1-14.png)
+    ![Figure 1](figure1-14.png)
     - Thus, absolute brain size doesn’t necessarily relate to intelligence.
     - Another general brain property is brain size relative to body size.
     - As body size increases, absolute brain size increases but relative brain size may not increase.
@@ -1088,7 +1088,7 @@ excerpt: "My notes on 20 papers exploring the brain."
     - Receptive field (RF): a specific part of the visual field that causes visual cortex neurons to respond with a high firing rate.
     - The location of the RF of cortical neurons remains relatively constant within a vertical cortical column and progressively changes with movement across the cortical surface.
     - With this, the entire visual field is mapped across V1 in a very organized manner called a retinotopic map.
-![Figure 1](figure1-17.png)
+    ![Figure 1](figure1-17.png)
     - Importantly, different parts of the visual field aren’t equally represented in V1.
     - E.g. More cortical area is given to represent the fovea and the central visual field than to the peripheral visual field.
     - Cortical magnification factor (CMF): the amount of cortex, in millimeters, devoted to representing one degree of visual space.
@@ -1124,7 +1124,7 @@ excerpt: "My notes on 20 papers exploring the brain."
     - The plateau may be due to changes in the balance between excitatory and inhibitory circuits or the inefficiency to propagate the signal any further.
     - Phosphene size also changes as eccentricity, or distance from the fovea, changes.
     - We developed a model to integrate both current magnitude and eccentricity as controlling phosphene size.
-![Figure 10](figure10-17.png)
+    ![Figure 10](figure10-17.png)
     - DCS in areas outside of primary sensory areas usually don’t produce a percept but instead disrupt normal function.
     - This is used during clinical mapping where key cognitive functions, such as speech perception and production, are tested during stimulation. If the function is disrupted, then the cortex under the electrode isn’t removed, preventing postsurgical deficits.
     - In cases where stimulation impairs task performance, the patient can still clearly report seeing the stimulus.

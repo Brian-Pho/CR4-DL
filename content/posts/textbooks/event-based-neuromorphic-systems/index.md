@@ -80,9 +80,9 @@ excerpt: "An incomplete set of notes from a modern neuromorphic computing textbo
 - Arbitration methods
     - Bus sensing: if the bus is currently occupied when a spike is received, discard the spike. This results in lost spikes due to bus contention.
     - Tree arbitration: spikes are queued. No events are lost but spike timing information isn’t preserved for simultaneous spikes.
-![Figure 2.4](figure2-4.png)
+    ![Figure 2.4](figure2-4.png)
     - Greedy tree arbitration: a variant of tree arbitration where the token is propagated to the other input before returning to the root of the tree.
-![Figure 2.5](figure2-5.png)
+    ![Figure 2.5](figure2-5.png)
     - Ring arbitration: when the write token stays at a fixed location until a request for the token travels around the ring until the token is found.
 - Multidimensional arbitration occurs in 2D neuron arrays where there must be row and column arbitration.
 - Another method of dealing with arbitration is to eliminate it by allowing any active element to immediately place its address on a common bus.
@@ -125,7 +125,7 @@ excerpt: "An incomplete set of notes from a modern neuromorphic computing textbo
 - It’s unlikely that CSMA/ALOHA will prove useful for neuromorphic systems.
 - Evolution of AER links
     - Single sender, single receiver
-![Figure 2.14](figure2-14.png)
+    ![Figure 2.14](figure2-14.png)
     - Multiple senders, multiple receivers
     - Parallel signal protocol
     - Word-serial addressing
@@ -162,7 +162,7 @@ excerpt: "An incomplete set of notes from a modern neuromorphic computing textbo
         - Responds asynchronously to relative temporal changes in intensity.
         - Sensor outputs an asynchronous stream of pixel address-events (AEs) that encode scene reflectance changes.
         - Models three key properties of biological retinas: sparse event-based output, representation of relative luminance change, and rectification of positive and negative signals into separate output channels.
-![Figure 3.3](figure3-3.png)
+    ![Figure 3.3](figure3-3.png)
     - Asynchronous time-based image sensor (ATIS)
         - Combines a DVS pixel with an intensity measurement unit (IMU) in each pixel.
         - ATIS pixel asynchronously requests access to an output channel only when it has a new illumination value to communicate.

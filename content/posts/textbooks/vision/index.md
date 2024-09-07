@@ -118,9 +118,9 @@ excerpt: "A computational investigation into the human representation and proces
         - The author and Hildreth argue that the the operator that captures the both of these features is the Laplacian operator on the 2D Gaussian distribution ($$\nabla^{2}G$$).
         - This Mexican-hat-shaped operator blurs the image, wiping out all structure at scales smaller than the space constant of the Gaussian.
         - It also performs a similar operation to a ON/OFF-receptive field.
-![Figure 2.11](figure2-11.png)
+        ![Figure 2.11](figure2-11.png)
         - The critical fact about the Mexican-hat operator is that its zero-crossings mark intensity changes.
-![Figure 2.12](figure2-12.png)
+        ![Figure 2.12](figure2-12.png)
         - The operator may be physiologically realized by ON- and OFF-center retinal ganglion cells.
         - What do we do with the information from the $$\nabla^{2}G$$ filters?
     2. Formation of the raw primal sketch
@@ -250,7 +250,7 @@ excerpt: "A computational investigation into the human representation and proces
     - It’s unknown whether optical flow is used in human vision.
 - Shape contours
     - How does the brain convert the 2D contours from the retina into 3D shapes?
-![Figure 3.56](figure3-56.png)
+    ![Figure 3.56](figure3-56.png)
     - Contours can be defined on a surface in many ways and should be detected early on in visual processing.
     - Contour: the outline or shape of something.
     - Three types of contours

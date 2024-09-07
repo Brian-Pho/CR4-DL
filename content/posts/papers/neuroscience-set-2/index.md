@@ -584,7 +584,7 @@ excerpt: "My notes on 20 papers exploring the brain."
         - Evidence indicates that fast trial-by-trial error-based learning relies on the cerebellum.
         - E.g. Cerebellar lesions result in substantial impairment in fast adaptation across many task domains.
         - How the cerebellum and cortex interact during error-based learning and where different types of adaptation are stored remains an open question.
-![Figure 1](figure1-13.png)
+        ![Figure 1](figure1-13.png)
         - During error-based learning, the system exploits a directional/signed error signal and follows an internal estimate of the gradient in this direction and thus, serves to calibrate and correct for any systematic biases.
     - Reinforcement learning
         - Error-based learning can reduce the average error to zero, but once this is achieved, it doesn’t provide a mechanism to further improve performance.

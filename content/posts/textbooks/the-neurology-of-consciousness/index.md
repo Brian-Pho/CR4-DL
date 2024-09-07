@@ -735,7 +735,7 @@ excerpt: "A collection of literature reviews on consciousness."
     - During NREM sleep, if TMS is applied, it remains localized to the site of stimulation without spreading out and activating connected brain regions.
     - There’s a correlation between the reduced level of consciousness during sleep and the break down of connectivity among cortical regions.
     - Measurements suggest that the sleeping brain becomes bistable. It either breaks down in causally independent modules or bursts into a global, stereotypical response.
-![Figure 25.3](figure25-3.png)
+    ![Figure 25.3](figure25-3.png)
     - Lucid dreaming is a good example of the dissociation between consciousness and reflective consciousness.
 - Anesthesia
     - After sleeping, anesthesia is the next most common manipulation of the level of consciousness.

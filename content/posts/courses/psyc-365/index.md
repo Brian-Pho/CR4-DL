@@ -27,7 +27,7 @@ excerpt: "Cognitive Psychology"
         - Sense information → Short-term memory (buffer) → Filter based on only physical characteristics → Selected input for attention
         - Some cogsci think it doesn’t actually work this way
     - Waugh and Norman’s model: information that isn’t selected is lost
-![Image result for Waugh and Norman’s model](https://psikologikognitifduinmaliki.files.wordpress.com/2016/10/p034.jpg)
+    ![Image result for Waugh and Norman’s model](https://psikologikognitifduinmaliki.files.wordpress.com/2016/10/p034.jpg)
     - Brown-Peterson Task tests short term memory.
 - Ecological validity
     - Not all stimuli are created equal.

@@ -43,7 +43,7 @@ excerpt: "An introduction to the field of neuroscience."
     - E.g. Using mice to test new drugs.
 - The neuron as the basic functional unit of the brain
     - Are nerves like blood vessel in that they’re continuous?
-![Figure 1.15](figure1-15.png)
+    ![Figure 1.15](figure1-15.png)
     - No, they’re discrete. Perhaps like why we have computer connections (E.g. USB) so that they’re easily interchangeable.
 - Levels of analysis in neuroscience
     - *Molecular*: emphasis on different molecules and their roles.
@@ -108,7 +108,7 @@ excerpt: "An introduction to the field of neuroscience."
     - *Axon terminal*: the end site of the axon.
 - Synapse details
     - *Synapse*: a specialized junction where one neuron contacts and communicates with another neuron.
-![Figure 2.16](figure2-16.png)
+    ![Figure 2.16](figure2-16.png)
     - *Synaptic vesicle*: small bubbles of membrane that holds neurotransmitters.
     - The synapse has two sides, presynaptic and postsynaptic, to denote the flow of information.
         - *Presynaptic*: the side of the synapse that sends the action potential.
@@ -126,7 +126,7 @@ excerpt: "An introduction to the field of neuroscience."
         - *Filtering*: places an upper limit on the frequency of depolarization.
 - Dendrite details
     - *Receptors*: protein molecules that detect neurotransmitters in the synaptic cleft.
-![Figure 2.19](figure2-19.png)
+    ![Figure 2.19](figure2-19.png)
     - *Dendritic spines*: spines that poke out of dendrites.
 - *Multipolar*: more than three neurites.
 - Most neurons in the brain are multipolar.
@@ -346,6 +346,7 @@ excerpt: "An introduction to the field of neuroscience."
 
 ## Chapter 6: Neurotransmitter Systems
 
+
 ![Figure 6.1](figure6-1.png)
 
 - Strict definition of a neurotransmitter
@@ -495,14 +496,14 @@ excerpt: "An introduction to the field of neuroscience."
     - E.g. Visual space maps, sound frequency maps, body surface maps.
     - The spatial maps of chemical senses are unusual because the stimuli themselves have no meaningful spatial properties. Smell doesn’t have a "where", only a "what".
 ![Figure 8.18](figure8-18.png)
-![Figure 8.19](figure8-19.png)
+    ![Figure 8.19](figure8-19.png)
     - If spatial maps are created, who and how are they read?
     - An alternative is that spatial maps don’t encode odors but are simply the most efficient way for the nervous system to form connections between related sets of neurons.
     - Maybe spatial maps are a side effect of minimizing axon and dendrite length rather than being a fundamental mechanism of sensory coding.
 - Temporal coding in the olfactory system
     - *Temporal coding*: information that’s encoded in the timing of spikes.
     - Odor is encoded by the detailed timing of spikes within cells and between groups of cells, including the number of spikes, the temporal pattern, rhythmicity, and cell-to-cell synchrony of spikes.
-![Figure 8.20](figure8-20.png)
+    ![Figure 8.20](figure8-20.png)
     - Evidence of disrupting the spiking rhythm in bees lead to a loss of discrimination between similar odors but not general odors.
     - This implies that information is encoded by which neurons fire and when they fire.
 
@@ -657,11 +658,11 @@ excerpt: "An introduction to the field of neuroscience."
 - Louder sound → More basilar membrane movement → More hair cell depolarization and hyperpolarization → More neurons firing.
 - How is frequency represented in the central nervous system?
     - *Tonotopy*: the mapping of frequency to locations on the basilar membrane.
-![Figure 11.20](figure11-20.png)
+    ![Figure 11.20](figure11-20.png)
     - Just like how we could use current and resistance to multiply and thus compute, the auditory system uses properties of the real world to perform its computation.
     - However, tonotopy doesn’t code for frequencies below 200 Hz so there must be another way to code frequency.
     - *Phase locking*: the consistent firing of a cell at the same phase of a sound wave.
-![Figure 11.21](figure11-21.png)
+    ![Figure 11.21](figure11-21.png)
     - This shows how the timing of APs codes frequency information; the frequency of the neuron’s APs codes the frequency of the sound.
     - *Volley principle*: how the pooled activity of a group of neurons, each firing in a phase-locked manner, can code frequency.
     - However, phasing locking only works up to 5 kHz and anything above it is represented by tonotopy.
@@ -999,13 +1000,13 @@ excerpt: "An introduction to the field of neuroscience."
         - Word-based signals are passed from Wernicke’s area to Broca’s area
         - In Broca’s area, the words are converted to a code for the muscular movements required for speech
         - The muscle movements reach the lips, tongue, larynx, etc
-![Figure 20.7](figure20-7.png)
+    ![Figure 20.7](figure20-7.png)
     - Reading written text aloud information flow
         - Words reach the eyes
         - Retina converts it into APs
         - APs reach the visual cortex
         - APs then reach Wernicke’s area and follows the same pathway as speech
-![Figure 20.8](figure20-8.png)
+    ![Figure 20.8](figure20-8.png)
     - It’s assumed that reading and speech are both converted into the same abstract representation to be used by Wernicke’s area.
 - However, the Wernicke-Geschwind model has several errors and oversimplifications
     - Reading words doesn’t need to be transformed at Wernicke’s area and can skip directly to Broca’s area.

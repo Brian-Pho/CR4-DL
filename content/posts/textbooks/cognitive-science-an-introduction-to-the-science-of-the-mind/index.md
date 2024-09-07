@@ -168,6 +168,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 ### 3.2 The anatomy of the brain and the primary visual pathway
 
+
 ![Figure 3.3](figure3-3.png)
 
 - *Frontal lobe*: reasoning, planning, parts of speech, movement, emotions, and problem solving.
@@ -732,10 +733,10 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - This experiment and others seems to suggest that very young infants have an understanding of the basic principles governing how physical objects behave and interact.
 - The four basic principles of physical reasoning
     - *Principle of cohesion*: surfaces that are touching are one object
-![Figure 9.7](figure9-7.png)
+    ![Figure 9.7](figure9-7.png)
     - Infants show more surprise when the object comes apart, even if the object looks uniform.
     - *Principle of contact*: only surfaces that are in contact can move together
-![Figure 9.8](figure9-8.png)
+    ![Figure 9.8](figure9-8.png)
     - Infants show more surprise when both objects are moving but aren’t in contact with the each other
     - *Principle of solidity*: two or more objects cannot occupy the same space and time
     - *Principle of continuity*: objects don’t disappear

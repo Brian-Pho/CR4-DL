@@ -753,7 +753,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
         - Weak stimulation doesn’t evoke an eye movement but it does excite the neurons.
         - Weak stimulation appears to mimic the effects of covert attention.
     - Pulvinar of the thalamus
-![Figure 7.49](figure7-49.png)
+        ![Figure 7.49](figure7-49.png)
         - Ventral-stream visual areas V1, V2, V4, and IT project topographically to the ventrolateral pulvinar (VLP), which also sends projections back to these visual areas, forming a pulvinar-cortical loop.
         - May be involved in both voluntary and reflexive attention.
         - The dorsomedial pulvinar appear to play a major role in covert spatial attention and in the filtering of stimuli.

@@ -821,7 +821,7 @@ excerpt: "Common themes across various scales of neuroscience from chemistry to 
     2. Connect a dense array to a sparse array with extreme divergence and convergence.
     3. Connect many dense arrays to many other dense arrays with moderate divergence and convergence, preserving a high ratio of potential to actual synapses.
 - For the first task
-![Figure 13.4](figure13-4.png)
+    ![Figure 13.4](figure13-4.png)
     - It’s more efficient for the sender/receiver to have a shared output/input line than to have individual lines.
     - Think of it like an electrical bus for computers.
     - Example of this task is the retina.

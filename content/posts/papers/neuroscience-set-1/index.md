@@ -564,31 +564,31 @@ excerpt: "My notes on 20 papers exploring the brain."
 
 ## [The newly sighted fail to match seen with felt](https://www.nature.com/articles/nn.2795)
 
-- Molyneux problem: if a person born blind was able to see, would they recognize an object only previously known by touch?
-- A positive answer, in that a congenitally blind person could match a object visually to tactilely, would suggest that there’s an a priori (built-in) amodal (not dependent on sense) conception of space common to both senses.
-- A negative answer, in that there’s no match, would suggest that pairing visual and tactile information is experience-driven by the association between the senses.
+- Molyneux problem: if a person born blind was now able to see, would they recognize an object only previously known by touch?
+- A positive answer—a congenitally blind person could match an object visually to tactilely. This would suggest that there’s an a priori (built-in) and amodal (not dependent on sense) conception of space common to both senses.
+- A negative answer—there’s no match between sight and touch. This would suggest that pairing visual and tactile information is experience-driven by the association between the senses.
 - Critical conditions for testing the Molyneux problem
-    - Must be congenitally blind but treatable and mature enough.
+    - Must be congenitally/born blind but treatable and mature enough.
     - Both senses, touch and vision, must be independently functional after treatment.
-- An optically restored eye doesn’t imply the functional ability to make full use of the visual signals.
-- In other words, just because the eye can see doesn’t mean that the brain can see.
+- An optically restored eye doesn’t imply the ability to make full use of the visual signals.
+- In other words, just because the eye can see doesn’t mean the brain can see.
 - There were five subjects in this study and they were blind from birth due to cataracts or corneal opacities.
 - Prior to treatment, subjects were only able to discriminate between light and dark and none of them were able to perform visual discrimination.
-- Four subjects underwent cataract removal surgery and intraocular lens implant, while the other one subject underwent corneal transplant to fix their vision.
-- The object/stimulus set comprised of 20 pairs of simple 3D forms that were large to sidestep any acuity limitations.
+- Four subjects underwent cataract removal surgery and intraocular lens implant, while the one subject underwent a corneal transplant to fix their vision.
+- The object/stimulus set comprised of 20 pairs of simple and large 3D forms to sidestep any acuity limitations.
 - E.g. Big Legos.
 ![Figure 1](figure1-6.png)
-- There were three test cases
+- Three discrimination test cases
     1. Touch-to-touch
     2. Vision-to-vision
     3. Touch-to-vision
-- By day two of recovery from surgery, all subjects performed near ceiling for touch-to-touch and vision-to-vision, indicating that stimuli were easily discriminable in both modalities.
-- In contrast, touch-to-vision was at near chancel level right after surgery.
-- Three of the five subjects were later tested and performance on the touch-to-vision condition improved significantly in as little as five days, given only natural real-world visual experience.
-- Results suggest that the answer to the Molyneux problem is likely negative.
+- By day two of recovery from surgery, all subjects performed near-ceiling for touch-to-touch and vision-to-vision discriminations, indicating that stimuli were easily identified in both modalities.
+- In contrast, touch-to-vision was at near-chancel level right after surgery.
+- Three of the five subjects were later tested and performance on the touch-to-vision case improved significantly in as little as five days, given only natural real-world visual experience.
+- The results suggest that the answer to the Molyneux problem is likely negative.
 - Newly sighted people didn’t exhibit an immediate transfer of their tactile shape knowledge to the visual domain.
 - The quickness of pairing visual and tactile information suggests that the neuronal substrates responsible for cross-model interaction might already be in place before they behaviorally manifest.
-- Even in adulthood, studies with individuals with late-onset vision have suggested that the ability to form representations of new features is retained.
+- Even in adulthood, studies using individuals with late-onset vision have suggested that the ability to form representations of new features is retained.
 
 ## [The free-energy principle: a unified brain theory?](https://www.nature.com/articles/nrn2787)
 

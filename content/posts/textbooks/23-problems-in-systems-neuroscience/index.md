@@ -420,7 +420,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
         - Currently in neuroscience, there’s an emphasis on “telling a story”.
         - The way in which response properties are characterized can have a profound effect on the resulting theoretical framework that explains the results.
         - Most natural scenes aren’t littered with line terminations or short bars.
-![Figure 10.3](figure10-3.png)
+        ![Figure 10.3](figure10-3.png)
         - To property understand V1, we need to go beyond bottom-up filtering models and to think about the priors used by V1 or feedback from higher areas for interpreting images.
         - Our theories need to be guided by functional considerations rather than appealing to simplistic notions of feature detection that are suggested by a cherry-picked population of neurons recorded using reduced stimuli.
     4. Interdependence and contextual effects
@@ -465,7 +465,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
         - Thus, it’s reasonable to think that the visual cortex has evolved effective ways to parse images in terms of their 3D structure.
         - It’s surprising how little V1 physiology has actually been devoted to the subject of 3D surface representation.
         - There’s emerging evidence to support the idea that V1 resolves figure-ground relationships.
-![Figure 10.7](figure10-7.png)
+    ![Figure 10.7](figure10-7.png)
     - Top-down feedback and disambiguation
         - Looking back to figure 10.3, we can see that even the presence of a simple contour can be ambiguous in a natural scene.
         - The problem is that information at the local level is insufficient to determine whether a change in luminance is an object boundary, a part of texture, or a change in reflectance.
@@ -475,7 +475,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
         - Low-level features are useful for identifying an object but they can’t be directly computed based on a local analysis of an image.
         - Rather, they must be inferred based on global context and higher-level knowledge, but the global context isn’t clear until there’s some degree of certainty about the presence of low-level features.
         - E.g. Kanizsa Illusion.
-![Kansia Illusion](kanizsa-illusion.png)
+        ![Kansia Illusion](kanizsa-illusion.png)
         - Some theorists have argued that recognition depends on information circulating through corticocortical feedback loops to disambiguate representations at both levels in parallel.
         - But this doesn’t match our results of how we can recognize objects so quickly.
         - There’s a rich set of feedback connections from higher levels into V1, but little is known about the computational role of these connections.

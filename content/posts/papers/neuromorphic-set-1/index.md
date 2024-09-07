@@ -62,7 +62,7 @@ excerpt: "My notes on papers exploring a brain-inspired way of computing."
 - However, these operations aren’t the familiar AND and OR that’s used in computers.
 - If we try to fight them, to turn them into something familiar, then we make a mess.
 - Mahowald silicon retina model
-![Figure 2](figure2-2.png)
+    ![Figure 2](figure2-2.png)
     - The output of the circuit represents the difference between a center intensity and a weighted average of the intensities of surrounding points in the image.
     - The center-surround computation is sometimes referred to as a Laplacian filter and can be approximated by a difference in Gaussians.
     - This computation has been useful in helping computers localize objects because discontinuities in intensity frequently correspond to object edges.

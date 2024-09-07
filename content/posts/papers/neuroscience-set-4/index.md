@@ -330,7 +330,7 @@ excerpt: "My notes on 20 papers exploring the brain."
 - Paradigm cases of consciousness: empirical phenomena that are focused specifically on consciousness and not other co-occurring aspects.
     - E.g. The phenomenon must have both conscious and unconscious alternatives.
     - E.g. In masking, the target is perceived consciously under certain conditions and remains unconscious under other conditions.
-![Figure 2](figure2-9.png)
+    ![Figure 2](figure2-9.png)
     - To explain paradigm cases, ToCs need to show how changes in their mechanism explain changes from consciousness to unconsciousness.
     - It follows that introspection by itself doesn’t allow one to study paradigm cases of consciousness because by definition, we are unaware of the unconscious alternative.
     - All that’s needed for this criteria is the existence of conscious and unconscious states, and methods to contrast them.

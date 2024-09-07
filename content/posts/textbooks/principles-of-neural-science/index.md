@@ -2072,7 +2072,7 @@ Messengers
 - Rotational VOR
     - When the semicircular canals sense head rotation in one direction, the eyes rotate in the opposite direction.
     - A trisynaptic pathway, the three-neuron arc, connects each semicircular canal to the appropriate eye muscle.
-![Figure 27.11](figure27-11.png)
+    ![Figure 27.11](figure27-11.png)
     - This reflex is old in terms of evolution as many invertebrate and all vertebrates have the ability to reflexively rotate their eyes opposite to the direction of head rotation.
     - Horizontal semicircular canals → Vestibular nuclei and medial longitudinal fasciculus → Contralateral abducens nucleus → Cranial nerve VI → Eye muscles.
     - The trisynaptic pathway isn’t enough to compensate for head rotations as the afferent signals from the semicircular canals is proportional to head velocity, while compensatory eye movement requires eye position changes.
@@ -3070,7 +3070,7 @@ Messengers
     - The climbing- and mossy-fiber afferent systems encode and process different information.
         - Both systems form excitatory synapses with neurons in the deep cerebellar nuclei and in the cerebellar cortex.
         - However, they terminate in different layers of the cerebellar cortex, affect Purkinje cells through different patterns of synaptic convergence and divergence, and produce different electrical events in Purkinje cells.
-![Figure 37.8](figure37-8.png)
+        ![Figure 37.8](figure37-8.png)
         - Climbing fibers originate in the inferior olivary nucleus in the brain stem.
         - Each Purkinje neuron receives synaptic input from only one climbing fiber, but each climbing fiber contacts one to ten Purkinje cells.
         - Mossy fibers originate from cell bodies in the spinal cord and brain stem.
@@ -3082,7 +3082,7 @@ Messengers
         - In contrast, the high firing rates of the simple spikes in Purkinje cells can be modulated by mossy fiber inputs, thus encoding the magnitude and duration of peripheral stimuli or centrally generated behaviors.
     - The cerebellar microcircuit architecture suggests a canonical computation.
         - Since the cerebellar microcircuit is replicated across the surface of the cerebellar cortex, maybe the cortex performs the same basic computation on all of its inputs.
-![Figure 37.10](figure37-10.png)
+        ![Figure 37.10](figure37-10.png)
         - One general feature of cerebellar microcircuits is the existence of parallel excitatory and inhibitory pathways to Purkinje cells or deep cerebellar nuclei.
         - Another general feature is the prevalence of recurrent loops.
         - Stellate cells act locally since it and the Purkinje cell it inhibits are both excited by the same parallel fibers.
@@ -3211,7 +3211,7 @@ Messengers
         - This problem can be addressed by the concept of a decaying eligibility trace, which is the idea that rewarded actions change the state of neurons that enabled those actions, making them receptive to later widely broadcast reward signals.
         - There is evidence of this process within the basal ganglia.
         - The phasic activity of midbrain dopaminergic neurons provides a teaching signal for RL.
-![Figure 38.8](figure38-8.png)
+        ![Figure 38.8](figure38-8.png)
         - A particularly exciting finding was that basal ganglia reward responses resembled the reward prediction error term in RL, which lead many to conclude that phasic dopamine responses could be operating as the brain’s teaching signal in RL.
         - Using optogenetics, it’s now been established beyond reasonable doubt that phasic dopamine responses can signal both positive and negative reward prediction errors, and that these responses increase and decrease the probability that prior behavior will be selected.
         - Perhaps phasic dopamine acts by strengthening inputs onto direct pathway neurons and weakening inputs onto indirect pathway neurons.
@@ -3302,7 +3302,7 @@ Messengers
 ![Figure 39.4](figure39-4.png)
 - Two types of decoders
     - Discrete decoders estimate movement goals
-![Figure 39.5](figure39-5.png)
+    ![Figure 39.5](figure39-5.png)
     - Continuous decoders estimate moment-by-moment details of movements
 ![Figure 39.6](figure39-6.png)
 - Decoding accuracy typically increases with an increasing number of simultaneously recorded neurons.
@@ -3490,7 +3490,7 @@ Messengers
         - Lesions of all three lamina completely blocks dehydration and thirst, as well as secretion of vasopressin. Electrical stimulation of these structures elicits drinking.
         - Activation of excitatory glutamatergic neurons in the SFO and MnPO induces intense drinking in an otherwise water-satiated mouse within seconds.
         - Importantly, the behavior induced is specific to water drinking.
-![Figure 41.13](figure41-13.png)
+    ![Figure 41.13](figure41-13.png)
     - Energy balance and hunger drive are controlled by neurons in the arcuate nucleus.
         - As with temperature and water balance, energy balance is regulated by feedback signals from the body that modulate activity of key hypothalamic neurons, which then initiate adaptive changes in both physiology and behavior.
         - However, the regulation of energy balance differs.
@@ -4998,7 +4998,7 @@ Messengers
         - This observation also applies to hallucinations as the content of the hallucination is related to the specific area of activity.
         - These observations suggest that conscious experience may result from activity in certain cortical regions.
         - E.g. Frontal and parietal cortex.
-![Figure 59.5](figure59-5.png)
+    ![Figure 59.5](figure59-5.png)
     - Activity in a specialized area is necessary but not sufficient to yield conscious experience.
         - E.g. In unilateral neglect, objects still elicit neural activity in the visual cortex, but it may be that damage to the right parietal cortex simply prevents the formation of conscious representations of objects on the left side of space.
         - Stimuli that don’t enter awareness can also elicit overt responses.

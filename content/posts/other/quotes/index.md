@@ -13,7 +13,7 @@ A list of my favourite quotes that I've collected over the years.
 
 - Life is wasted on the living. - **Douglas Adams, The Restaurant at the End of the Universe**
 - Live and let live.
-- Many people die at twenty five and aren’t buried until they are seventy five. - **Benjamin Franklin**
+- Some people die at twenty five and aren’t buried until they are seventy five. - **Benjamin Franklin**
 - Blink, and then it's over. - **Slander & William Black, Back To U**
 - The days are long, but the years are short.
 - Life is too short to not be pursuing the best opportunity you know of.
@@ -24,11 +24,11 @@ A list of my favourite quotes that I've collected over the years.
 - "What happens after you die?" "Lot's of things happen after you die - they just don't involve you"
 - Don't cry because it's over, smile because it happened. - **Ludwig Jacobowski**
 - We all have two lives, the second one starts when you realize you only have one. - **Confucius**
-- Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.
+- Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. - **Jack London**
 - There's no point in living if you can't, at least occasionally, live.
 - Life - the way it really is - is a battle not between good and bad, but between bad and worse.
 - If you wait until you're ready, you'll be waiting for the rest of your life. - **Lemony Snicket, The Ersatz Elevator**
-- I'm not afraid of death. It's the stake one puts up in order to play the game of life.
+- I'm not afraid of death. It's the stake one puts up to play the game of life.
 - Have recently come to appreciate the awesome, absurdist humor of Waiting for Godot. We so often wait, without knowing why, when or where. - **Elon Musk**
 - It is possible to commit no mistakes and still lose. That is not a weakness, that is life.
 - Isn't it funny how day by day nothing changes but, when we look back everything is different. - **C.S Lewis**
@@ -57,6 +57,20 @@ A list of my favourite quotes that I've collected over the years.
 - One day you will do something the final time and you will rarely know when that day comes. - **Andrew Anabi**
 - It's hard to remember that this day will never come again. That the time is now and the place is here and that there are no second chances at a single moment. - **Jeanette Winterson**
 - I'll give you the hammer, you decide where to drive the nail. - **James Clear**
+- Things are the way we make them. - **Adrian Tchaikovsky, Children of Time**
+- We’re as ephemeral as raindrops. We all fall, and we all land somewhere. - **Robert Charles Wilson, Spin**
+- When you hold an acorn you hold in your hand the possibility of an oak tree, and not just a single oak but all the progeny of that oak for centuries upon centuries. Enough oak wood to build whole cities ... are cities made of oak? - **Robert Charles Wilson, Spin**
+- What we were transplanting this time was not biology but human history, and human history, Jase had said, burned like a fire compared to the slow rust of evolution. - **Robert Charles Wilson, Spin**
+- Mortality, a writer of my generation once said, trumps morality. - **Robert Charles Wilson, Spin**
+- Stoking memories like embers and warming herself at the heat. - **Robert Charles Wilson, Spin**
+- The young were still entitled to believe that the world’s problems always had clear solutions. - **Alastair Reynolds, Absolution Gap**
+- It is not enough that we do our best; sometimes we must do what is required. - **Winston Churchill**
+
+## Culture
+
+- This book is dedicated to anyone who has ever fallen in love with a culture that was devouring their own. - **Arkady Martine, A Memory Called Empire**
+- A region touched by the reaching hand of Teixcalaan but not yet subject to the weight of it. - **Arkady Martine, A Memory Called Empire**
+- They were wrong, but they did not discover this until the dawn of interstellar society. Then, expeditions started finding evidence of fallen cultures, ruined worlds, extinct species. There were an uncomfortably large number of them. - **Alastair Reynolds, Redemption Ark**
 
 ## Science
 
@@ -90,6 +104,13 @@ A list of my favourite quotes that I've collected over the years.
 - Even though most of us cannot separate science from superstition or technology from magic. - **Peter Thiel**
 - The drug of discovery.
 - I strongly believe that the only way to encourage innovation is to give it to the young. The young have a great advantage in that they are ignorant. Because I think ignorance in science is very important. If you’re like me and you know too much you can’t try new things. I always work in fields of which I’m totally ignorant. - **Sydney Brenner**
+- They’re playing the science game, not doing science. - **Erik Hoel, The Revelations**
+- Just like how new laws of physics were needed once you started looking at the very small and the very large, new laws might be needed once you start looking at the very complex. - **Erik Hoel, The Revelations**
+- I want to believe there is more to this world than we know. - **Erik Hoel, The Revelations**
+- How was science not just better eyes for seeing more of the spectrum, or smaller fingers for manipulating more accurately, sonic amplifiers for greater hearing, logic an extension of our primitive reasoning abilities, statistics to pick up on correlations in nature better than we naturally could, and so on—just tools to supplement our bodies so we could survive a bit better, a bit longer. - **Erik Hoel, The Revelations**
+- Diane had grabbed faith, Jason had grabbed science. And I had grabbed Jason and Diane. - **Robert Charles Wilson, Spin**
+- This is the most sophisticated technological artifact the Five Republics have produced, Tyler. - **Robert Charles Wilson, Spin**
+- The star was brighter than all the others in the sky, but it still looked like a star rather than a sun. - **Alastair Reynolds, Redemption Ark**
 
 ### Neuroscience
 
@@ -108,13 +129,25 @@ A list of my favourite quotes that I've collected over the years.
 - Change the eyes that look at the world, change the me does the looking? - **Peter Watts, Firefall**
 - [Direct stimulation of the visual cortex to induce hallucinations] That's how you can tell it wasn't. Since you don't actually see it, there's no messy eyeball optics to limit resolution. - **Peter Watts, Firefall**
 - Neurons only speak when spoken to; they don’t know why. - **Peter Watts, Firefall**
-- There is no red or green," said Teller. "All the colors we see are artificial; they're constructs of the mind. This beautiful rainbow of colors you see here on these felt-pens is, in reality, different shades of gray. - **Peter Cawdron, Anomaly**
+- There is no red or green. All the colors we see are artificial; they're constructs of the mind. This beautiful rainbow of colors you see here on these felt-pens is, in reality, different shades of gray. - **Peter Cawdron, Anomaly**
 - There are birds that migrate by the stars, bats that echolocate, bees that compute the variance of flower patches, spiders that spin webs, humans that speak, ants that farm, lions that hunt in teams, cheetahs that hunt alone, monogamous gibbons, polyandrous seahorses, polygynous gorillas. There are millions of animal species on earth, each with a different set of cognitive programs. The same basic neural tissue embodies all of these programs, and it could support many others as well. Facts about the properties of neurons, neurotransmitters, and cellular development cannot tell you which of these millions of programs the human mind contains. Even if all neural activity is the expression of a uniform process at the cellular level, it is the arrangement of neurons—into bird song templates or web-spinning programs—that matters. - **Steven Pinker, How the Mind Works**
 - To explain how birds fly, we invoke principles of lift and drag and fluid mechanics that also explain how airplanes fly. That does not commit us to an Airplane Metaphor for birds, complete with jet engines and complimentary beverage service. - **Steven Pinker, How the Mind Works**
 - But then we always suspected the cortex is a mere blanket for regulating the temperature of the crucial parts of the brain. And while some continue to protest that “the folds of human cortex are what makes us unique!”, they are denying the simple, near universally-accepted explanation — greater surface area improves heat dissipation. - **Mark Humphries, Review of 2019 in neuroscience**
 - Cogito ergo sum ('I think, therefore I am') - **Descartes**
 - The brain is a world consisting of a number of unexplored continents and great stretches of unknown territory. - **Santiago Ramon y Cajal**
 - The initial cause of any human action lies outside the person. - **Ivan Mikhailovich Sechenov**
+- Instead of promising to satisfy your curiosity in what concerns the anatomy of the brain, I do confess here sincerely and publicly that I know nothing of this matter. - **Matthew Cobb, The Idea of the Brain**
+- Long before art and science and philosophy arose, consciousness had but one function: not to merely implement motor commands, but to mediate between commands in opposition. - **Peter Watts, Firefall**
+- There is something it is like to be! - **Erik Hoel, The Revelations**
+- What a mighty thing, consciousness! What aspect of our world does it not touch? In science it shows itself across all hierarchies, all primary and all special sciences. It appears as the monarch of psychology with all other mental events its yoked subjects. - **Erik Hoel, The Revelations**
+- It is unlike, in kind, anything else in nature. It has a greater claim to existence than anything else. Consciousness is not the hypothesis. The outside world is the hypothesis. If you cannot accommodate consciousness in your natural order, then the natural order must expand. - **Erik Hoel, The Revelations**
+- Reading neuroscience textbooks had always given Kierk that creepy feeling of being a machine reading its own blueprints. - **Erik Hoel, The Revelations**
+- The current neuroscientific explanation for the effect is that memories are laid down in greater detail and in greater number during novel experiences, so it really just seems as if subjective time slows. But to Kierk this can’t be the entire explanation; rather, it has to be that each conscious moment is actually deeper, richer—there is a greater volume of consciousness. - **Erik Hoel, The Revelations**
+- In which case the amount of time experienced is a function of the richness of the experience. - **Erik Hoel, The Revelations**
+- The brain, restored and rewired, became a subtly different organ. And its owner became a subtly different human being. - **Robert Charles Wilson, Spin**
+- It was like a picture of an impossible solid, one of those warped triangles or ever-rising staircases; a thing that looked plausible enough at first glance but which on closer inspection produced the effect of a knife twisting in a particular part of the brain—an area responsible for handling representations of the external universe, ah area that handled the mechanics of what did and didn’t work. - **Alastair Reynolds, Absolution Gap**
+- 'Memory, Khouri. Memory being laid down instantaneously. The dream felt real, but it was created in an instant when the dog began licking your face. Back-constructed. You never actually lived through it. It's the same with these memories.' - **Alastair Reynolds, Revelation Space**
+- The complexity of the human brain, in its construction and function, has limited our ability to understand it. - **Yasemin Saplakoglu**
 
 ### Artificial Intelligence
 
@@ -133,6 +166,7 @@ A list of my favourite quotes that I've collected over the years.
 - But in all cases communication is about projecting information. Man is the only animal that uses an intermediary form for communication, something static that forms a kind of intellectual echo, whether that's a book or text on a computer screen, art hanging in a gallery or a play shown on the television, the principle is the same. The act of capturing communication, storing it and reusing it is a hallmark of intelligence, and I think they'll appreciate that. - **Peter Cawdron, Anomaly**
 - Senkovi’s personal theory was that the pressure of being in the middle of the food chain was an essential prerequisite for complex intelligence. Like humans (and like Portiid spiders, had he only known), octopuses had developed in a world where they were both hunter and hunted. Top predators, in Senkovi’s assessment, were an intellectual dead end. - **Adrian Tchaikovsky, Children of Ruin**
 - I wonder, briefly, if I’m going to have to go in there. And it occurs to me that until someone licks AI, this is why NASA needs monkeys in space. To make stupid monkey decisions like these. - **Hugh Howey, Beacon 23**
+- They had never encountered another extant machine-using intelligence, nothing to measure themselves against. Until now. - **Alastair Reynolds, Redemption Ark**
 
 ## Dreams
 
@@ -153,6 +187,7 @@ A list of my favourite quotes that I've collected over the years.
 - Hope is like a road in the country; there was never a road, but when many people walk on it, the road comes into existence. - **Lu Xun**
 - One day you will wake up and there won’t be any more time to do the things you’ve always wanted. Do it now. - **Paulo Coelho**
 - Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for. - **Epicurus**
+- Words like anchors, tethering boats of memory that would otherwise be scuttled by the storm. - **Robert Charles Wilson, Spin**
 
 ## Identity
 
@@ -199,7 +234,6 @@ A list of my favourite quotes that I've collected over the years.
 - Remember you’ll always regret what you didn't do rather than what you did.
 - I want to know who they were, help them be who they are, and be there for who they will be.
 - These mountains that you are carrying, you were only supposed to climb. - **Najwa Zebian**
-- Some people die at 25 and aren't buried until 75. - **Benjamin Franklin**
 - Each time you do something generous, you’re shaping yourself into someone who’s more likely to be generous next time, and that matters. - **Ted Chiang, Exhalation**
 - They're artists of information, and each data point adds a bit more pigment to their accumulating portrait of you. - **David Eagleman, Sum**
 - The knowledge that you cannot appreciate the destination without knowing the starting point. - **David Eagleman, Sum**
@@ -219,6 +253,9 @@ A list of my favourite quotes that I've collected over the years.
 - The world will ask you who you are, and if you don't know, the world will tell you. - **Carl Jung**
 - Create your life rather than live it. - **James Clear**
 - You're like my own children, adults before I had time to know them as kids. - **Brandon Sanderson, The Hero of Ages**
+- Besides, it was beneficial to have a reputation for honesty, if only so that one could lie at crucial moments. - **Brandon Sanderson, Elantris**
+- Modern life is a path that we must chart on our own. - **Logan Ury, How to Not Die Alone**
+- If we’re in charge, then we have only ourselves to blame. We could fail, and then it would be our fault. - **Logan Ury, How to Not Die Alone**
 
 ## Mastery
 
@@ -270,6 +307,8 @@ A list of my favourite quotes that I've collected over the years.
 - We are built to make mistakes, coded for error. We learn, as we say, by "trial and error." - **Lewis Thomas, The Medusa and the Snail**
 
 ## Relationships
+
+- Great relationships are built, not discovered. - **Logan Ury, How to Not Die Alone**
 
 ### Romantic
 
@@ -326,6 +365,10 @@ A list of my favourite quotes that I've collected over the years.
 - Because he already had his life together and going, I would just be an add on. Had a good job, money, car, beautiful house, he was beautiful but it just didn’t feel right. Maybe it was weird of me at the time, I just felt that I wanted to build a life with. - **Reddit**
 - The qualities we look for in dating are different than the qualities we looks for in marriage.
 - I think it has to do with wanting a physical connection but not necessarily the hard work that goes into a romantic relationship.
+- Love takes work—from finding it to keeping it alive. - **Logan Ury, How to Not Die Alone**
+- The magic lies in the fact that two strangers come together and create a life. It’s not important where or how they met. - **Logan Ury, How to Not Die Alone**
+- If you’re not going on dates, you’re not getting closer to knowing the kind of person you want to be with long term. - **Logan Ury, How to Not Die Alone**
+- One easy way to estimate someone’s loyalty is to see if they have friends from different stages of their lives. How many old friendships have they carried with them over the years? In general, old friendships indicate loyalty. - **Logan Ury, How to Not Die Alone**
 
 ### Loneliness
 
@@ -400,6 +443,7 @@ A list of my favourite quotes that I've collected over the years.
 - What you risk reveals what you value. - **Jeanette Winterson**
 - Boredom is the awareness of time passing. - **Heidegger**
 - A smart man learns from his mistakes. But a wise man learns from the mistakes of others.
+- They look but they do not see. - **Robert Charles Wilson, Spin**
 
 ## Funny
 
@@ -441,6 +485,9 @@ A list of my favourite quotes that I've collected over the years.
 - Women age like milk, men age like wine.
 - I've taught you everything you know, not everything I know.
 - You can't be ugly and play hard to get, you're already hard to want.
+- If it burns, it isn’t healthy. - **Brandon Sanderson, Elantris**
+- Valensin pointed at the reefersleep casket. “You climb into that box one more time, we might as well paint it black and put handles on it.” - **Arkady Martine, A Memory Called Empire**
+- The enemy of my enemy is my enemy, but they took out my enemy for me. Time to get away. **YouTube Comment on The Three Body Problem**
 
 ## Money
 
@@ -501,3 +548,4 @@ A list of my favourite quotes that I've collected over the years.
 - I never desire to converse with a man who has written more than he has read. - **Samuel Johnson**
 - Crispy is the front of your teeth, crunchy is the back of your teeth.
 - Our problem-solving skills can often be overshadowed by our problem-creating abilities.
+- Never speak unless your words are more beautiful than silence.

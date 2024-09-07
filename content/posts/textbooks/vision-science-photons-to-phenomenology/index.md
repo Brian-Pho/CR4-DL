@@ -467,7 +467,7 @@ excerpt: "An interdisciplinary approach to all topics related to vision."
     - How do colors combine?
     - It depends on whether one mixes light or paint.
     - For mixing light, it’s simple. When mixing light A with light B, the resulting color lies on the line connecting A and B in color space, depending on the proportions of A and B.
-![Figure 3.2.1](figure3-2-1.png)
+    ![Figure 3.2.1](figure3-2-1.png)
     - E.g. For lights of complementary colors, mixing them produces achromatic/white light because they’re on opposite sides of the color circle and the line crosses the center point.
     - If three colors are mixed, then the resulting color lies on the triangular plane connecting A, B, and C.
     - E.g. If red, blue, and green are mixed, then we can produce most of the colors in the color space by varying their relative amounts. Exceptions include highly saturated yellows, purples, and blue-greens.
@@ -498,7 +498,7 @@ excerpt: "An interdisciplinary approach to all topics related to vision."
     - The three types of receptors respond differently to different wavelengths of photons.
     - E.g. Short wavelengths for blue, medium wavelengths for green, and long wavelengths for red.
     - Each receptor’s sensitivity to wavelength overlaps and any given wavelength stimulates the three-receptor system to different degrees.
-![Figure 3.2.8](figure3-2-8.png)
+    ![Figure 3.2.8](figure3-2-8.png)
     - Thus, the pattern of activation across the three receptor types determines the perceived color.
     - This theory accounts for many important phenomena of color vision.
     - E.g. The three dimensions of color space match the existence of the three types of receptors. Metamers are explained as the same pattern of activation produced by many physically distinct combinations of wavelengths. Color blindness is explained as the absence of one of the receptor types.
@@ -514,7 +514,7 @@ excerpt: "An interdisciplinary approach to all topics related to vision."
 - Dual process theory
     - We can combine the trichromatic and opponent process theories into a two-stage theory of color vision called dual process theory.
     - Both theories are correct, but for different stages of visual processing.
-![Figure 3.2.11](figure3-2-11.png)
+    ![Figure 3.2.11](figure3-2-11.png)
     - Both stages of the dual process theory are now known to occur in the retina but importantly, the theorizing was done before the relevant physiology was known.
     - This was, in part, due to technological limitations as it was easier to perform behavioral experiments than to dissect the retina.
     - Another factor is that it’s generally easier to work from the abstract functional level downward to the physical implementation than in the reverse direction.
@@ -743,14 +743,14 @@ excerpt: "An interdisciplinary approach to all topics related to vision."
 - Spatial Frequency Theory
     - Instead of using edges and lines as the unit of vision, this theory uses sinusoidal grating.
     - Sinusoidal grating: 2D patterns where luminance changes according to a sine wave.
-![Figure 4.2.1](figure4-2-1.png)
+    ![Figure 4.2.1](figure4-2-1.png)
     - Each sinusoidal grating can be specified by four parameters: spatial frequency (width), orientation (angle), amplitude (contrast), and phase (position).
     - It seems odd to use sinusoidal gratings as primitives because we don’t experience anything like them when looking at naturally occurring scenes, but there’s no reason to suppose that the primitive elements in early spatial vision are conscious.
     - E.g. We don’t experience tiny points of color from the three cone types, we experience a uniform colored surface.
     - One reason to use sinusoidal gratings is because they can be analyzed using Fourier analysis.
     - Any 2D luminance image can be decomposed into the sum of a set of sinusoidal gratings that differ by spatial frequency, orientation, amplitude, and phase.
     - The gratings with low spatial frequency tend to carry the image outline while the gratings with high spatial frequency tend to carry the image details.
-![Figure 4.2.4](figure4-2-4.png)
+    ![Figure 4.2.4](figure4-2-4.png)
     - No notes on Fourier analysis power and phase spectrum.
     - Fourier analysis provides a general method of decomposing complex images into primitive components.
     - However, mathematical power and elegance alone aren’t convincing arguments that the visual system does anything like a Fourier analysis.
@@ -760,7 +760,7 @@ excerpt: "An interdisciplinary approach to all topics related to vision."
     - There is a great deal of evidence supporting this theory.
     - E.g. When people stared at a sinusoidal grating for a long time, their visual system adapted only to that grating’s specific orientation and frequency and not to others.
     - E.g. Discriminating between a sine wave grating and a square wave grating has the same contrast threshold as discriminating between a uniform field and a sine wave grating.
-![Figure 4.2.9](figure4-2-9.png)
+    ![Figure 4.2.9](figure4-2-9.png)
     - It seems that infants are overall less sensitive to gratings and may only see a rough sketch of the image without its details.
 - If psychophysical channels exist as suggested by these experiments, then they must be implemented somewhere in the visual nervous system.
 - Integrating the cells discovered by Hubel and Wiesel with the spatial frequency theory suggests that simple and complex cells perform local spatial frequency analysis.
@@ -783,7 +783,7 @@ excerpt: "An interdisciplinary approach to all topics related to vision."
     - The output of the retina is essentially the convolution of the cell’s receptive field with the image.
     - No notes on the convolution operation (multiply, add, slide window).
     - Computing the convolution of an image with an edge operator is just a sequential version of what a sheet of cells would compute in parallel.
-![Figure 4.3.3](figure4-3-3.png)
+    ![Figure 4.3.3](figure4-3-3.png)
     - The visual system calculates convolutions much faster than computers by implementing the computation in parallel hardware.
     - E.g. The retina uses the connections between layers of neurons to compute the convolution at each location.
     - These local edge detectors are first-order differential operators, but we can use more complicated local edge detectors to produce second-order differential operators.
@@ -794,10 +794,10 @@ excerpt: "An interdisciplinary approach to all topics related to vision."
     - Marr and Hildreth argued against using only first-order operators because they must be computed at every possible orientation and position, which is computationally wasteful.
     - Instead, they proposed that a more economical algorithm for detecting edges is to detect zero-crossings of the second derivative of the luminance function.
     - The second derivative is just the slope of the first derivative and is calculated by simply repeating the differential procedure but on the first derivative instead of the image.
-![Figure 4.3.4](figure4-3-4.png)
+    ![Figure 4.3.4](figure4-3-4.png)
     - The zero-crossing of the second derivative is equivalent to the maximum of the first derivative but comes with the advantage that the second derivative of a 2D image can be computed in all orientations simultaneously by a single 2D operator.
     - That the second derivative for all orientations can be collapsed into a single operator makes this scheme much more computationally efficient and looks similar to the center-surround receptive field of retinal ganglion and LGN cells.
-![Figure 4.3.7](figure4-3-7.png)
+    ![Figure 4.3.7](figure4-3-7.png)
     - One challenge for edge detection theories is that luminance edges occur at different scales with some changes being slow over broad regions and others being rapid changes over small regions.
     - Marr and Hildreth also paid careful attention to how their edge and line detection algorithms might be implemented in neural hardware.
     - They suggested that oriented edge detector cells in striate cortex are actually zero-crossing detectors.
@@ -922,7 +922,7 @@ excerpt: "An interdisciplinary approach to all topics related to vision."
 - Important for depth perception are the focus of the lens (accommodation) and the angle between the two eyes’ line of sight (convergence).
 - Accommodation: the process of using the ciliary muscles in the eye to control optical focus by temporarily changing the eye lens’s shape.
     - The lens of the eye can become thinner or thicker depending on the object’s distance.
-![Figure 5.2.1](figure5-2-1.png)
+    ![Figure 5.2.1](figure5-2-1.png)
     - If the visual system has information about tension from the muscles that control the lens’s shape, then it has information about the distance to the focused object.
     - However, accommodation is a weak source of depth information as observers are notoriously poor at using it to make direct judgments about distance.
     - E.g. Accommodation is used to compute the perceived size of an object at close range, but beyond 6-8 feet it provides little to no depth information.
@@ -1017,11 +1017,11 @@ excerpt: "An interdisciplinary approach to all topics related to vision."
         - Parallel lines in a 3D environment don’t project as parallel lines in a 2D image.
         - Instead, parallel 3D lines converge toward a vanishing point on the horizon for 2D images.
         - E.g. The parallel lines of train tracks.
-![Figure 5.5.5](figure5-5-5.png)
+    ![Figure 5.5.5](figure5-5-5.png)
     - Position relative to the horizon
         - Objects located higher in the picture plane (closer to the horizon) are farther away from the observation point.
         - In general, for all objects on a level plane, the ones closer to the horizon in the picture plane are perceived as farther away.
-![Figure 5.5.6](figure5-5-6.png)
+    ![Figure 5.5.6](figure5-5-6.png)
     - Relative size
         - All else being equal, more distant objects project smaller images onto the retina.
         - This requires knowing the size of the object because you can’t tell if you’re looking at a smaller nearby object or a larger far object.
@@ -1045,7 +1045,7 @@ excerpt: "An interdisciplinary approach to all topics related to vision."
             - Depth edge: discontinuities in depth.
             - Illumination edge: discontinuities in the amount of light falling on a homogeneous surface.
             - Reflectance edge: a change in the light-reflecting properties of the surface material.
-![Figure 5.5.16](figure5-5-16.png)
+        ![Figure 5.5.16](figure5-5-16.png)
         - How does the visual system know which type an edge is?
         - Orientation and depth edges are mutually exclusive and a theory of edge interpretation explains a process of how to label every edge.
         - Surprisingly little effort has been directed at testing the predictions of computational theories of edge interpretation.
@@ -1053,14 +1053,14 @@ excerpt: "An interdisciplinary approach to all topics related to vision."
         - Shading: variations in the amount of light reflected from the surface due to variations in the orientation of the surface relative to a light source.
         - Shading provides information about surface orientation.
         - One heuristic assumption the brain makes for shading is that illumination comes from above.
-![Figure 5.5.28](figure5-5-28.png)
+        ![Figure 5.5.28](figure5-5-28.png)
         - This assumption makes sense because our visual environment almost always is illuminated from above.
         - E.g. The Sun.
         - Current computational approaches can solve simplified cases of shading but not for naturalistic images.
         - E.g. Images with multiple sources of illumination due to reflection and surfaces with different specular properties such as glossy or matte.
         - Depth information from shading is further complicated by cast shadows.
         - Cast shadows: shadows of one object that fall on the surface of another.
-![Figure 5.5.30](figure5-5-30.png)
+    ![Figure 5.5.30](figure5-5-30.png)
     - Aerial perspective
         - Farther objects appears fuzzier and bluish because the atmosphere distorts light coming from them.
         - Again, this provides some depth information given the assumption that the atmosphere affects light at a distance.
@@ -1255,7 +1255,7 @@ excerpt: "An interdisciplinary approach to all topics related to vision."
         - Edge discontinuity: an abrupt change in the direction of a contour.
         - E.g. The corners of a square.
         - Hidden contours are perceived when the edges leading into discontinuities are relatable to others.
-![Figure 6.4.4](figure6-4-4.png)
+        ![Figure 6.4.4](figure6-4-4.png)
         - Edges can fail to relate if their extensions don’t intersect at all.
 - Illusory contours: when visual interpolation results in contours that don’t exist in the stimulus image.
 ![Figure 6.4.6](figure6-4-6.png)
@@ -1545,7 +1545,7 @@ excerpt: "An interdisciplinary approach to all topics related to vision."
     - A powerful argument in favor of templates is that they must be used at some point in visual processing to convert spatially structured images into symbolic representations.
     - There’s a strong case that they’re used by receptive fields to detect lines and edges, but it also might extend to shapes and objects.
     - But templates run into problems because they’re defined for each visual feature and thus difficult to generalize.
-![Figure 8.2.2](figure8-2-2.png)
+    ![Figure 8.2.2](figure8-2-2.png)
     - The general problem is that there are many different visual channels through which the contours of a square can be presented.
     - One inelegant solution is to create a template for each visual feature. Another solution is to define templates at a more abstract level in the visual system.
     - This runs into the second problem where templates aren’t invariant to spatial transformations.
@@ -1692,7 +1692,7 @@ excerpt: "An interdisciplinary approach to all topics related to vision."
     - Objects are specified as spatial arrangements of primitive volumetric components.
     - The primitive components are then matched to the primitive components of object categories.
     - Geons (geometric ions): a small set of generalized cylinders that can represent a huge number of objects.
-![Figure 9.3.1](figure9-3-1.png)
+    ![Figure 9.3.1](figure9-3-1.png)
     - RBC proposes that geons are identified directly from image-based features such as edges and vertices.
     - Complex objects are thought of as configurations of two or more geons in a particular spatial arrangement, which encodes both the geons present and their spatial relations.
     - Once an object has been represented by its component geons and spatial relations, the problem of object categorization reduces down to matching the structural description of that object with entries in a category.
@@ -1742,7 +1742,7 @@ excerpt: "An interdisciplinary approach to all topics related to vision."
 - This is known as the word superiority effect.
 - Interactive activation (IA) model
     - Starts with a multilayer connectionist network of artificial neurons and synapses.
-![Figure 9.4.6](figure9-4-6.png)
+    ![Figure 9.4.6](figure9-4-6.png)
     - The network has feedback loops so the pattern of activation changes over time and eventually converges to a stable pattern.
     - The connections are either excitatory or inhibitory.
     - The goal of the model is to simulate the perceptual processes that underlie letter and word categorization such that the pattern of activation corresponds to perception.

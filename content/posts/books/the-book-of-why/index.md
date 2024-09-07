@@ -217,7 +217,7 @@ excerpt: "The new science of cause and effect."
 - Model-driven approach
     - The first key point is that experience depends on education since time spent on education is time not spent gaining experience.
     - The table doesn't capture this data so we start with a causal diagram.
-![Figure 8.3](figure8-3.png)
+    ![Figure 8.3](figure8-3.png)
     - If experience was a cause of education, then experience would be a confounder and matching based on experience would be valid.
     - But the diagram shows experience as a mediator so we must not adjust it.
     - Don't mistake a mediator for a confounder.

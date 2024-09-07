@@ -30,7 +30,9 @@
 11. Review and fix errors.
 
 - Replace "\. \n" with ".\n" and replace "\? \n" with "?\n" for notes written on mobile (it auto-adds space after period).
-- VS Code Replace "- (.*[^*]):" with "-*$1*:".
+- VS Code Replace
+    - Definitions: "- (.*[^*]):" with "-*$1*:"
+    - Images "\n(!\[.*\))\n(\s+)-" with "\n$2$1\n$2-"
 - Replace double spaces "  " with single space " "
 - Autofix all markdown violations using VSCode
 

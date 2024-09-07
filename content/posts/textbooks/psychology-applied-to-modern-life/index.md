@@ -117,7 +117,7 @@ excerpt: "An introduction to the field of psychology."
         - *Conscious*: whatever one is aware of at a particular point in time.
         - *Preconscious*: material just beneath the surface of awareness that can be easily retrieved.
         - *Unconscious*: thoughts, memories, and desires that are well below the surface of conscious awareness but that influence your behavior.
-![Figure 2.2](figure2-2.png)
+    ![Figure 2.2](figure2-2.png)
     - Freud argued that behavior is the outcome of an ongoing internal conflict between the id, ego, and superego.
     - *Defense mechanism*: unconscious reactions that protect a person from painful emotions.
         - *Rationalization*: creating false but plausible excuses to justify unacceptable behavior.
@@ -392,7 +392,7 @@ excerpt: "An introduction to the field of psychology."
     - A useful way of dealing with stress is to change your judgement/appraisal of the events.
     - The core idea to this approach is that you feel the way you think.
     - Emotional reactions are caused by the ways people think about stressful events, and not caused by the event itself.
-![Figure 4.7](figure4-7.png)
+    ![Figure 4.7](figure4-7.png)
     - Most people don’t understand the importance of the B or belief phase.
     - *Catastrophic thinking*: unrealistic appraisals of stress that exaggerate the magnitude of the problem.
     - One way to avoid catastrophic thinking is to question your assumptions and to replace it with a more rational analysis.
@@ -1444,7 +1444,7 @@ excerpt: "An introduction to the field of psychology."
             - *Psychological demands*: how hard is the work?
             - *Decision control*: how much say do you have in the work?
         - Stress is greatest in jobs with high psychological demands and low decision control.
-![Figure 13.9](figure13-9.png)
+        ![Figure 13.9](figure13-9.png)
         - Three paths for dealing with occupational stress
             - *Individual level*: modifying worker’s ways of coping with stress.
             - *Organizational level*: redesigning the work environment itself.
