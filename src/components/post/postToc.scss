@@ -1,8 +1,8 @@
 @import "../../assets/scss/variables";
-@import "~bootstrap/scss/functions";
-@import "~bootstrap/scss/variables";
-@import "~bootstrap/scss/mixins";
-@import "~tocbot/src/scss/tocbot";
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/mixins";
+@import "tocbot/src/scss/tocbot.scss";
 
 .post-toc {
   top: 0;

@@ -35,6 +35,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sass`,
       options: {
+        sassOptions: {
+          includePaths: ["node_modules/"],
+        },
         cssLoaderOptions: {
           esModule: false,
           modules: {
