@@ -65,6 +65,17 @@ A list of my favourite quotes that I've collected over the years.
 - Stoking memories like embers and warming herself at the heat. - **Robert Charles Wilson, Spin**
 - The young were still entitled to believe that the world’s problems always had clear solutions. - **Alastair Reynolds, Absolution Gap**
 - It is not enough that we do our best; sometimes we must do what is required. - **Winston Churchill**
+- You want an answer, the answer is you need to walk down the road to see where it goes. Life rarely makes itself clear, so if you wait for the perfect solution you will just keep on waiting. - **Reddit**
+- Some lessons have to be experienced to be learned. - **James Clear**
+- Live now, not later.
+- The worthwhile run is never the short one. - **M.L. Wang, Blood Over Bright Haven**
+- Old and young, we are all on our last cruise. - **Robert Louis Stevenson**
+- The hardest battles are given to the strongest soldiers.
+- If there is no wind, row. - **Latin adage**
+- Every man dies, not every man truly lives. - **Braveheart 1995**
+- Those who were seen dancing were thought to be insane by those who could not hear the music. - **Friedrich Nietzsche**
+- Some people choose to see the ugliness in this world. I choose to see the beauty. - **Dolores Abernathy, Westworld**
+- Who's the person you're afraid you're becoming?
 
 ## Culture
 
@@ -111,6 +122,7 @@ A list of my favourite quotes that I've collected over the years.
 - Diane had grabbed faith, Jason had grabbed science. And I had grabbed Jason and Diane. - **Robert Charles Wilson, Spin**
 - This is the most sophisticated technological artifact the Five Republics have produced, Tyler. - **Robert Charles Wilson, Spin**
 - The star was brighter than all the others in the sky, but it still looked like a star rather than a sun. - **Alastair Reynolds, Redemption Ark**
+- The eternal mystery of the world is its comprehensibility. - **Albert Einstein**
 
 ### Neuroscience
 
@@ -167,13 +179,15 @@ A list of my favourite quotes that I've collected over the years.
 - Senkovi’s personal theory was that the pressure of being in the middle of the food chain was an essential prerequisite for complex intelligence. Like humans (and like Portiid spiders, had he only known), octopuses had developed in a world where they were both hunter and hunted. Top predators, in Senkovi’s assessment, were an intellectual dead end. - **Adrian Tchaikovsky, Children of Ruin**
 - I wonder, briefly, if I’m going to have to go in there. And it occurs to me that until someone licks AI, this is why NASA needs monkeys in space. To make stupid monkey decisions like these. - **Hugh Howey, Beacon 23**
 - They had never encountered another extant machine-using intelligence, nothing to measure themselves against. Until now. - **Alastair Reynolds, Redemption Ark**
+- ChatGPT is really a reflection of human intelligence that's shared on the internet. - **Yejin Choi, Quanta Magazine**
+- There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors.
 
 ## Dreams
 
 - We’re still pioneers, we’ve barely begun. Our greatest accomplishments cannot be behind us, cause our destiny lies above us. - **Cooper, Interstellar**
 - We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt. - **Cooper, Interstellar**
 - A ship in port is safe, but that is not what ships are built for. - **John A. Shedd, Salt from My Attic**
-- Sometimes it's the very people who no one imagines anything of who do the things no one can imagine. - **The Imitation Game**
+- Sometimes it's the very people who no one imagines anything of, who do the things no one can imagine. - **The Imitation Game**
 - You have been so focused on what's ahead of you that you never looked what was above you. - **Mr. Robot**
 - Men ahead of their time were always, by definition, outside of it.
 - I didn't come this far to only come this far. - **Fearless Motivation**
@@ -248,7 +262,7 @@ A list of my favourite quotes that I've collected over the years.
 - Kelsier always wanted me to be a general—I think, deep down, he thought that befriending people was inferior to leading them. - **Brandon Sanderson, The Well of Ascension**
 - They became servants, lest they end up as slaves. - **Brandon Sanderson, The Hero of Ages**
 - You hate change. I hate it too. But things can't stay the same—and that's well, for when nothing changes in your life, it's as good as being dead. - **Brandon Sanderson, The Hero of Ages**
-- A man can take it off, Lady Marasi. But he can never stop wearing it. - **Brandon Sanderson, The Alloy of Law**
+- A man can take it [the uniform] off, Lady Marasi. But he can never stop wearing it. - **Brandon Sanderson, The Alloy of Law**
 - Yes, He hurt Wax. He hurt him badly. But He put the pain where He knew it could be borne. - **Brandon Sanderson, Shadows of Self**
 - The world will ask you who you are, and if you don't know, the world will tell you. - **Carl Jung**
 - Create your life rather than live it. - **James Clear**
@@ -305,10 +319,17 @@ A list of my favourite quotes that I've collected over the years.
 - Almost everybody can stay excited for 2 or 3 months. A few people can stay excited for 2 or 3 years. But a winner will stay excited for 30 years or however long it takes to win. - **Art Williams**
 - I long to accomplish a great and noble task; but it is my chief duty and joy to accomplish humble tasks as though they were great and noble. The world is moved along, not only by the mighty shoves of its heroes, but also by the aggregate of the tiny pushes of each honest worker. - **Helen Keller**
 - We are built to make mistakes, coded for error. We learn, as we say, by "trial and error." - **Lewis Thomas, The Medusa and the Snail**
+- The test of a student is not how much he knows, but how much he wants to know. - **Alice Wellington Rollins**
+- I am always doing what I can't do yet in order to learn how to do it. - **Vincent Van Gogh**
+- Past successes are no index to the future. - **William James**
 
 ## Relationships
 
 - Great relationships are built, not discovered. - **Logan Ury, How to Not Die Alone**
+- Don't try to change anyone. Change how you deal with them.
+- The saddest part of life is when the person that gave the best memories becomes a memory - **YouTube**
+- It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace. - **Chuck Palahniuk**
+- The cheapest woman tends to be the one you pay for. - **Jack Reacher**
 
 ### Romantic
 
@@ -369,6 +390,12 @@ A list of my favourite quotes that I've collected over the years.
 - The magic lies in the fact that two strangers come together and create a life. It’s not important where or how they met. - **Logan Ury, How to Not Die Alone**
 - If you’re not going on dates, you’re not getting closer to knowing the kind of person you want to be with long term. - **Logan Ury, How to Not Die Alone**
 - One easy way to estimate someone’s loyalty is to see if they have friends from different stages of their lives. How many old friendships have they carried with them over the years? In general, old friendships indicate loyalty. - **Logan Ury, How to Not Die Alone**
+- "How do you move on?" You move on when your heart finally understands that there is no turning back. - **JRR Tolkien**
+- Sometimes, it isn't the one who takes your breath away, it's the one that reminds you to breathe. - **Jennifer Johnson**
+- The stars belong to you my love ... I wish I could have given them to you. - **YouTube**
+- May you attract someone who speaks your language so you don't have to spend a lifetime translating your soul.
+- I did it because I wanted to. I gave myself for my love. I have no regrets. - **Reddit**
+- Don't wait until I die to love me.
 
 ### Loneliness
 
@@ -444,6 +471,8 @@ A list of my favourite quotes that I've collected over the years.
 - Boredom is the awareness of time passing. - **Heidegger**
 - A smart man learns from his mistakes. But a wise man learns from the mistakes of others.
 - They look but they do not see. - **Robert Charles Wilson, Spin**
+- A smart man learns from his mistakes. But a wise man learns from the mistakes of others.
+- You may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself; because only through ordering what you know by comparing every truth with every other truth can you take complete possession of your knowledge and get it into your power. - **Arthur Schopenhauer**
 
 ## Funny
 
@@ -487,7 +516,13 @@ A list of my favourite quotes that I've collected over the years.
 - You can't be ugly and play hard to get, you're already hard to want.
 - If it burns, it isn’t healthy. - **Brandon Sanderson, Elantris**
 - Valensin pointed at the reefersleep casket. “You climb into that box one more time, we might as well paint it black and put handles on it.” - **Arkady Martine, A Memory Called Empire**
-- The enemy of my enemy is my enemy, but they took out my enemy for me. Time to get away. **YouTube Comment on The Three Body Problem**
+- The enemy of my enemy is my enemy, but they took out my enemy for me. Time to get away. - **YouTube Comment on The Three Body Problem**
+- Me and my work bestie laughing because we told our coworker that she swallowed too many kids and that's why everything out her mouth sounds childish and now we have a meeting with HR. - **TikTok**
+- Accidently became important at work and now its ruining my life.
+- Garage-to-billionaire pipeline.
+- They insist that the socks lost in the dryer are being sacrificed to the laundry gods for good fortune, and frankly, I'm starting to believe it too.
+- We are all the same height in bed. - **Reddit**
+- Reduce plastic but use more trees, reduce paper but use more plastic. - **Reddit**
 
 ## Money
 
@@ -502,6 +537,7 @@ A list of my favourite quotes that I've collected over the years.
 - That money is only useful if you buy goods and services with it. So much of this sub just wants a fancy funeral or something. - **Reddit**
 - When you buy something cheap and bad, the best you’re going to feel about it is when you buy it. When you buy something expensive and good, the worst you’re going to feel about it is when you buy it. - **Sasha Aickin Grandmother**
 - Money plays an important role in life, but it can't be the only filter for how you decide to spend your time. Nobody will ever pay you to go on a date with your spouse or take your kids to the park or grab coffee with your parents. - **James Clear**
+- In the west, if you buy luxury when you can't afford it to try and gain admiration, it's not admiration you get but pity for such obvious displays of wealth when you can't actually afford it. - **Reddit**
 
 ## Other
 
@@ -549,3 +585,5 @@ A list of my favourite quotes that I've collected over the years.
 - Crispy is the front of your teeth, crunchy is the back of your teeth.
 - Our problem-solving skills can often be overshadowed by our problem-creating abilities.
 - Never speak unless your words are more beautiful than silence.
+- But don't tell no lie about me, and I won't tell truths 'bout you. - **Kendrick Lamar**
+- Books hold most of the secrets of the world, most of the thoughts that men and women have had. And when you are reading a book, you and the author are alone together—just the two of you. A library is a good place to go when you feel unhappy, for there, in a book, you may find encouragement and comfort. A library is a good place to go when you feel bewildered or undecided, for there, in a book, you may have your question answered. Books are good company, in sad times and happy times, for books are people—people who have managed to stay alive by hiding between the covers of a book. - **EB White**
